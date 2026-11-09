@@ -1,0 +1,48 @@
+{
+  "code": "301687.SZ",
+  "names": [
+    "新广益"
+  ],
+  "signal_ids": [
+    "sig-0260"
+  ],
+  "buy_points": [
+    77.66
+  ],
+  "signal_date": "2026-06-22",
+  "days": [
+    {
+      "date": "2026-06-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bb5d795e095c977e86eed31e6e4acd2f99b885bce2113dfc284123352d4357bd"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "748dd03d0f5572f01a5adb9b167cad7d2c6093af5a26bcdf25e843cb5af898d0"
+    }
+  ],
+  "next_trade_date": "2026-06-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:15+08:00"
+}

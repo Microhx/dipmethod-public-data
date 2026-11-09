@@ -1,0 +1,48 @@
+{
+  "code": "301237.SZ",
+  "names": [
+    "和顺科技"
+  ],
+  "signal_ids": [
+    "sig-0155"
+  ],
+  "buy_points": [
+    66.75
+  ],
+  "signal_date": "2026-04-20",
+  "days": [
+    {
+      "date": "2026-04-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fcadcc2a5b7c6614ffa7ba5904cd9eac38a7c794b1748fa1304c9bcaa32f9ac6"
+    },
+    {
+      "date": "2026-04-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "aa85cdbf76a8d60a2b9f43bbe2cfbb084d6fbecb2955fc248e514b882a1a543e"
+    }
+  ],
+  "next_trade_date": "2026-04-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:57+08:00"
+}

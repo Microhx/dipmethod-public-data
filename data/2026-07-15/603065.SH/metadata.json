@@ -1,0 +1,48 @@
+{
+  "code": "603065.SH",
+  "names": [
+    "宿迁联盛"
+  ],
+  "signal_ids": [
+    "sig-0299"
+  ],
+  "buy_points": [
+    21.66
+  ],
+  "signal_date": "2026-07-15",
+  "days": [
+    {
+      "date": "2026-07-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9a7d15b8fe5ce62c1c62c91aab060a9ffc7abc33ab0c71821b88903a15c86d47"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0d2d1db02d38b1c6c832f21e41490fa9bca03ceaa2fcc659c3adce8dca376d3d"
+    }
+  ],
+  "next_trade_date": "2026-07-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:35+08:00"
+}

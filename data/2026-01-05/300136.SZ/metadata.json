@@ -1,0 +1,48 @@
+{
+  "code": "300136.SZ",
+  "names": [
+    "信维通信"
+  ],
+  "signal_ids": [
+    "sig-0003"
+  ],
+  "buy_points": [
+    62
+  ],
+  "signal_date": "2026-01-05",
+  "days": [
+    {
+      "date": "2026-01-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:51:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ae6de2ac97cf9458910f7b9434409486e6a05249750d3eefc68d031a7ff82393"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:51:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1bf21a059365a2b2cfc58386964d4d204189b193234aa66f750431d0e7bad3d4"
+    }
+  ],
+  "next_trade_date": "2026-01-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:51:35+08:00"
+}

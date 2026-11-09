@@ -1,0 +1,48 @@
+{
+  "code": "301314.SZ",
+  "names": [
+    "科瑞思"
+  ],
+  "signal_ids": [
+    "sig-0445"
+  ],
+  "buy_points": [
+    61.6
+  ],
+  "signal_date": "2026-10-28",
+  "days": [
+    {
+      "date": "2026-10-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e639e92325791e5f64c105d48868810df17655dc5d5e65feec58e3588c40038d"
+    },
+    {
+      "date": "2026-10-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c35505e56f0f226878b1c4c6528b657d1acad20eec53a65d80f590aba544acd4"
+    }
+  ],
+  "next_trade_date": "2026-10-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:24+08:00"
+}

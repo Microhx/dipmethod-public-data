@@ -1,0 +1,48 @@
+{
+  "code": "300303.SZ",
+  "names": [
+    "聚飞光电"
+  ],
+  "signal_ids": [
+    "sig-0097"
+  ],
+  "buy_points": [
+    11.05
+  ],
+  "signal_date": "2026-03-06",
+  "days": [
+    {
+      "date": "2026-03-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:47+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ada6a6403ee9253d0a4d445ec568154eef587776387964431bb5f522d9f2a597"
+    },
+    {
+      "date": "2026-03-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:47+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7e8b4f49452faa799ea420e490b18399ce5b5cca93b9d33f1b1db7343a982fa2"
+    }
+  ],
+  "next_trade_date": "2026-03-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:47+08:00"
+}

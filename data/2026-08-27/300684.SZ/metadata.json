@@ -1,0 +1,48 @@
+{
+  "code": "300684.SZ",
+  "names": [
+    "中石科技"
+  ],
+  "signal_ids": [
+    "sig-0359"
+  ],
+  "buy_points": [
+    88.6
+  ],
+  "signal_date": "2026-08-27",
+  "days": [
+    {
+      "date": "2026-08-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "13487f7b0d8538c8d8a1d1bc68e33f000c78e0614cccff01351d7edf022b2903"
+    },
+    {
+      "date": "2026-08-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "89cdf0f70fc5d602ffcff7d458cfb3476fdfdbb9b91fc80ae7a6c07267cb1815"
+    }
+  ],
+  "next_trade_date": "2026-08-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:28+08:00"
+}

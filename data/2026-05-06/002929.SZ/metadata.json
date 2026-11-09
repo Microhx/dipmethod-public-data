@@ -1,0 +1,48 @@
+{
+  "code": "002929.SZ",
+  "names": [
+    "润建股份"
+  ],
+  "signal_ids": [
+    "sig-0177"
+  ],
+  "buy_points": [
+    62.76
+  ],
+  "signal_date": "2026-05-06",
+  "days": [
+    {
+      "date": "2026-05-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "202d1bc46580781035fa1090d693537bd42c4034c028427cbae29bb33b6f1d66"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9ee5c61539d19f184f35a84ac67352e15b959e79cb494ae72fa1c762cc3c5432"
+    }
+  ],
+  "next_trade_date": "2026-05-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:49+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "000887.SZ",
+  "names": [
+    "中鼎股份"
+  ],
+  "signal_ids": [
+    "sig-0341"
+  ],
+  "buy_points": [
+    21.92
+  ],
+  "signal_date": "2026-08-14",
+  "days": [
+    {
+      "date": "2026-08-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "905950c914663038d6eb36add5055c2decdb03bac5435b01c43a133241fb4df0"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2fd53f8e6abf2f8a766194083a8d24c2f072154721c973018f5fb18a2ff08029"
+    }
+  ],
+  "next_trade_date": "2026-08-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:54+08:00"
+}

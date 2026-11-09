@@ -1,0 +1,48 @@
+{
+  "code": "301560.SZ",
+  "names": [
+    "众捷股份"
+  ],
+  "signal_ids": [
+    "sig-0412"
+  ],
+  "buy_points": [
+    34.58
+  ],
+  "signal_date": "2026-09-30",
+  "days": [
+    {
+      "date": "2026-09-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9172eeeb60ae90942d9cb22a7f8cf3c9f164b0feed20ff2da986e7db62301a57"
+    },
+    {
+      "date": "2026-10-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c75f4121925ae44b1ebcfec576ab08f4ccb5a335317d081c51f06a2f9be6a95a"
+    }
+  ],
+  "next_trade_date": "2026-10-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:20+08:00"
+}

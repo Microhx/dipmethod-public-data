@@ -1,0 +1,48 @@
+{
+  "code": "000967.SZ",
+  "names": [
+    "盈峰环境"
+  ],
+  "signal_ids": [
+    "sig-0179"
+  ],
+  "buy_points": [
+    14.85
+  ],
+  "signal_date": "2026-05-07",
+  "days": [
+    {
+      "date": "2026-05-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "129465ce50c5bb7da49dc3511e7e8f1c3b7a10521211df37ee8d625cdd2f2c26"
+    },
+    {
+      "date": "2026-05-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fbd513fd90fc43c8bf2477bd9b63eb1cb92715990f940639f461a1269541fe21"
+    }
+  ],
+  "next_trade_date": "2026-05-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:54+08:00"
+}

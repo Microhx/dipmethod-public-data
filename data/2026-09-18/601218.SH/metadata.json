@@ -1,0 +1,48 @@
+{
+  "code": "601218.SH",
+  "names": [
+    "吉鑫科技"
+  ],
+  "signal_ids": [
+    "sig-0394"
+  ],
+  "buy_points": [
+    5.39
+  ],
+  "signal_date": "2026-09-18",
+  "days": [
+    {
+      "date": "2026-09-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "55494903411dd6fb04dcc5a215cc1e482dab6a3988608c40e54bcdd2dea91c2b"
+    },
+    {
+      "date": "2026-09-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "31cea047b707b54e3e109e6dce0e25606adef92b8e3c46354fb4a50795eab835"
+    }
+  ],
+  "next_trade_date": "2026-09-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:45+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "600812.SH",
+  "names": [
+    "华北制药"
+  ],
+  "signal_ids": [
+    "sig-0433"
+  ],
+  "buy_points": [
+    6.28
+  ],
+  "signal_date": "2026-10-16",
+  "days": [
+    {
+      "date": "2026-10-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3f65c0fc95a479bfb92b9340d790c623516574fa2f560696e72c12d815ee3f71"
+    },
+    {
+      "date": "2026-10-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4a844c1401958b40be4653f99949ef609e3bd49e0f4701df6829a40712e688c6"
+    }
+  ],
+  "next_trade_date": "2026-10-19",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:59+08:00"
+}

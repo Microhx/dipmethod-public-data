@@ -1,0 +1,48 @@
+{
+  "code": "301072.SZ",
+  "names": [
+    "中捷精工"
+  ],
+  "signal_ids": [
+    "sig-0244"
+  ],
+  "buy_points": [
+    33.65
+  ],
+  "signal_date": "2026-06-10",
+  "days": [
+    {
+      "date": "2026-06-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b087e3faf179778dfcf77a00d3e6f7dac4f3793ad43d51e430a9f526cd138419"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8eb64b85b9e371a15c640f627da3b12af443446ac05999520d499afe89cc0afb"
+    }
+  ],
+  "next_trade_date": "2026-06-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:39+08:00"
+}

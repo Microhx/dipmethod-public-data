@@ -1,0 +1,48 @@
+{
+  "code": "001896.SZ",
+  "names": [
+    "豫能控股"
+  ],
+  "signal_ids": [
+    "sig-0088"
+  ],
+  "buy_points": [
+    12.62
+  ],
+  "signal_date": "2026-03-02",
+  "days": [
+    {
+      "date": "2026-03-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "525f07b59d7147dfa1fe4bc574303d4b0e2ebcaf3c7d8bb0ed028594339bda47"
+    },
+    {
+      "date": "2026-03-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2574969d129845fa5312c46054406dd3d3d4918fe32174f9c00802811bf8e7b3"
+    }
+  ],
+  "next_trade_date": "2026-03-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:24+08:00"
+}

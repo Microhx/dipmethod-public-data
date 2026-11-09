@@ -1,0 +1,48 @@
+{
+  "code": "002938.SZ",
+  "names": [
+    "鹏鼎控股"
+  ],
+  "signal_ids": [
+    "sig-0186"
+  ],
+  "buy_points": [
+    77
+  ],
+  "signal_date": "2026-05-12",
+  "days": [
+    {
+      "date": "2026-05-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "268d069ccb8ab0f93791f755f7abce167bcea8cefe951f9fe29af8fe426d36d4"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e87539b0cc95204e802d0c05db67f7366c3e3ce2d13e42154a2d68b7f3662387"
+    }
+  ],
+  "next_trade_date": "2026-05-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:12+08:00"
+}

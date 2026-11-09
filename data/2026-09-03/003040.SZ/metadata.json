@@ -1,0 +1,48 @@
+{
+  "code": "003040.SZ",
+  "names": [
+    "楚天龙"
+  ],
+  "signal_ids": [
+    "sig-0369"
+  ],
+  "buy_points": [
+    19.75
+  ],
+  "signal_date": "2026-09-03",
+  "days": [
+    {
+      "date": "2026-09-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "64352233c74d07de5c2cb89ab2d9280a46c0c1f4854ada427f864f7b03b05b68"
+    },
+    {
+      "date": "2026-09-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "842b95369994383a9be48b1dcde6865f6484a617b95811f249a659f3af95d210"
+    }
+  ],
+  "next_trade_date": "2026-09-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:48+08:00"
+}

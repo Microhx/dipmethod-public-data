@@ -1,0 +1,48 @@
+{
+  "code": "300839.SZ",
+  "names": [
+    "博汇股份"
+  ],
+  "signal_ids": [
+    "sig-0440"
+  ],
+  "buy_points": [
+    18.26
+  ],
+  "signal_date": "2026-10-23",
+  "days": [
+    {
+      "date": "2026-10-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d4f578857e7ae2379ddc57a2fcbccba4dec46401e1abe4f0f1154aafa291adbf"
+    },
+    {
+      "date": "2026-10-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ac5aeea5545274c41bc175d878efb5044755edb0cd33f154ea0537fc79a221c7"
+    }
+  ],
+  "next_trade_date": "2026-10-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:14+08:00"
+}

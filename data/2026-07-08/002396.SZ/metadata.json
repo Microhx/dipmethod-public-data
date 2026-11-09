@@ -1,0 +1,48 @@
+{
+  "code": "002396.SZ",
+  "names": [
+    "星网锐捷"
+  ],
+  "signal_ids": [
+    "sig-0291"
+  ],
+  "buy_points": [
+    27.07
+  ],
+  "signal_date": "2026-07-08",
+  "days": [
+    {
+      "date": "2026-07-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7f56d588828a7a8ffd03cd6c45863bc91447fe2c8b0c6d45f6ff5c4ff35981e4"
+    },
+    {
+      "date": "2026-07-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "10aff1e506baff5f658ed9d46f380863adf5c7ec06723e217df4314772663b9d"
+    }
+  ],
+  "next_trade_date": "2026-07-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:19+08:00"
+}

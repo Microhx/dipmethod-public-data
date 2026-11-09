@@ -1,0 +1,48 @@
+{
+  "code": "300951.SZ",
+  "names": [
+    "博硕科技"
+  ],
+  "signal_ids": [
+    "sig-0321"
+  ],
+  "buy_points": [
+    63.526
+  ],
+  "signal_date": "2026-08-06",
+  "days": [
+    {
+      "date": "2026-08-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "88196c4b3d6bf4bd1a9e93b0dab7eb135c3b48db80b4b92e87aeeec9d72714fc"
+    },
+    {
+      "date": "2026-08-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "394895f4cdbebbba3e20d6aee8b5e68675cbd0a65f2aeb217bb9e3b1878d997a"
+    }
+  ],
+  "next_trade_date": "2026-08-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:17+08:00"
+}

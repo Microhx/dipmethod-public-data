@@ -1,0 +1,48 @@
+{
+  "code": "300185.SZ",
+  "names": [
+    "通裕重工"
+  ],
+  "signal_ids": [
+    "sig-0109"
+  ],
+  "buy_points": [
+    3.97
+  ],
+  "signal_date": "2026-03-16",
+  "days": [
+    {
+      "date": "2026-03-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9a2476652f1902525fc7adf0fb4b79267367c6ef13469585632457eeec760341"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "730ec37a298fa911a9b0e5e58442cdc15396547ee3abbc03293bd388c077e5fc"
+    }
+  ],
+  "next_trade_date": "2026-03-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:11+08:00"
+}

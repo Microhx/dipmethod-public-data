@@ -1,0 +1,48 @@
+{
+  "code": "600588.SH",
+  "names": [
+    "用友网络"
+  ],
+  "signal_ids": [
+    "sig-0027"
+  ],
+  "buy_points": [
+    17.49
+  ],
+  "signal_date": "2026-01-15",
+  "days": [
+    {
+      "date": "2026-01-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1041c830e6e5c30a6a847ae8c5b97e4f68595e66fff5bf3e7c990e8e3c3cfb8e"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "941f3241222a864d19d64c5d01730fe0ebd2ffc9e0ab65309fa4db91aceece47"
+    }
+  ],
+  "next_trade_date": "2026-01-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:01+08:00"
+}

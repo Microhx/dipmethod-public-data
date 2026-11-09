@@ -1,0 +1,23 @@
+{
+  "signal_date": "2026-07-03",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:03:08+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 1,
+  "stocks": [
+    {
+      "folder": "002653.SZ",
+      "code": "002653.SZ",
+      "names": [
+        "海思科"
+      ],
+      "signal_ids": [
+        "sig-0286"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

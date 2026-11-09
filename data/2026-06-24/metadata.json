@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-06-24",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:02:26+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "000070.SZ",
+      "code": "000070.SZ",
+      "names": [
+        "特发信息"
+      ],
+      "signal_ids": [
+        "sig-0266"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002141.SZ",
+      "code": "002141.SZ",
+      "names": [
+        "贤丰控股"
+      ],
+      "signal_ids": [
+        "sig-0267"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

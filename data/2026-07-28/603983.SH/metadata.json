@@ -1,0 +1,48 @@
+{
+  "code": "603983.SH",
+  "names": [
+    "丸美生物"
+  ],
+  "signal_ids": [
+    "sig-0310"
+  ],
+  "buy_points": [
+    32.52
+  ],
+  "signal_date": "2026-07-28",
+  "days": [
+    {
+      "date": "2026-07-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "428bfed86c8b36aecce527fd76f424b0e9a7c869f8a9c57ce4177c6283c7212c"
+    },
+    {
+      "date": "2026-07-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6ffcdf7796d7899c2e56709dd09882bf55d8ef835dc7151cc98932bf5fa33dae"
+    }
+  ],
+  "next_trade_date": "2026-07-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:56+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002821.SZ",
+  "names": [
+    "凯莱英"
+  ],
+  "signal_ids": [
+    "sig-0301"
+  ],
+  "buy_points": [
+    183.78
+  ],
+  "signal_date": "2026-07-16",
+  "days": [
+    {
+      "date": "2026-07-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f4395ec3ca8a0e7398d430060b71cc67bbc58494b283a80474077d024227438b"
+    },
+    {
+      "date": "2026-07-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5b8698cc5f1a41ea6e850bfdd627f76da9c7600ba38f84af610076d061e15f20"
+    }
+  ],
+  "next_trade_date": "2026-07-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:38+08:00"
+}

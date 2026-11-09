@@ -1,0 +1,48 @@
+{
+  "code": "300985.SZ",
+  "names": [
+    "致远新能"
+  ],
+  "signal_ids": [
+    "sig-0292"
+  ],
+  "buy_points": [
+    51.76
+  ],
+  "signal_date": "2026-07-08",
+  "days": [
+    {
+      "date": "2026-07-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5229f8b75c6b5cab511588f8c4c009488c4381f4e93541f5e04d934f1ceff788"
+    },
+    {
+      "date": "2026-07-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d2475bb32844c00288437077987785fb6ebd15de5efb8fae2f1ae9c9169fd5da"
+    }
+  ],
+  "next_trade_date": "2026-07-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:20+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "601126.SH",
+  "names": [
+    "四方股份"
+  ],
+  "signal_ids": [
+    "sig-0196"
+  ],
+  "buy_points": [
+    76.7
+  ],
+  "signal_date": "2026-05-14",
+  "days": [
+    {
+      "date": "2026-05-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ddb5fddb36e3513b63a38a33480fedc46f6e10e1f87bbf1ca5023aed97c0a0d8"
+    },
+    {
+      "date": "2026-05-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "11da88e04286c350b333208fea8bad5be137ef9c5385d7fdcdb31dc1a6b8dd87"
+    }
+  ],
+  "next_trade_date": "2026-05-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:33+08:00"
+}

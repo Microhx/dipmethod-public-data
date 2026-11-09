@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-08-05",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:04:07+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "601858.SH",
+      "code": "601858.SH",
+      "names": [
+        "中国科传"
+      ],
+      "signal_ids": [
+        "sig-0317"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301171.SZ",
+      "code": "301171.SZ",
+      "names": [
+        "易点天下"
+      ],
+      "signal_ids": [
+        "sig-0318"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000820.SZ",
+      "code": "000820.SZ",
+      "names": [
+        "神雾节能"
+      ],
+      "signal_ids": [
+        "sig-0319"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

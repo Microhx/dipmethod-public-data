@@ -1,0 +1,48 @@
+{
+  "code": "603968.SH",
+  "names": [
+    "醋化股份"
+  ],
+  "signal_ids": [
+    "sig-0429"
+  ],
+  "buy_points": [
+    14.36
+  ],
+  "signal_date": "2026-10-15",
+  "days": [
+    {
+      "date": "2026-10-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b6647d551769c3bc3f58386ae6c1b85b8020c141cf005fa17aea7c6ae097e324"
+    },
+    {
+      "date": "2026-10-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a0d387ee332b486c344ee702d544219855160a73f9d0d6c22ced3d2b63e04ae3"
+    }
+  ],
+  "next_trade_date": "2026-10-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:52+08:00"
+}

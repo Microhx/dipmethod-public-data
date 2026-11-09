@@ -1,0 +1,48 @@
+{
+  "code": "601208.SH",
+  "names": [
+    "东材科技"
+  ],
+  "signal_ids": [
+    "sig-0395"
+  ],
+  "buy_points": [
+    51.635
+  ],
+  "signal_date": "2026-09-18",
+  "days": [
+    {
+      "date": "2026-09-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:47+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "72cff1c6f226936ac5a8c62be205eb6bb4fb84f69b0f93bcf242f5bba007a876"
+    },
+    {
+      "date": "2026-09-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:47+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e57bf094efde2d9a668a009c96c6ed94d19d6442dea8c950b2750c15b07135e3"
+    }
+  ],
+  "next_trade_date": "2026-09-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:47+08:00"
+}

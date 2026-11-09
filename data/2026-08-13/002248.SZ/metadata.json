@@ -1,0 +1,48 @@
+{
+  "code": "002248.SZ",
+  "names": [
+    "华东数控"
+  ],
+  "signal_ids": [
+    "sig-0338"
+  ],
+  "buy_points": [
+    11.57
+  ],
+  "signal_date": "2026-08-13",
+  "days": [
+    {
+      "date": "2026-08-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0bbc6d418333c754a3be141c9ea7be71e093fd5ccc260d97b21d96bce2a1d363"
+    },
+    {
+      "date": "2026-08-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3bc052156d9d7682499c4f9809e6ccffef0941da7c6a4edcd75b5d81ee2dcb40"
+    }
+  ],
+  "next_trade_date": "2026-08-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:49+08:00"
+}

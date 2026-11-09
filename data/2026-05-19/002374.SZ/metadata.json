@@ -1,0 +1,48 @@
+{
+  "code": "002374.SZ",
+  "names": [
+    "中锐股份"
+  ],
+  "signal_ids": [
+    "sig-0202"
+  ],
+  "buy_points": [
+    3.68
+  ],
+  "signal_date": "2026-05-19",
+  "days": [
+    {
+      "date": "2026-05-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "67df5161bbbe2845a2d51150324e6bf30614f1a8aee3b719de6063520065c9a3"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d0cc16d61bf223a5136437b53e67c9a3a5f5c05eed2b09facae0921f1bb4d751"
+    }
+  ],
+  "next_trade_date": "2026-05-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:50+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300017.SZ",
+  "names": [
+    "网宿科技"
+  ],
+  "signal_ids": [
+    "sig-0058"
+  ],
+  "buy_points": [
+    17.15
+  ],
+  "signal_date": "2026-02-04",
+  "days": [
+    {
+      "date": "2026-02-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:14+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "df2c7222ce685408a1dd6b45ff40cd8e280fd937c0e5fee0c8ecaa53cf6ec9c9"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:14+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a5b044a23d3fe6a686f01a89d3e3bd9c012889ea54a99ad27f73e8340c98ae74"
+    }
+  ],
+  "next_trade_date": "2026-02-05",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:14+08:00"
+}

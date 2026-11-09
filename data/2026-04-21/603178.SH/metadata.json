@@ -1,0 +1,48 @@
+{
+  "code": "603178.SH",
+  "names": [
+    "圣龙股份"
+  ],
+  "signal_ids": [
+    "sig-0158"
+  ],
+  "buy_points": [
+    18.2
+  ],
+  "signal_date": "2026-04-21",
+  "days": [
+    {
+      "date": "2026-04-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:03+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6172facdfca82c4582adcc353ae4c41da67a8dd146d7664cc940363d839e626d"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:03+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "01086cc878993feb93a5daf24f91f8f570dbe001bd168a03e6d2c08e55fc808d"
+    }
+  ],
+  "next_trade_date": "2026-04-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:03+08:00"
+}

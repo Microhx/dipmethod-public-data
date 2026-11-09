@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-07-31",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:03:58+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300996.SZ",
+      "code": "300996.SZ",
+      "names": [
+        "普联软件"
+      ],
+      "signal_ids": [
+        "sig-0312"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300981.SZ",
+      "code": "300981.SZ",
+      "names": [
+        "中红医疗"
+      ],
+      "signal_ids": [
+        "sig-0313"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

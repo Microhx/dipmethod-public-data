@@ -1,0 +1,48 @@
+{
+  "code": "300508.SZ",
+  "names": [
+    "维宏股份"
+  ],
+  "signal_ids": [
+    "sig-0457"
+  ],
+  "buy_points": [
+    43.6
+  ],
+  "signal_date": "2026-11-05",
+  "days": [
+    {
+      "date": "2026-11-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "55e2e5492245fee1949d276ae67824cdf4e6192eaed573fbf02b618b20c25d0c"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "28f47498e16732e1d7ea31ef6ba8bd90e450d2b3062f6c13cd124d0a729c5632"
+    }
+  ],
+  "next_trade_date": "2026-11-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:46+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "603922.SH",
+  "names": [
+    "金鸿顺"
+  ],
+  "signal_ids": [
+    "sig-0163"
+  ],
+  "buy_points": [
+    22.785
+  ],
+  "signal_date": "2026-04-24",
+  "days": [
+    {
+      "date": "2026-04-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e20a449b8601993d9262040e949d358f3a1dba80cabcd337a334b4d5189e1f30"
+    },
+    {
+      "date": "2026-04-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "464d196505dacdb51c81ae6ca9ce2b494ffc2de52e8281d1e642c6348cacb857"
+    }
+  ],
+  "next_trade_date": "2026-04-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:16+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300139.SZ",
+  "names": [
+    "晓程科技"
+  ],
+  "signal_ids": [
+    "sig-0090"
+  ],
+  "buy_points": [
+    76.5
+  ],
+  "signal_date": "2026-03-03",
+  "days": [
+    {
+      "date": "2026-03-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cd2a39d1f2209bfd7e3fd5eff83d0a109e1c95ae283aecebba791790b1dca223"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5e1942d2deda2e1dd92e18396c27ac64d987dd2945fbaa6a5953694b8d9449b2"
+    }
+  ],
+  "next_trade_date": "2026-03-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:30+08:00"
+}

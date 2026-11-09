@@ -1,0 +1,48 @@
+{
+  "code": "600226.SH",
+  "names": [
+    "亨通股份"
+  ],
+  "signal_ids": [
+    "sig-0262"
+  ],
+  "buy_points": [
+    10.01
+  ],
+  "signal_date": "2026-06-23",
+  "days": [
+    {
+      "date": "2026-06-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "431c30d065f7ac2b1e7698b235920056400002d85136b3f39ff6a2ac01e372d3"
+    },
+    {
+      "date": "2026-06-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f37acd3cea28c4d83b7ccb590ecd75ddd304fff07408331c913b4d5854683324"
+    }
+  ],
+  "next_trade_date": "2026-06-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:19+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300721.SZ",
+  "names": [
+    "怡达股份"
+  ],
+  "signal_ids": [
+    "sig-0165"
+  ],
+  "buy_points": [
+    19.8
+  ],
+  "signal_date": "2026-04-27",
+  "days": [
+    {
+      "date": "2026-04-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:21+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8e718a32c41a28ff2663f28a7e1745f766d689626495ef63a55a85cf3b1d7d16"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:21+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6a4c37d40c73356425c85ffd43e1c323cd0a425c60beb4aede5f7d0d11649de0"
+    }
+  ],
+  "next_trade_date": "2026-04-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:21+08:00"
+}

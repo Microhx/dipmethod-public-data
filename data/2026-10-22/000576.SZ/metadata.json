@@ -1,0 +1,48 @@
+{
+  "code": "000576.SZ",
+  "names": [
+    "甘化科工"
+  ],
+  "signal_ids": [
+    "sig-0438"
+  ],
+  "buy_points": [
+    9.3
+  ],
+  "signal_date": "2026-10-22",
+  "days": [
+    {
+      "date": "2026-10-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bd3044a417e8d3c835bac3792d8f802cd0306989b35f9d87aaba01c6067bac5b"
+    },
+    {
+      "date": "2026-10-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "eec71e4f9fecd211405b6bb603de43f91bd7c82465a319cd04e0d1eb40da5ddf"
+    }
+  ],
+  "next_trade_date": "2026-10-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:09+08:00"
+}

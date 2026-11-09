@@ -1,0 +1,48 @@
+{
+  "code": "300133.SZ",
+  "names": [
+    "华策影视"
+  ],
+  "signal_ids": [
+    "sig-0424"
+  ],
+  "buy_points": [
+    8.7
+  ],
+  "signal_date": "2026-10-13",
+  "days": [
+    {
+      "date": "2026-10-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b8994a0c2e0dc59d20ee362406d063e3b9e713b3d84bef278380584841a59e96"
+    },
+    {
+      "date": "2026-10-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e1a8c0744285d3b539a6da313458b3232fe5066732f355de8cf35470bf17cf92"
+    }
+  ],
+  "next_trade_date": "2026-10-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:43+08:00"
+}

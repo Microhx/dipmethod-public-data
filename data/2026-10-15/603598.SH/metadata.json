@@ -1,0 +1,48 @@
+{
+  "code": "603598.SH",
+  "names": [
+    "引力传媒"
+  ],
+  "signal_ids": [
+    "sig-0430"
+  ],
+  "buy_points": [
+    20.67
+  ],
+  "signal_date": "2026-10-15",
+  "days": [
+    {
+      "date": "2026-10-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8801fcfdb4e9f6a7c395d54d5491051c57ba3cc1562ed3a08c27e3ffa00692ed"
+    },
+    {
+      "date": "2026-10-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e186e5188f67f862c88a5c0ac7e02ae3c0360d05ff52f3605ea99798b6f05082"
+    }
+  ],
+  "next_trade_date": "2026-10-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:54+08:00"
+}

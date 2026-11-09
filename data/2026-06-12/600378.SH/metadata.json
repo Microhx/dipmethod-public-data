@@ -1,0 +1,48 @@
+{
+  "code": "600378.SH",
+  "names": [
+    "昊华科技"
+  ],
+  "signal_ids": [
+    "sig-0248"
+  ],
+  "buy_points": [
+    59.08
+  ],
+  "signal_date": "2026-06-12",
+  "days": [
+    {
+      "date": "2026-06-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "87eff6bc156cc2510f7acac7239485a5d0349ce40583c9706548e1bc4fb23c07"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "553aa7d9bb4e538c29195c1a6647eb3fd9943fae4ae79a1afd61948b35e245f8"
+    }
+  ],
+  "next_trade_date": "2026-06-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:47+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "603936.SH",
+  "names": [
+    "博敏电子"
+  ],
+  "signal_ids": [
+    "sig-0384"
+  ],
+  "buy_points": [
+    20.267
+  ],
+  "signal_date": "2026-09-14",
+  "days": [
+    {
+      "date": "2026-09-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ccddab6b2c7e9a61b14687ad263c9d372268add1f26c9f9b473aa8d70c5a8768"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "991bf7260391237f3c690e0e359d83d404df25f7e6bdb280afcccd852aa78ada"
+    }
+  ],
+  "next_trade_date": "2026-09-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:25+08:00"
+}

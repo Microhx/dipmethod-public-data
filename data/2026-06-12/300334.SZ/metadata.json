@@ -1,0 +1,48 @@
+{
+  "code": "300334.SZ",
+  "names": [
+    "津膜科技"
+  ],
+  "signal_ids": [
+    "sig-0247"
+  ],
+  "buy_points": [
+    12.43
+  ],
+  "signal_date": "2026-06-12",
+  "days": [
+    {
+      "date": "2026-06-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "93f847e84c9890bdd719a702b1cb71cf633c59b99d3e3ebf823adb9f7dbc271c"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "461fb6aa9525fcb23802fc0faa20a178c6d95497ab8d2966888b78aaee82d248"
+    }
+  ],
+  "next_trade_date": "2026-06-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:45+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002177.SZ",
+  "names": [
+    "御银股份"
+  ],
+  "signal_ids": [
+    "sig-0001"
+  ],
+  "buy_points": [
+    8.55
+  ],
+  "signal_date": "2026-01-05",
+  "days": [
+    {
+      "date": "2026-01-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:51:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "dadc7b88b733f1ef888b01c8443394c76af4667c849e5cbcdca3463588066d1f"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:51:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fc5e1d8db5ed275ca4deaf8fa6da5281ac45d8e41babdeff8ffd82a2679812e4"
+    }
+  ],
+  "next_trade_date": "2026-01-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:51:31+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "301667.SZ",
+  "names": [
+    "纳百川"
+  ],
+  "signal_ids": [
+    "sig-0113"
+  ],
+  "buy_points": [
+    102
+  ],
+  "signal_date": "2026-03-18",
+  "days": [
+    {
+      "date": "2026-03-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5ffb9879266e68f57f1e67b8aa84a0d7913de7ba1ffcc27ed34d6b798c3349cc"
+    },
+    {
+      "date": "2026-03-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c3ad600412e3a481cf3c5d1456381eb4026eeba7c925805192990687292f8b87"
+    }
+  ],
+  "next_trade_date": "2026-03-19",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:19+08:00"
+}

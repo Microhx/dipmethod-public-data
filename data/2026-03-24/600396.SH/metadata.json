@@ -1,0 +1,48 @@
+{
+  "code": "600396.SH",
+  "names": [
+    "华电辽能"
+  ],
+  "signal_ids": [
+    "sig-0120"
+  ],
+  "buy_points": [
+    6.9
+  ],
+  "signal_date": "2026-03-24",
+  "days": [
+    {
+      "date": "2026-03-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c030856343245321716fc26a7490c10cc8e052a0837a994f5bb3dbf4dcda3c1a"
+    },
+    {
+      "date": "2026-03-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5faae686dd283441c43d762a5ee1cde5383f851d3a6f41817de78fc535440d9c"
+    }
+  ],
+  "next_trade_date": "2026-03-25",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:36+08:00"
+}

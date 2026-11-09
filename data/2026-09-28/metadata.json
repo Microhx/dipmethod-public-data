@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-09-28",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:07:11+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300300.SZ",
+      "code": "300300.SZ",
+      "names": [
+        "海峡创新"
+      ],
+      "signal_ids": [
+        "sig-0408"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000710.SZ",
+      "code": "000710.SZ",
+      "names": [
+        "贝瑞基因"
+      ],
+      "signal_ids": [
+        "sig-0409"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

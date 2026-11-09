@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-03-17",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:56:14+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "301220.SZ",
+      "code": "301220.SZ",
+      "names": [
+        "亚香股份"
+      ],
+      "signal_ids": [
+        "sig-0111"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300243.SZ",
+      "code": "300243.SZ",
+      "names": [
+        "瑞丰高材"
+      ],
+      "signal_ids": [
+        "sig-0112"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

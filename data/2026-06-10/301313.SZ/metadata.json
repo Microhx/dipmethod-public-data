@@ -1,0 +1,48 @@
+{
+  "code": "301313.SZ",
+  "names": [
+    "凡拓数创"
+  ],
+  "signal_ids": [
+    "sig-0242"
+  ],
+  "buy_points": [
+    62.5
+  ],
+  "signal_date": "2026-06-10",
+  "days": [
+    {
+      "date": "2026-06-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f48630d4ae22df0ea4c6cd00d162cb63fbbb97724d9de9a9427f6d370adb17fc"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f451119bec5d083aa0bb1e81386760025891f5332607d3d04d6f84c78e9624cd"
+    }
+  ],
+  "next_trade_date": "2026-06-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:35+08:00"
+}

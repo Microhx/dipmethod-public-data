@@ -1,0 +1,67 @@
+{
+  "signal_date": "2026-05-29",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:00:46+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 5,
+  "stocks": [
+    {
+      "folder": "301217.SZ",
+      "code": "301217.SZ",
+      "names": [
+        "铜冠铜箔"
+      ],
+      "signal_ids": [
+        "sig-0222"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "605358.SH",
+      "code": "605358.SH",
+      "names": [
+        "立昂微"
+      ],
+      "signal_ids": [
+        "sig-0223"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600330.SH",
+      "code": "600330.SH",
+      "names": [
+        "天通股份"
+      ],
+      "signal_ids": [
+        "sig-0224"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300975.SZ",
+      "code": "300975.SZ",
+      "names": [
+        "商络电子"
+      ],
+      "signal_ids": [
+        "sig-0225"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300302.SZ",
+      "code": "300302.SZ",
+      "names": [
+        "同有科技"
+      ],
+      "signal_ids": [
+        "sig-0226"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

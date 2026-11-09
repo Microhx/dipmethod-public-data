@@ -1,0 +1,48 @@
+{
+  "code": "301511.SZ",
+  "names": [
+    "德福科技"
+  ],
+  "signal_ids": [
+    "sig-0178"
+  ],
+  "buy_points": [
+    85.73
+  ],
+  "signal_date": "2026-05-07",
+  "days": [
+    {
+      "date": "2026-05-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "452593b6f67536af93ab12ada3694c9b50a12850cb5c02e5e12dc4a3b469a6e5"
+    },
+    {
+      "date": "2026-05-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "483c24f7428b9572a029cf10bb9b7565f8b8d5936349922be704fcf5e2147cbf"
+    }
+  ],
+  "next_trade_date": "2026-05-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:51+08:00"
+}

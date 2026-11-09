@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-07-06",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:03:10+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300985.SZ",
+      "code": "300985.SZ",
+      "names": [
+        "致远新能"
+      ],
+      "signal_ids": [
+        "sig-0287"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301520.SZ",
+      "code": "301520.SZ",
+      "names": [
+        "万邦医药"
+      ],
+      "signal_ids": [
+        "sig-0288"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "600673.SH",
+  "names": [
+    "东阳光"
+  ],
+  "signal_ids": [
+    "sig-0076"
+  ],
+  "buy_points": [
+    36.73
+  ],
+  "signal_date": "2026-02-13",
+  "days": [
+    {
+      "date": "2026-02-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fcea097e976ede30a627e310b673717dbd54411a7acedd7c2c1b2b9789c9e857"
+    },
+    {
+      "date": "2026-02-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f877b1e8ba83ae3c305022e5ee4f61401b38c1c88f8569c29582105b5e15d997"
+    }
+  ],
+  "next_trade_date": "2026-02-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:00+08:00"
+}

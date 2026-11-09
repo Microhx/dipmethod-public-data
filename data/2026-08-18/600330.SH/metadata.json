@@ -1,0 +1,48 @@
+{
+  "code": "600330.SH",
+  "names": [
+    "天通股份"
+  ],
+  "signal_ids": [
+    "sig-0344"
+  ],
+  "buy_points": [
+    27.4
+  ],
+  "signal_date": "2026-08-18",
+  "days": [
+    {
+      "date": "2026-08-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9585f437fed3b4271d948f1b0047e04e47776ed0d3a41331e608dd97227606d8"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a4bff74b0cb489b2142340061063514c80f60ac97d0cfb76dfdaa7dd9f0772e6"
+    }
+  ],
+  "next_trade_date": "2026-08-19",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:01+08:00"
+}

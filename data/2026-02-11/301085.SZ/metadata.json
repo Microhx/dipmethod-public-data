@@ -1,0 +1,48 @@
+{
+  "code": "301085.SZ",
+  "names": [
+    "亚康股份"
+  ],
+  "signal_ids": [
+    "sig-0072"
+  ],
+  "buy_points": [
+    73
+  ],
+  "signal_date": "2026-02-11",
+  "days": [
+    {
+      "date": "2026-02-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "697b16e7e98be0fedaa526f76cc2e5b10d65ca5285b4b2cfdd86ccebb8292e14"
+    },
+    {
+      "date": "2026-02-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "68c9498944e1ccc53d7cd826461445c70a138e933b7417fb1c56348bbbaca32b"
+    }
+  ],
+  "next_trade_date": "2026-02-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:49+08:00"
+}

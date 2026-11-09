@@ -1,0 +1,48 @@
+{
+  "code": "605366.SH",
+  "names": [
+    "宏柏新材"
+  ],
+  "signal_ids": [
+    "sig-0416"
+  ],
+  "buy_points": [
+    10.14
+  ],
+  "signal_date": "2026-10-08",
+  "days": [
+    {
+      "date": "2026-10-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "796b773ef0735c9ce3f012b91abf71de18b981b9277dd9cb2590ae29fbefc16a"
+    },
+    {
+      "date": "2026-10-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f1e896c5830251c483d09469f40ea7d74aae1ea1990f3e8be61af4c5c126ded6"
+    }
+  ],
+  "next_trade_date": "2026-10-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:28+08:00"
+}

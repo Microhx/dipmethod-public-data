@@ -1,0 +1,48 @@
+{
+  "code": "301310.SZ",
+  "names": [
+    "鑫宏业"
+  ],
+  "signal_ids": [
+    "sig-0148"
+  ],
+  "buy_points": [
+    53.144
+  ],
+  "signal_date": "2026-04-15",
+  "days": [
+    {
+      "date": "2026-04-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b0240f5f1d13eb673c757abf275db8544a68ec71f0993827d3c4f0d19ea13117"
+    },
+    {
+      "date": "2026-04-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "df1720b9aa12ab743c8a097df4987ba08341dd3ff81a282d0a79518b8318e017"
+    }
+  ],
+  "next_trade_date": "2026-04-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:39+08:00"
+}

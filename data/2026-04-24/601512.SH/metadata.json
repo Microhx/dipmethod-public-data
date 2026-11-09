@@ -1,0 +1,48 @@
+{
+  "code": "601512.SH",
+  "names": [
+    "中新集团"
+  ],
+  "signal_ids": [
+    "sig-0164"
+  ],
+  "buy_points": [
+    10.456
+  ],
+  "signal_date": "2026-04-24",
+  "days": [
+    {
+      "date": "2026-04-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d6e3e688cc7d50095802d4b86d9dc6ebeb747c78302f2a4de5d10661017a9ab8"
+    },
+    {
+      "date": "2026-04-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "063d0f3f3ed0464478d59185fa97f8e10f1a5b2f46b8a252a0765ee0099e86fe"
+    }
+  ],
+  "next_trade_date": "2026-04-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:19+08:00"
+}

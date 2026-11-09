@@ -1,0 +1,48 @@
+{
+  "code": "600435.SH",
+  "names": [
+    "北方导航"
+  ],
+  "signal_ids": [
+    "sig-0011"
+  ],
+  "buy_points": [
+    19.25
+  ],
+  "signal_date": "2026-01-08",
+  "days": [
+    {
+      "date": "2026-01-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0b78e2dc7b6564ab1c63308218dad5e8289da9122a95942771ffb32999a9f156"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "01096c2fcb07e2a61b76157e53a768e346af19fc94b6217c449f2dcc59b0e389"
+    }
+  ],
+  "next_trade_date": "2026-01-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:24+08:00"
+}

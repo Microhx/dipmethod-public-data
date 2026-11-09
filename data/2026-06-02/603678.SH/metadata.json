@@ -1,0 +1,48 @@
+{
+  "code": "603678.SH",
+  "names": [
+    "火炬电子"
+  ],
+  "signal_ids": [
+    "sig-0229"
+  ],
+  "buy_points": [
+    51.55
+  ],
+  "signal_date": "2026-06-02",
+  "days": [
+    {
+      "date": "2026-06-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a4206d68438c453f9d08a502d00193241d7c3bab731f99630f6542d9bd012f0f"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ac0159e49531b8eeed781536802a41e540ba120bf57a8bc857bf72d60e96c679"
+    }
+  ],
+  "next_trade_date": "2026-06-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:07+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "000338.SZ",
+  "names": [
+    "潍柴动力"
+  ],
+  "signal_ids": [
+    "sig-0032"
+  ],
+  "buy_points": [
+    21.63
+  ],
+  "signal_date": "2026-01-20",
+  "days": [
+    {
+      "date": "2026-01-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "557abd4f3e6ccc6f4b1510583da35e7aceea398a3a2710bfce0935f5396d2fa7"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3c16e59a947b43924e662a71caf90e9d4fe80b1afd57d48937586c1a3b479ed1"
+    }
+  ],
+  "next_trade_date": "2026-01-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:14+08:00"
+}

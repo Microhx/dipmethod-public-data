@@ -1,0 +1,48 @@
+{
+  "code": "301055.SZ",
+  "names": [
+    "张小泉"
+  ],
+  "signal_ids": [
+    "sig-0145"
+  ],
+  "buy_points": [
+    27.845
+  ],
+  "signal_date": "2026-04-14",
+  "days": [
+    {
+      "date": "2026-04-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "de59a69d274a8e4261af1625b3a30e1b22dbdd6a5b2858c5579fa2083f0a7521"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9dd6d3c4fa2d59f7e93c785ffca5f9182fdfa9395c132228bef35e03663ab797"
+    }
+  ],
+  "next_trade_date": "2026-04-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:32+08:00"
+}

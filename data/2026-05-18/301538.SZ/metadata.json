@@ -1,0 +1,48 @@
+{
+  "code": "301538.SZ",
+  "names": [
+    "骏鼎达"
+  ],
+  "signal_ids": [
+    "sig-0200"
+  ],
+  "buy_points": [
+    108.97
+  ],
+  "signal_date": "2026-05-18",
+  "days": [
+    {
+      "date": "2026-05-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f6f540a9a63c7c0cfe11658125ddb5df939e6f2acf9374e38a441265c85619f2"
+    },
+    {
+      "date": "2026-05-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "69ed4077003695c204c5fecef3dabea35d77472a137a08e9ad8c5e531ffdadf7"
+    }
+  ],
+  "next_trade_date": "2026-05-19",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:45+08:00"
+}

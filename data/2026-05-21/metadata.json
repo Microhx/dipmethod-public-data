@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-05-21",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:00:00+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "301013.SZ",
+      "code": "301013.SZ",
+      "names": [
+        "利和兴"
+      ],
+      "signal_ids": [
+        "sig-0207"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301387.SZ",
+      "code": "301387.SZ",
+      "names": [
+        "光大同创"
+      ],
+      "signal_ids": [
+        "sig-0208"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002272.SZ",
+      "code": "002272.SZ",
+      "names": [
+        "川润股份"
+      ],
+      "signal_ids": [
+        "sig-0209"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301421.SZ",
+      "code": "301421.SZ",
+      "names": [
+        "波长光电"
+      ],
+      "signal_ids": [
+        "sig-0210"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

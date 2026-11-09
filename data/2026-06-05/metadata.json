@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-06-05",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:01:17+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "002484.SZ",
+      "code": "002484.SZ",
+      "names": [
+        "江海股份"
+      ],
+      "signal_ids": [
+        "sig-0235"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301319.SZ",
+      "code": "301319.SZ",
+      "names": [
+        "唯特偶"
+      ],
+      "signal_ids": [
+        "sig-0236"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002951.SZ",
+      "code": "002951.SZ",
+      "names": [
+        "金时科技"
+      ],
+      "signal_ids": [
+        "sig-0237"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "603045.SH",
+  "names": [
+    "福达合金"
+  ],
+  "signal_ids": [
+    "sig-0240"
+  ],
+  "buy_points": [
+    2.81
+  ],
+  "signal_date": "2026-06-09",
+  "days": [
+    {
+      "date": "2026-06-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d64917afd4108b57be1e55541bb32312217e5d0104c173e841efc3a978f29277"
+    },
+    {
+      "date": "2026-06-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "944d494c590d736c70a3b0ef899e2116f472329a2b287e39f274330bf8145382"
+    }
+  ],
+  "next_trade_date": "2026-06-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:30+08:00"
+}

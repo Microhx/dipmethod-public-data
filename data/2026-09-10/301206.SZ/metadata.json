@@ -1,0 +1,48 @@
+{
+  "code": "301206.SZ",
+  "names": [
+    "三元生物"
+  ],
+  "signal_ids": [
+    "sig-0381"
+  ],
+  "buy_points": [
+    26.95
+  ],
+  "signal_date": "2026-09-10",
+  "days": [
+    {
+      "date": "2026-09-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9776da5faea8d43d680d728a7e671c3984934c71bece237f5ff1236ce763e626"
+    },
+    {
+      "date": "2026-09-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "49df9c0f0fe0c68b51647bf842877ff5af8593579080ccadcf3807e593b389eb"
+    }
+  ],
+  "next_trade_date": "2026-09-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:13+08:00"
+}

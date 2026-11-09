@@ -1,0 +1,48 @@
+{
+  "code": "002869.SZ",
+  "names": [
+    "金溢科技"
+  ],
+  "signal_ids": [
+    "sig-0426"
+  ],
+  "buy_points": [
+    20.55
+  ],
+  "signal_date": "2026-10-14",
+  "days": [
+    {
+      "date": "2026-10-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:47+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "807e1d45bc50229105a854d9456f72d46e9c1280285eceae0af6d14f71fcc943"
+    },
+    {
+      "date": "2026-10-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:47+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0b1667665379231a7021c44e7cd388ac5a901c62d266a6e2a53740fe6749a4ab"
+    }
+  ],
+  "next_trade_date": "2026-10-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:47+08:00"
+}

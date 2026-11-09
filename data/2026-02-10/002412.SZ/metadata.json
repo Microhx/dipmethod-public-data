@@ -1,0 +1,48 @@
+{
+  "code": "002412.SZ",
+  "names": [
+    "汉森制药"
+  ],
+  "signal_ids": [
+    "sig-0068"
+  ],
+  "buy_points": [
+    7.95
+  ],
+  "signal_date": "2026-02-10",
+  "days": [
+    {
+      "date": "2026-02-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "603e67c67239279cf9135ab919382768bd94d68dd4d9927251bf3e9935b177ac"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1be459c786f83a56fba0b6b912f59286c4c435a5d6c46c8655f499f996360851"
+    }
+  ],
+  "next_trade_date": "2026-02-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:38+08:00"
+}

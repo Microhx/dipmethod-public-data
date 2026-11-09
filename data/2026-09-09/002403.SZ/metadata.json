@@ -1,0 +1,48 @@
+{
+  "code": "002403.SZ",
+  "names": [
+    "爱仕达"
+  ],
+  "signal_ids": [
+    "sig-0378"
+  ],
+  "buy_points": [
+    12.627
+  ],
+  "signal_date": "2026-09-09",
+  "days": [
+    {
+      "date": "2026-09-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c4f14ed53851cef497e5ddeaf1c4c7de2157251406ea1c18df163085d671a36a"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cd8d87a8f08646a849aa54bbc80a88ddf150bc18f71b9a62d47ac0c265ce3dc7"
+    }
+  ],
+  "next_trade_date": "2026-09-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:07+08:00"
+}

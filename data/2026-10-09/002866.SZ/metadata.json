@@ -1,0 +1,48 @@
+{
+  "code": "002866.SZ",
+  "names": [
+    "传艺科技"
+  ],
+  "signal_ids": [
+    "sig-0419"
+  ],
+  "buy_points": [
+    17.53
+  ],
+  "signal_date": "2026-10-09",
+  "days": [
+    {
+      "date": "2026-10-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "047ea7ad9a97ea5add8300e97f9eb06f1ce8b09532409dfae5c436865d29dd50"
+    },
+    {
+      "date": "2026-10-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e05f149e9e9629004808fbaefcd718afaf6e1084db31d55fd2be53eb9957083d"
+    }
+  ],
+  "next_trade_date": "2026-10-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:33+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "603115.SH",
+  "names": [
+    "海星股份"
+  ],
+  "signal_ids": [
+    "sig-0205"
+  ],
+  "buy_points": [
+    93
+  ],
+  "signal_date": "2026-05-20",
+  "days": [
+    {
+      "date": "2026-05-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c9e06f543018cf4f9b19b5e53a65c796ba9ef41e63963741d9f1704881a5b825"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "227b456852e7b38e1c01f05a50519bbf0f3ca7fae4df02870ec1fe6ad8590d85"
+    }
+  ],
+  "next_trade_date": "2026-05-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:58+08:00"
+}

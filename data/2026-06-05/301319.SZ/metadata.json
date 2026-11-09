@@ -1,0 +1,48 @@
+{
+  "code": "301319.SZ",
+  "names": [
+    "唯特偶"
+  ],
+  "signal_ids": [
+    "sig-0236"
+  ],
+  "buy_points": [
+    119.75
+  ],
+  "signal_date": "2026-06-05",
+  "days": [
+    {
+      "date": "2026-06-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "72693b7ba2ec0b65448eabb2db86bde2d5fb721d18cf1b66d336228b5b9e851f"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f1ec4e1456ffd6e7520c64d4e9a76236ccaa3060da4780bca18529af4cbc5990"
+    }
+  ],
+  "next_trade_date": "2026-06-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:22+08:00"
+}

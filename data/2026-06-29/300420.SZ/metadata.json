@@ -1,0 +1,48 @@
+{
+  "code": "300420.SZ",
+  "names": [
+    "五洋自控"
+  ],
+  "signal_ids": [
+    "sig-0278"
+  ],
+  "buy_points": [
+    9.09
+  ],
+  "signal_date": "2026-06-29",
+  "days": [
+    {
+      "date": "2026-06-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "92793c458a2286830e275cb0603e64675d486743543cefb90268eabefdc7b41e"
+    },
+    {
+      "date": "2026-06-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d3347111fe4647df9aab991aada68571cbe3d4e1f2edfe0d2d0412dd7bcbb618"
+    }
+  ],
+  "next_trade_date": "2026-06-30",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:53+08:00"
+}

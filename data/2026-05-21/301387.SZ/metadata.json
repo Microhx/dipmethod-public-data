@@ -1,0 +1,48 @@
+{
+  "code": "301387.SZ",
+  "names": [
+    "光大同创"
+  ],
+  "signal_ids": [
+    "sig-0208"
+  ],
+  "buy_points": [
+    110.55
+  ],
+  "signal_date": "2026-05-21",
+  "days": [
+    {
+      "date": "2026-05-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b06300a0bf163fec83ff0b751cb5125f5fe6bbf3be02c231327f2d840a0e66f8"
+    },
+    {
+      "date": "2026-05-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "940ca7e9f470302b803213f553ce2d50d67fec4db47962299e5d40a6cbad0be3"
+    }
+  ],
+  "next_trade_date": "2026-05-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:05+08:00"
+}

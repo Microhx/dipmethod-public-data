@@ -1,0 +1,48 @@
+{
+  "code": "603052.SH",
+  "names": [
+    "可川科技"
+  ],
+  "signal_ids": [
+    "sig-0030"
+  ],
+  "buy_points": [
+    48.34
+  ],
+  "signal_date": "2026-01-19",
+  "days": [
+    {
+      "date": "2026-01-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e2368ecec5fb825000b88e63f1028c16eacf536e8bc7b7385affd3721b3b96e4"
+    },
+    {
+      "date": "2026-01-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ceff2f576456685cc8ae9a076954514b5e4574def5b6c7c9c277d0eedf4896d1"
+    }
+  ],
+  "next_trade_date": "2026-01-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:08+08:00"
+}

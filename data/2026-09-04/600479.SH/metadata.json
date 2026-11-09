@@ -1,0 +1,48 @@
+{
+  "code": "600479.SH",
+  "names": [
+    "千金药业"
+  ],
+  "signal_ids": [
+    "sig-0371"
+  ],
+  "buy_points": [
+    13.13
+  ],
+  "signal_date": "2026-09-04",
+  "days": [
+    {
+      "date": "2026-09-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2ac54c90375b938041d6b6a4b6f3d85a1060b73431564c35e38eddd1e9b94cae"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a2689d01410690efb9f1d7710084fdd11fc7afa9bf5ad21a6b4859c62e8f1449"
+    }
+  ],
+  "next_trade_date": "2026-09-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:52+08:00"
+}

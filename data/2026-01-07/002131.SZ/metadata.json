@@ -1,0 +1,48 @@
+{
+  "code": "002131.SZ",
+  "names": [
+    "利欧股份"
+  ],
+  "signal_ids": [
+    "sig-0008"
+  ],
+  "buy_points": [
+    6.43
+  ],
+  "signal_date": "2026-01-07",
+  "days": [
+    {
+      "date": "2026-01-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "36cd97a7639cbc4c2f692d807dd6849ba5903a4242de311aa2ada00f21728f76"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6da2b656df02a405f376a8d973697a60358b110d08a47d09f9fe9194f30172df"
+    }
+  ],
+  "next_trade_date": "2026-01-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:17+08:00"
+}

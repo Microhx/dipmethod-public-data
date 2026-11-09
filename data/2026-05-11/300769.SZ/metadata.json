@@ -1,0 +1,48 @@
+{
+  "code": "300769.SZ",
+  "names": [
+    "德方纳米"
+  ],
+  "signal_ids": [
+    "sig-0185"
+  ],
+  "buy_points": [
+    79.5
+  ],
+  "signal_date": "2026-05-11",
+  "days": [
+    {
+      "date": "2026-05-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6a37664c39ca75c68199bd2899bcd001920fdca8f782ef057166ba2bc86cadbc"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c645f47882eb1e72749eb8d03a197e157000a83686434d3d71e9c46a8ef37951"
+    }
+  ],
+  "next_trade_date": "2026-05-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:09+08:00"
+}

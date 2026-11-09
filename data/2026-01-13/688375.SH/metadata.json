@@ -1,0 +1,48 @@
+{
+  "code": "688375.SH",
+  "names": [
+    "国博电子"
+  ],
+  "signal_ids": [
+    "sig-0023"
+  ],
+  "buy_points": [
+    136
+  ],
+  "signal_date": "2026-01-13",
+  "days": [
+    {
+      "date": "2026-01-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fda6f0759b4299343395b111cb40786cc9f818bfb5718ec7c87411e4239da1a4"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e214c791630198dd10557e03522155b9879c0b34f94e830f537b0edb5ecd071b"
+    }
+  ],
+  "next_trade_date": "2026-01-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:53+08:00"
+}

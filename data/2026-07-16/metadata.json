@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-07-16",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:03:35+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "603669.SH",
+      "code": "603669.SH",
+      "names": [
+        "灵康药业"
+      ],
+      "signal_ids": [
+        "sig-0300"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002821.SZ",
+      "code": "002821.SZ",
+      "names": [
+        "凯莱英"
+      ],
+      "signal_ids": [
+        "sig-0301"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

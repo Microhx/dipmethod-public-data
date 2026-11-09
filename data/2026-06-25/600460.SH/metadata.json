@@ -1,0 +1,48 @@
+{
+  "code": "600460.SH",
+  "names": [
+    "士兰微"
+  ],
+  "signal_ids": [
+    "sig-0269"
+  ],
+  "buy_points": [
+    48.26
+  ],
+  "signal_date": "2026-06-25",
+  "days": [
+    {
+      "date": "2026-06-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a0b2c71fbdcb488732ea16af6ff33d8ef194c084b6148da5e23b4c0e07d90c0a"
+    },
+    {
+      "date": "2026-06-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "effeb37d74d78bf03ac28405c54ddf0dac18ba446bb4bfe4f7f12d89f52e6823"
+    }
+  ],
+  "next_trade_date": "2026-06-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:36+08:00"
+}

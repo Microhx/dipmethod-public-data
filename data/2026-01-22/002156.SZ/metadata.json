@@ -1,0 +1,48 @@
+{
+  "code": "002156.SZ",
+  "names": [
+    "通富微电"
+  ],
+  "signal_ids": [
+    "sig-0035"
+  ],
+  "buy_points": [
+    55.84
+  ],
+  "signal_date": "2026-01-22",
+  "days": [
+    {
+      "date": "2026-01-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1b96b1632e995a59c3d933667681b4ce2b63a43d15857647900fcb1dfc725c46"
+    },
+    {
+      "date": "2026-01-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bd8d39e940e3eed9ff43131f69b6da8b2588e58c05a711815b9d5fd6886988f9"
+    }
+  ],
+  "next_trade_date": "2026-01-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:22+08:00"
+}

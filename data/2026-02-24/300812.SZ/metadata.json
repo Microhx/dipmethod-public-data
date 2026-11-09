@@ -1,0 +1,48 @@
+{
+  "code": "300812.SZ",
+  "names": [
+    "易天股份"
+  ],
+  "signal_ids": [
+    "sig-0079"
+  ],
+  "buy_points": [
+    39.67
+  ],
+  "signal_date": "2026-02-24",
+  "days": [
+    {
+      "date": "2026-02-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "795eb898c98c0bfe1ebe621906833009c74dcd575acf2ffb690e6b81e18eaba1"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cca891d0181f5fef7a37e7ffb3ea4ed36fc1bd7a4e97cef5327f630841ae20b0"
+    }
+  ],
+  "next_trade_date": "2026-02-25",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:06+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "301207.SZ",
+  "names": [
+    "华兰疫苗"
+  ],
+  "signal_ids": [
+    "sig-0188"
+  ],
+  "buy_points": [
+    21.97
+  ],
+  "signal_date": "2026-05-12",
+  "days": [
+    {
+      "date": "2026-05-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0df1d397a423ebbac002cca5cc603023b065ca6fd8984f74b5a719c9f7b60575"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "612949558a0eb781ac48b36e0e96ce6bfd36c4242ed7458671601d4b7869e0b3"
+    }
+  ],
+  "next_trade_date": "2026-05-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:16+08:00"
+}

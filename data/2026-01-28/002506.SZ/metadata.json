@@ -1,0 +1,48 @@
+{
+  "code": "002506.SZ",
+  "names": [
+    "协鑫集成"
+  ],
+  "signal_ids": [
+    "sig-0047"
+  ],
+  "buy_points": [
+    3.515
+  ],
+  "signal_date": "2026-01-28",
+  "days": [
+    {
+      "date": "2026-01-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "940e44037a79393a43358c5f253b2ed72f5d9d6945e280762d00658f960cc997"
+    },
+    {
+      "date": "2026-01-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d95cf856433ec370ef41aefc8877160b104b44e0186ad3a7955644b06dc0cf62"
+    }
+  ],
+  "next_trade_date": "2026-01-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:49+08:00"
+}

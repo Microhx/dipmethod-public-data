@@ -1,0 +1,48 @@
+{
+  "code": "002025.SZ",
+  "names": [
+    "航天电器"
+  ],
+  "signal_ids": [
+    "sig-0016"
+  ],
+  "buy_points": [
+    64.94
+  ],
+  "signal_date": "2026-01-09",
+  "days": [
+    {
+      "date": "2026-01-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7cd4726126e731eba5698e6daaf523ee9824e1b2d5602b2a74eb56010d0c20e6"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3f21a72d8250cdbecb7564fd3ba53aed9ef4ecc74f587bb7bbed4fb9fd0af1df"
+    }
+  ],
+  "next_trade_date": "2026-01-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:35+08:00"
+}

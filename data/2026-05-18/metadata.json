@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-05-18",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:59:39+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "603386.SH",
+      "code": "603386.SH",
+      "names": [
+        "骏亚科技"
+      ],
+      "signal_ids": [
+        "sig-0199"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301538.SZ",
+      "code": "301538.SZ",
+      "names": [
+        "骏鼎达"
+      ],
+      "signal_ids": [
+        "sig-0200"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301611.SZ",
+      "code": "301611.SZ",
+      "names": [
+        "珂玛科技"
+      ],
+      "signal_ids": [
+        "sig-0201"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

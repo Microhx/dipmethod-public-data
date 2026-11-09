@@ -1,0 +1,48 @@
+{
+  "code": "301419.SZ",
+  "names": [
+    "阿莱德"
+  ],
+  "signal_ids": [
+    "sig-0234"
+  ],
+  "buy_points": [
+    46.18
+  ],
+  "signal_date": "2026-06-04",
+  "days": [
+    {
+      "date": "2026-06-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2615f1a01fe4ac122f6181fa32a19dc3db2274760ddee8fa1954b20b78e153a0"
+    },
+    {
+      "date": "2026-06-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "77fc3eab9aef9614e7430e273e53d8e0c7b8458b0687a3a0a8d27ba56ea35932"
+    }
+  ],
+  "next_trade_date": "2026-06-05",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:17+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300795.SZ",
+  "names": [
+    "米奥会展"
+  ],
+  "signal_ids": [
+    "sig-0303"
+  ],
+  "buy_points": [
+    12.7
+  ],
+  "signal_date": "2026-07-22",
+  "days": [
+    {
+      "date": "2026-07-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:42+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "46e89fe770a6a40dd147768ca6096c69a3e8b8481cde3b18c819ad6c72119e61"
+    },
+    {
+      "date": "2026-07-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:42+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7927641193e0f3fd384d1a22a5b5771dfc09e2ace1ad03539c5d5264b936eeb9"
+    }
+  ],
+  "next_trade_date": "2026-07-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:42+08:00"
+}

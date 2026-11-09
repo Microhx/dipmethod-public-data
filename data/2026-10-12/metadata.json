@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-10-12",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:07:33+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300530.SZ",
+      "code": "300530.SZ",
+      "names": [
+        "领湃科技"
+      ],
+      "signal_ids": [
+        "sig-0420"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301119.SZ",
+      "code": "301119.SZ",
+      "names": [
+        "正强股份"
+      ],
+      "signal_ids": [
+        "sig-0421"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300829.SZ",
+      "code": "300829.SZ",
+      "names": [
+        "金丹科技"
+      ],
+      "signal_ids": [
+        "sig-0422"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

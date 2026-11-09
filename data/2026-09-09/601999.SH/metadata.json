@@ -1,0 +1,48 @@
+{
+  "code": "601999.SH",
+  "names": [
+    "出版传媒"
+  ],
+  "signal_ids": [
+    "sig-0379"
+  ],
+  "buy_points": [
+    7.33
+  ],
+  "signal_date": "2026-09-09",
+  "days": [
+    {
+      "date": "2026-09-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1d4a332967ad80e4d67c27178359514c4bc1d1ae105428d20cbf29c73cae8baf"
+    },
+    {
+      "date": "2026-09-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d55ac9bd775ad30131e6ba2278d0ea5c74f8277f347703e0c7bd9e8ce0705ae1"
+    }
+  ],
+  "next_trade_date": "2026-09-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:09+08:00"
+}

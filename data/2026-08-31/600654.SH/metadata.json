@@ -1,0 +1,48 @@
+{
+  "code": "600654.SH",
+  "names": [
+    "中安科"
+  ],
+  "signal_ids": [
+    "sig-0363"
+  ],
+  "buy_points": [
+    3.328
+  ],
+  "signal_date": "2026-08-31",
+  "days": [
+    {
+      "date": "2026-08-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "54abf7683b70947bb76644248e331082032786c6a37296578b4c4a8fffd44fc3"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "adcb257eb3ef9f77793c4619c57e88abfe992ede8b509a132ba7924321b9996d"
+    }
+  ],
+  "next_trade_date": "2026-09-01",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:36+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300887.SZ",
+  "names": [
+    "谱尼测试"
+  ],
+  "signal_ids": [
+    "sig-0013"
+  ],
+  "buy_points": [
+    14.11
+  ],
+  "signal_date": "2026-01-09",
+  "days": [
+    {
+      "date": "2026-01-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b68b36b37020fc5b659101f8b5da5bf9668857a1626da13a74688ea14d3a3778"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cf3765836e9f1930765f6f1c859945a4312f09215aae43bfb8df2e0432cf6679"
+    }
+  ],
+  "next_trade_date": "2026-01-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:29+08:00"
+}

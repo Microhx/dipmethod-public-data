@@ -1,0 +1,48 @@
+{
+  "code": "600982.SH",
+  "names": [
+    "宁波能源"
+  ],
+  "signal_ids": [
+    "sig-0127"
+  ],
+  "buy_points": [
+    6.77
+  ],
+  "signal_date": "2026-03-30",
+  "days": [
+    {
+      "date": "2026-03-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9b1fe4530c6464d7af9fbeae86b0461683fb39b9349015e69a89ee03c3159f7a"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d90771dc59739099804df2eb3155f24bff0af1e7c2142c3c88e1605c328eaa21"
+    }
+  ],
+  "next_trade_date": "2026-03-31",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:53+08:00"
+}

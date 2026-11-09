@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-01-23",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:53:24+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300671.SZ",
+      "code": "300671.SZ",
+      "names": [
+        "富满微"
+      ],
+      "signal_ids": [
+        "sig-0037"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002077.SZ",
+      "code": "002077.SZ",
+      "names": [
+        "大港股份"
+      ],
+      "signal_ids": [
+        "sig-0038"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

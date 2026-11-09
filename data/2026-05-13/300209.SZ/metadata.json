@@ -1,0 +1,48 @@
+{
+  "code": "300209.SZ",
+  "names": [
+    "行云科技"
+  ],
+  "signal_ids": [
+    "sig-0192"
+  ],
+  "buy_points": [
+    24.5
+  ],
+  "signal_date": "2026-05-13",
+  "days": [
+    {
+      "date": "2026-05-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "61a87772f62dbd144f21b1832c315abb4ee7ac85e8f374342b96f85360bab699"
+    },
+    {
+      "date": "2026-05-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8a6d5d65487e52ae274430e778b249ab2be6c85c84230b0b2428b4fba1b1e423"
+    }
+  ],
+  "next_trade_date": "2026-05-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:24+08:00"
+}

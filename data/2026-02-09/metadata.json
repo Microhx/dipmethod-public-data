@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-02-09",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:54:29+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300927.SZ",
+      "code": "300927.SZ",
+      "names": [
+        "江天化学"
+      ],
+      "signal_ids": [
+        "sig-0065"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300798.SZ",
+      "code": "300798.SZ",
+      "names": [
+        "锦鸡股份"
+      ],
+      "signal_ids": [
+        "sig-0066"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000533.SZ",
+      "code": "000533.SZ",
+      "names": [
+        "顺钠股份"
+      ],
+      "signal_ids": [
+        "sig-0067"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "001316.SZ",
+  "names": [
+    "润贝航科"
+  ],
+  "signal_ids": [
+    "sig-0040"
+  ],
+  "buy_points": [
+    48.9
+  ],
+  "signal_date": "2026-01-26",
+  "days": [
+    {
+      "date": "2026-01-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "75479f8fdb4814fdbfc3a808582969980a1d9039bb40529510bbeab3a00bd748"
+    },
+    {
+      "date": "2026-01-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "615201e50bea2f7b864014d2176ea078e706611abe987c14f6b8b16ca9f58819"
+    }
+  ],
+  "next_trade_date": "2026-01-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:34+08:00"
+}

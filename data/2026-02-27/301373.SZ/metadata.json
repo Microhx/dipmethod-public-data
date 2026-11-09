@@ -1,0 +1,48 @@
+{
+  "code": "301373.SZ",
+  "names": [
+    "凌玮科技"
+  ],
+  "signal_ids": [
+    "sig-0086"
+  ],
+  "buy_points": [
+    46.9
+  ],
+  "signal_date": "2026-02-27",
+  "days": [
+    {
+      "date": "2026-02-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e505fc13f28ec6372c66c73e9bff0a38e417706873a775bd1d43561d6ef483df"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c5e056883310c92673d7098853af78224e002c3ef672cde150595b138bea2ca7"
+    }
+  ],
+  "next_trade_date": "2026-03-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:20+08:00"
+}

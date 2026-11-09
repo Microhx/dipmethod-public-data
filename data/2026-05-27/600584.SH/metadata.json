@@ -1,0 +1,48 @@
+{
+  "code": "600584.SH",
+  "names": [
+    "长电科技"
+  ],
+  "signal_ids": [
+    "sig-0220"
+  ],
+  "buy_points": [
+    84.59
+  ],
+  "signal_date": "2026-05-27",
+  "days": [
+    {
+      "date": "2026-05-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:42+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e239a91ed30945306bb5755c6c4b690041b09e4ae2fdc54f07adef3e95099997"
+    },
+    {
+      "date": "2026-05-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:42+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a1535761ad33352e3e829794207b78336775b973b1d235f6b15ac0aae5cbf99e"
+    }
+  ],
+  "next_trade_date": "2026-05-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:43+08:00"
+}

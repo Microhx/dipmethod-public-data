@@ -1,0 +1,48 @@
+{
+  "code": "300798.SZ",
+  "names": [
+    "锦鸡股份"
+  ],
+  "signal_ids": [
+    "sig-0066"
+  ],
+  "buy_points": [
+    10
+  ],
+  "signal_date": "2026-02-09",
+  "days": [
+    {
+      "date": "2026-02-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d36b3cf8e38a8a4da49c3511aa6a9c70211ef4260941af01eb83643cc35b2f18"
+    },
+    {
+      "date": "2026-02-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bc988331249fc14e0fa27b98eb4dff189040af666d3de64947d6ecb781a6d9e0"
+    }
+  ],
+  "next_trade_date": "2026-02-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:34+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "688055.SH",
+  "names": [
+    "龙腾光电"
+  ],
+  "signal_ids": [
+    "sig-0211"
+  ],
+  "buy_points": [
+    5.1
+  ],
+  "signal_date": "2026-05-22",
+  "days": [
+    {
+      "date": "2026-05-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ef2a72ac7ab7764ea0550ccdd5e9ae07d2c2af633431dee16f741ab8a02d58ef"
+    },
+    {
+      "date": "2026-05-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c91b15a8bd7f1308c0ca79522c0cc4f7682ad71755b85f249ede122aac6f603a"
+    }
+  ],
+  "next_trade_date": "2026-05-25",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:15+08:00"
+}

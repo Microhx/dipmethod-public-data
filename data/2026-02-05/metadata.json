@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-02-05",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:54:20+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "002623.SZ",
+      "code": "002623.SZ",
+      "names": [
+        "亚玛顿"
+      ],
+      "signal_ids": [
+        "sig-0061"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300316.SZ",
+      "code": "300316.SZ",
+      "names": [
+        "晶盛机电"
+      ],
+      "signal_ids": [
+        "sig-0062"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

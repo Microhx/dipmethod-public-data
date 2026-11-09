@@ -1,0 +1,23 @@
+{
+  "signal_date": "2026-07-13",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:03:27+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 1,
+  "stocks": [
+    {
+      "folder": "000779.SZ",
+      "code": "000779.SZ",
+      "names": [
+        "甘咨询"
+      ],
+      "signal_ids": [
+        "sig-0296"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

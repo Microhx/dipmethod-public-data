@@ -1,0 +1,48 @@
+{
+  "code": "603316.SH",
+  "names": [
+    "诚邦股份"
+  ],
+  "signal_ids": [
+    "sig-0212"
+  ],
+  "buy_points": [
+    24.86
+  ],
+  "signal_date": "2026-05-22",
+  "days": [
+    {
+      "date": "2026-05-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4d352f429b263caeec816b693cb330f939ccfdda79d81c19d474a5d914792bd4"
+    },
+    {
+      "date": "2026-05-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "be8df8e72970f252bfb49451f872f3aa86ff3d67c41ad655bdec763902b51e66"
+    }
+  ],
+  "next_trade_date": "2026-05-25",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:18+08:00"
+}

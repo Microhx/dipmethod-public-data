@@ -1,0 +1,48 @@
+{
+  "code": "301611.SZ",
+  "names": [
+    "珂玛科技"
+  ],
+  "signal_ids": [
+    "sig-0195"
+  ],
+  "buy_points": [
+    115.01
+  ],
+  "signal_date": "2026-05-14",
+  "days": [
+    {
+      "date": "2026-05-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bd5d678ea5fece046e1459b6875fb28c65d1340627d377220543edb61d2d3cd5"
+    },
+    {
+      "date": "2026-05-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2100cd73e9f0bbcedea4f1530fb7d1c5978c81f8174dbf9589350a3af68b25c5"
+    }
+  ],
+  "next_trade_date": "2026-05-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:31+08:00"
+}

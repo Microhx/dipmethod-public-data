@@ -1,0 +1,48 @@
+{
+  "code": "601669.SH",
+  "names": [
+    "中国电建"
+  ],
+  "signal_ids": [
+    "sig-0110"
+  ],
+  "buy_points": [
+    6.616
+  ],
+  "signal_date": "2026-03-16",
+  "days": [
+    {
+      "date": "2026-03-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:14+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f4d763e9591ad257eecc45e2bc8bb47dfbe435196facad9a77d292a394ed91d4"
+    },
+    {
+      "date": "2026-03-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:14+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "15e4d9793d678cc0753db5196b48f6f6276492f131a19c5149912036d3d8651e"
+    }
+  ],
+  "next_trade_date": "2026-03-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:14+08:00"
+}

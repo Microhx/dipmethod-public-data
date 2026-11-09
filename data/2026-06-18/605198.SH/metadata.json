@@ -1,0 +1,48 @@
+{
+  "code": "605198.SH",
+  "names": [
+    "安德利"
+  ],
+  "signal_ids": [
+    "sig-0258"
+  ],
+  "buy_points": [
+    78.21
+  ],
+  "signal_date": "2026-06-18",
+  "days": [
+    {
+      "date": "2026-06-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "631e7690053dc3a29a0954256d9b1f868ec3fbc4746787ddc8a07a64f1dac52f"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d352056fe72c320845109d034465214f5a7f98098e10bda066a8e828d3a94527"
+    }
+  ],
+  "next_trade_date": "2026-06-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:11+08:00"
+}

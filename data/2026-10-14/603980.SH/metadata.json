@@ -1,0 +1,48 @@
+{
+  "code": "603980.SH",
+  "names": [
+    "吉华集团"
+  ],
+  "signal_ids": [
+    "sig-0427"
+  ],
+  "buy_points": [
+    10.34
+  ],
+  "signal_date": "2026-10-14",
+  "days": [
+    {
+      "date": "2026-10-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "269d9eba8a0bb2a9a3c6078930d2dd96bc188f15eb1ff6407fddbaca3cc6411b"
+    },
+    {
+      "date": "2026-10-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e89fb755bafefa478a85dfa6b1d41f0181d9f250e2000d6e3adfe38af2053286"
+    }
+  ],
+  "next_trade_date": "2026-10-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:49+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300369.SZ",
+  "names": [
+    "绿盟科技"
+  ],
+  "signal_ids": [
+    "sig-0078"
+  ],
+  "buy_points": [
+    9.77
+  ],
+  "signal_date": "2026-02-24",
+  "days": [
+    {
+      "date": "2026-02-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5f4f6ee57c3b446233c735b03554aacbeb6c974c0e81b8246e2d4c926ea263af"
+    },
+    {
+      "date": "2026-02-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6a0ec0cd5aa334743319bca46f7d13869cf1a7b4195153a27766f14867d8c9d6"
+    }
+  ],
+  "next_trade_date": "2026-02-25",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:04+08:00"
+}

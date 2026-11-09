@@ -1,0 +1,48 @@
+{
+  "code": "600522.SH",
+  "names": [
+    "中天科技"
+  ],
+  "signal_ids": [
+    "sig-0274"
+  ],
+  "buy_points": [
+    63.25
+  ],
+  "signal_date": "2026-06-26",
+  "days": [
+    {
+      "date": "2026-06-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fc15cc3b0af845a8af65357e85d9e6507d658c73a7b4788ffea84610f109d31f"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5ede9889455383ab5323a660e2d5d530d13061d5624b47f620403399a18220bf"
+    }
+  ],
+  "next_trade_date": "2026-06-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:45+08:00"
+}

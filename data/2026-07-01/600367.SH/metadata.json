@@ -1,0 +1,48 @@
+{
+  "code": "600367.SH",
+  "names": [
+    "红星发展"
+  ],
+  "signal_ids": [
+    "sig-0281"
+  ],
+  "buy_points": [
+    59.68
+  ],
+  "signal_date": "2026-07-01",
+  "days": [
+    {
+      "date": "2026-07-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a3edbfd36bb016dc249ab7f2a9c2e3effa208b65977199118a8f21726a86ec82"
+    },
+    {
+      "date": "2026-07-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "55bff1eaf7f1748e94398687d55a9251b696655f4809af70a03e71408057aba8"
+    }
+  ],
+  "next_trade_date": "2026-07-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:59+08:00"
+}

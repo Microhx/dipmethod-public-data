@@ -1,0 +1,23 @@
+{
+  "signal_date": "2026-04-10",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:57:24+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 1,
+  "stocks": [
+    {
+      "folder": "000586.SZ",
+      "code": "000586.SZ",
+      "names": [
+        "汇源通信"
+      ],
+      "signal_ids": [
+        "sig-0142"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

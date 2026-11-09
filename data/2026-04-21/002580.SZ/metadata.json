@@ -1,0 +1,48 @@
+{
+  "code": "002580.SZ",
+  "names": [
+    "圣阳股份"
+  ],
+  "signal_ids": [
+    "sig-0159"
+  ],
+  "buy_points": [
+    29.75
+  ],
+  "signal_date": "2026-04-21",
+  "days": [
+    {
+      "date": "2026-04-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "271702c19c8ee595fe738fa7668e7babad7eb58ce1ffaa8aaca17e4dc0eb4f01"
+    },
+    {
+      "date": "2026-04-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "715ad51835b000cd71259d6c13f0ed9114a814e55e2795b86151e29d3b26cb5a"
+    }
+  ],
+  "next_trade_date": "2026-04-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:06+08:00"
+}

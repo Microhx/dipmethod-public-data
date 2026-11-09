@@ -1,0 +1,48 @@
+{
+  "code": "000889.SZ",
+  "names": [
+    "中嘉博创"
+  ],
+  "signal_ids": [
+    "sig-0172"
+  ],
+  "buy_points": [
+    4.76
+  ],
+  "signal_date": "2026-04-29",
+  "days": [
+    {
+      "date": "2026-04-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:36+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "00dbdccd931f600b1968b6ee53f0397a8c6f738a17a2313413ce4827609317fb"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:36+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "897b486da28ee1b515a90a39a9411518d72167e9bd38b105da023258dadd52a7"
+    }
+  ],
+  "next_trade_date": "2026-04-30",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:36+08:00"
+}

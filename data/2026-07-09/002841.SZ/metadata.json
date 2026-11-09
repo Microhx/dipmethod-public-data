@@ -1,0 +1,48 @@
+{
+  "code": "002841.SZ",
+  "names": [
+    "视源股份"
+  ],
+  "signal_ids": [
+    "sig-0293"
+  ],
+  "buy_points": [
+    45.1
+  ],
+  "signal_date": "2026-07-09",
+  "days": [
+    {
+      "date": "2026-07-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "55740c2c37df5f39c42f3cc92eea45632f16c8bd704446fa39d97de7e457668a"
+    },
+    {
+      "date": "2026-07-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "425ca5dc0bfa27635a93d3239fd954005ae836ae8129efee7ff22983810a4fb3"
+    }
+  ],
+  "next_trade_date": "2026-07-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:22+08:00"
+}

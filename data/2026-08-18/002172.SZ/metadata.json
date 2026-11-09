@@ -1,0 +1,48 @@
+{
+  "code": "002172.SZ",
+  "names": [
+    "澳洋健康"
+  ],
+  "signal_ids": [
+    "sig-0346"
+  ],
+  "buy_points": [
+    4.59
+  ],
+  "signal_date": "2026-08-18",
+  "days": [
+    {
+      "date": "2026-08-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "aa3293679b92ed338b2747c56c85ddecfc63cc1a59591b468b218541d0e035f2"
+    },
+    {
+      "date": "2026-08-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "70941df2e5dae776eb4a3df39fb28c410d559675c92ef67db0919740334f5048"
+    }
+  ],
+  "next_trade_date": "2026-08-19",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:05+08:00"
+}

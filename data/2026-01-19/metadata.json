@@ -1,0 +1,23 @@
+{
+  "signal_date": "2026-01-19",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:53:04+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 1,
+  "stocks": [
+    {
+      "folder": "603052.SH",
+      "code": "603052.SH",
+      "names": [
+        "可川科技"
+      ],
+      "signal_ids": [
+        "sig-0030"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

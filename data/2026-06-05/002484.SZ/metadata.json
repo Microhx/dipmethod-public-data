@@ -1,0 +1,48 @@
+{
+  "code": "002484.SZ",
+  "names": [
+    "江海股份"
+  ],
+  "signal_ids": [
+    "sig-0235"
+  ],
+  "buy_points": [
+    89.81
+  ],
+  "signal_date": "2026-06-05",
+  "days": [
+    {
+      "date": "2026-06-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a7c658441946896a08a65c77d2c32cfc6bd2d725df8f6fba148eb5f6e868958d"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "053bee14971b220e8f246f7027f7256b4fc9c433b2d72349ef0d3e9b4c92feee"
+    }
+  ],
+  "next_trade_date": "2026-06-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:19+08:00"
+}

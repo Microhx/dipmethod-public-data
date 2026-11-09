@@ -1,0 +1,67 @@
+{
+  "signal_date": "2026-01-13",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:52:41+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 5,
+  "stocks": [
+    {
+      "folder": "300629.SZ",
+      "code": "300629.SZ",
+      "names": [
+        "新劲刚"
+      ],
+      "signal_ids": [
+        "sig-0019"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300455.SZ",
+      "code": "300455.SZ",
+      "names": [
+        "航天智装"
+      ],
+      "signal_ids": [
+        "sig-0020"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002173.SZ",
+      "code": "002173.SZ",
+      "names": [
+        "创新医疗"
+      ],
+      "signal_ids": [
+        "sig-0021"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301213.SZ",
+      "code": "301213.SZ",
+      "names": [
+        "观想科技"
+      ],
+      "signal_ids": [
+        "sig-0022"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "688375.SH",
+      "code": "688375.SH",
+      "names": [
+        "国博电子"
+      ],
+      "signal_ids": [
+        "sig-0023"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

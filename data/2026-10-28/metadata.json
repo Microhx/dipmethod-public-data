@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-10-28",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:08:22+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "301314.SZ",
+      "code": "301314.SZ",
+      "names": [
+        "科瑞思"
+      ],
+      "signal_ids": [
+        "sig-0445"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301083.SZ",
+      "code": "301083.SZ",
+      "names": [
+        "百胜智能"
+      ],
+      "signal_ids": [
+        "sig-0446"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

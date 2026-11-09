@@ -1,0 +1,48 @@
+{
+  "code": "688523.SH",
+  "names": [
+    "航天环宇"
+  ],
+  "signal_ids": [
+    "sig-0010"
+  ],
+  "buy_points": [
+    67.88
+  ],
+  "signal_date": "2026-01-07",
+  "days": [
+    {
+      "date": "2026-01-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:21+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d7f4644b081f67f1c3f722a6cf7e9c11e463eb96cee9983bb29d2cae455363dd"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:21+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "860433387372733c6ef85728240554532a2ed039d84375fc30f5d055792b319f"
+    }
+  ],
+  "next_trade_date": "2026-01-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:21+08:00"
+}

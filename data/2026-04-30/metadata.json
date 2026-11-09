@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-04-30",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:58:36+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "002340.SZ",
+      "code": "002340.SZ",
+      "names": [
+        "格林美"
+      ],
+      "signal_ids": [
+        "sig-0173"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002709.SZ",
+      "code": "002709.SZ",
+      "names": [
+        "天赐材料"
+      ],
+      "signal_ids": [
+        "sig-0174"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

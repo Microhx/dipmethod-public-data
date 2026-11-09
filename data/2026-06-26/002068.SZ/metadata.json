@@ -1,0 +1,48 @@
+{
+  "code": "002068.SZ",
+  "names": [
+    "黑猫股份"
+  ],
+  "signal_ids": [
+    "sig-0272"
+  ],
+  "buy_points": [
+    14.35
+  ],
+  "signal_date": "2026-06-26",
+  "days": [
+    {
+      "date": "2026-06-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2935f2f159dd8a81c32eab1d195b2666bfd29b5e5b6de34c30fcaf33373fa769"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a8bb81d5dd6882ee62cb7ad3c5d0e46f0d56cf3fea5199131b4aedb88b2a6753"
+    }
+  ],
+  "next_trade_date": "2026-06-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:41+08:00"
+}

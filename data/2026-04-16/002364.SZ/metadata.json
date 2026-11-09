@@ -1,0 +1,48 @@
+{
+  "code": "002364.SZ",
+  "names": [
+    "中恒电气"
+  ],
+  "signal_ids": [
+    "sig-0149"
+  ],
+  "buy_points": [
+    41.55
+  ],
+  "signal_date": "2026-04-16",
+  "days": [
+    {
+      "date": "2026-04-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "07660a3c6c6a2f2894b7966d2ecb8a989ab82941a391cdf06cc37d361acdb03b"
+    },
+    {
+      "date": "2026-04-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c01136ad9862fe4a4d6eac4c9dbd08c1ea58aca1670f61db46a4c331944ee597"
+    }
+  ],
+  "next_trade_date": "2026-04-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:41+08:00"
+}

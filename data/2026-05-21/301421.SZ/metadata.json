@@ -1,0 +1,48 @@
+{
+  "code": "301421.SZ",
+  "names": [
+    "波长光电"
+  ],
+  "signal_ids": [
+    "sig-0210"
+  ],
+  "buy_points": [
+    116
+  ],
+  "signal_date": "2026-05-21",
+  "days": [
+    {
+      "date": "2026-05-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:12+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c41fdd325456661223a9e59f5ed2a59d663e467227112628144e0cd48495c94b"
+    },
+    {
+      "date": "2026-05-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:12+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1b04f6fa3da01ea3162a7bd8c1ea3debf2a6b4025430e6b2d9cb5f16bb35fbaa"
+    }
+  ],
+  "next_trade_date": "2026-05-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:12+08:00"
+}

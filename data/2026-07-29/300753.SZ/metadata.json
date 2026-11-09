@@ -1,0 +1,48 @@
+{
+  "code": "300753.SZ",
+  "names": [
+    "爱朋医疗"
+  ],
+  "signal_ids": [
+    "sig-0311"
+  ],
+  "buy_points": [
+    23.75
+  ],
+  "signal_date": "2026-07-29",
+  "days": [
+    {
+      "date": "2026-07-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "900b94a241b52fcd72b34a86913ffa5d2cbcddd1280111e4c130f3dd1f867502"
+    },
+    {
+      "date": "2026-07-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e496848026e4212c836b70052bcf04d776a8ff0e51ad32ba9990e079d65968c1"
+    }
+  ],
+  "next_trade_date": "2026-07-30",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:58+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300378.SZ",
+  "names": [
+    "鼎捷数智"
+  ],
+  "signal_ids": [
+    "sig-0443"
+  ],
+  "buy_points": [
+    42.45
+  ],
+  "signal_date": "2026-10-26",
+  "days": [
+    {
+      "date": "2026-10-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4184b33ed6db92da451c031019d56b8dcec5aef19302e8ce5cdda5cb36b7f70a"
+    },
+    {
+      "date": "2026-10-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0b8c5044eaa00ee5b0700521b6299c2353552c08470eb874f2aef21f6fc16bc5"
+    }
+  ],
+  "next_trade_date": "2026-10-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:20+08:00"
+}

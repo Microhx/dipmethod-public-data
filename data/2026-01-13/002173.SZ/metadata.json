@@ -1,0 +1,48 @@
+{
+  "code": "002173.SZ",
+  "names": [
+    "创新医疗"
+  ],
+  "signal_ids": [
+    "sig-0021"
+  ],
+  "buy_points": [
+    34.49
+  ],
+  "signal_date": "2026-01-13",
+  "days": [
+    {
+      "date": "2026-01-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "63f973cbc5a6658a0a97df7d977f3c4a5f9fb7299193f8caf3cbbf50121ef81a"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6938a14a0cad1366e21515a76fbeeb33b242a675eb8745247bba35e3faa5582d"
+    }
+  ],
+  "next_trade_date": "2026-01-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:49+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300067.SZ",
+  "names": [
+    "安诺其"
+  ],
+  "signal_ids": [
+    "sig-0171"
+  ],
+  "buy_points": [
+    7.058
+  ],
+  "signal_date": "2026-04-29",
+  "days": [
+    {
+      "date": "2026-04-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a2f1cd9933727f53aac4898b64832fd9588f0f0bdfe4c0f7a76050b1184570e4"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "60d144b7661c4bbb1af703a113e4d97c50ae293428b3d729e1c4e111938a8000"
+    }
+  ],
+  "next_trade_date": "2026-04-30",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:34+08:00"
+}

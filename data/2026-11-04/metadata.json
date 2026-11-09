@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-11-04",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:08:41+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "002086.SZ",
+      "code": "002086.SZ",
+      "names": [
+        "东方海洋"
+      ],
+      "signal_ids": [
+        "sig-0455"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002249.SZ",
+      "code": "002249.SZ",
+      "names": [
+        "大洋电机"
+      ],
+      "signal_ids": [
+        "sig-0456"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

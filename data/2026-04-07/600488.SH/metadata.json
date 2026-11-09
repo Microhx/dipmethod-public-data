@@ -1,0 +1,48 @@
+{
+  "code": "600488.SH",
+  "names": [
+    "津药药业"
+  ],
+  "signal_ids": [
+    "sig-0138"
+  ],
+  "buy_points": [
+    7.2
+  ],
+  "signal_date": "2026-04-07",
+  "days": [
+    {
+      "date": "2026-04-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "979a150de495bd1ff37f5875b39597f251bded1b8c55dc4b57a2c052f1bd5f70"
+    },
+    {
+      "date": "2026-04-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f3f4666c399fa386d5d9ca487e6efa9bf6cd51682aae3c312e0702e8167baf64"
+    }
+  ],
+  "next_trade_date": "2026-04-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:17+08:00"
+}

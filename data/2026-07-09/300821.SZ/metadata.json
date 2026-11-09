@@ -1,0 +1,48 @@
+{
+  "code": "300821.SZ",
+  "names": [
+    "东岳硅材"
+  ],
+  "signal_ids": [
+    "sig-0294"
+  ],
+  "buy_points": [
+    25
+  ],
+  "signal_date": "2026-07-09",
+  "days": [
+    {
+      "date": "2026-07-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "264e8492d0fa28c917483218d84f308258f7f5f0ffdd42990ca07085773fd882"
+    },
+    {
+      "date": "2026-07-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "930b7846480a827fb150d05dae24292e775862fc2e7985209501fb8e2a00cb7d"
+    }
+  ],
+  "next_trade_date": "2026-07-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:24+08:00"
+}

@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-08-13",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:04:43+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "002437.SZ",
+      "code": "002437.SZ",
+      "names": [
+        "誉衡药业"
+      ],
+      "signal_ids": [
+        "sig-0336"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "003023.SZ",
+      "code": "003023.SZ",
+      "names": [
+        "彩虹集团"
+      ],
+      "signal_ids": [
+        "sig-0337"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002248.SZ",
+      "code": "002248.SZ",
+      "names": [
+        "华东数控"
+      ],
+      "signal_ids": [
+        "sig-0338"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

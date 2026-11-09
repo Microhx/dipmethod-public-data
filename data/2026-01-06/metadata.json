@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-01-06",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:52:03+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "301306.SZ",
+      "code": "301306.SZ",
+      "names": [
+        "西测测试"
+      ],
+      "signal_ids": [
+        "sig-0004"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300058.SZ",
+      "code": "300058.SZ",
+      "names": [
+        "蓝色光标"
+      ],
+      "signal_ids": [
+        "sig-0005"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603667.SH",
+      "code": "603667.SH",
+      "names": [
+        "五洲新春"
+      ],
+      "signal_ids": [
+        "sig-0006"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

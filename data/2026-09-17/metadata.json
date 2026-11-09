@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-09-17",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:06:35+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "605058.SH",
+      "code": "605058.SH",
+      "names": [
+        "澳弘电子"
+      ],
+      "signal_ids": [
+        "sig-0390"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300151.SZ",
+      "code": "300151.SZ",
+      "names": [
+        "昌红科技"
+      ],
+      "signal_ids": [
+        "sig-0391"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301251.SZ",
+      "code": "301251.SZ",
+      "names": [
+        "威尔高"
+      ],
+      "signal_ids": [
+        "sig-0392"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "605258.SH",
+      "code": "605258.SH",
+      "names": [
+        "协和电子"
+      ],
+      "signal_ids": [
+        "sig-0393"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

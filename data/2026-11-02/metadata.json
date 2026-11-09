@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-11-02",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:08:34+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "301413.SZ",
+      "code": "301413.SZ",
+      "names": [
+        "安培龙"
+      ],
+      "signal_ids": [
+        "sig-0451"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603278.SH",
+      "code": "603278.SH",
+      "names": [
+        "大业股份"
+      ],
+      "signal_ids": [
+        "sig-0452"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "301458.SZ",
+  "names": [
+    "钧崴电子"
+  ],
+  "signal_ids": [
+    "sig-0239"
+  ],
+  "buy_points": [
+    56.43
+  ],
+  "signal_date": "2026-06-08",
+  "days": [
+    {
+      "date": "2026-06-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0dcfdd73824a0923d16ed34a88bdc90817e03afeac5f8298f7e47f65c9178409"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "82c6bf624f79ea2889a225ac4bdb5ccb0ee560122496ca0a75ab6729e41a24a6"
+    }
+  ],
+  "next_trade_date": "2026-06-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:27+08:00"
+}

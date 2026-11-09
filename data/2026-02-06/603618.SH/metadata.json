@@ -1,0 +1,48 @@
+{
+  "code": "603618.SH",
+  "names": [
+    "杭电股份"
+  ],
+  "signal_ids": [
+    "sig-0063"
+  ],
+  "buy_points": [
+    12.15
+  ],
+  "signal_date": "2026-02-06",
+  "days": [
+    {
+      "date": "2026-02-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8ca829bd7b66abbfd8928256f11ff91de55edac3528b4c9d59ffee637953b8c5"
+    },
+    {
+      "date": "2026-02-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "883c57c44f463f21a32bed607140229cee8f49187c79ab0cde7f7d1069f12d4b"
+    }
+  ],
+  "next_trade_date": "2026-02-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:26+08:00"
+}

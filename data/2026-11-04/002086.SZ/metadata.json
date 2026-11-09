@@ -1,0 +1,48 @@
+{
+  "code": "002086.SZ",
+  "names": [
+    "东方海洋"
+  ],
+  "signal_ids": [
+    "sig-0455"
+  ],
+  "buy_points": [
+    3.165
+  ],
+  "signal_date": "2026-11-04",
+  "days": [
+    {
+      "date": "2026-11-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "56a66db6db2c3a32bd3a89263781361b81d0b3d62cb21e3437e2e0a983a08832"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6573e5e82db2fbc9031d3b9972f049e1f11854470373601dd38ab9a91c5107b5"
+    }
+  ],
+  "next_trade_date": "2026-11-05",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:43+08:00"
+}

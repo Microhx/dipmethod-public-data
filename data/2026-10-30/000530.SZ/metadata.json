@@ -1,0 +1,48 @@
+{
+  "code": "000530.SZ",
+  "names": [
+    "冰山冷热"
+  ],
+  "signal_ids": [
+    "sig-0449"
+  ],
+  "buy_points": [
+    7.955
+  ],
+  "signal_date": "2026-10-30",
+  "days": [
+    {
+      "date": "2026-10-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ecbd11f060ee00969dc142c6e58c6a4d396bc35504d9905d9b2d193a654c4be8"
+    },
+    {
+      "date": "2026-11-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c0dbfd7361f0090936f35e1b2eb1a2ae0361bd091e926b1c3ab13f17adba959d"
+    }
+  ],
+  "next_trade_date": "2026-11-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:31+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-03-20",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:56:25+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "600726.SH",
+      "code": "600726.SH",
+      "names": [
+        "华电能源"
+      ],
+      "signal_ids": [
+        "sig-0117"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300317.SZ",
+      "code": "300317.SZ",
+      "names": [
+        "珈伟新能"
+      ],
+      "signal_ids": [
+        "sig-0118"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

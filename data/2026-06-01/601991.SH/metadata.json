@@ -1,0 +1,48 @@
+{
+  "code": "601991.SH",
+  "names": [
+    "大唐发电"
+  ],
+  "signal_ids": [
+    "sig-0227"
+  ],
+  "buy_points": [
+    7.88
+  ],
+  "signal_date": "2026-06-01",
+  "days": [
+    {
+      "date": "2026-06-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:02+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "97fdc37a501f1979ad1a25cf189c7c9790f6cdba3b823c72c0b6494c79c354b3"
+    },
+    {
+      "date": "2026-06-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:02+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "05c8c94e8db1b4456e4579c9c3de8a5e3df624e211c4d6f958b6e56f1a3c6e6e"
+    }
+  ],
+  "next_trade_date": "2026-06-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:03+08:00"
+}

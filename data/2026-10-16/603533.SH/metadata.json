@@ -1,0 +1,48 @@
+{
+  "code": "603533.SH",
+  "names": [
+    "掌阅科技"
+  ],
+  "signal_ids": [
+    "sig-0432"
+  ],
+  "buy_points": [
+    28.35
+  ],
+  "signal_date": "2026-10-16",
+  "days": [
+    {
+      "date": "2026-10-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8e9a69c2149f7a9489c94033f0d1163289a64557f295a25783736d1d913649f0"
+    },
+    {
+      "date": "2026-10-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "00c4fb8cd1c9a97e37cbc457d999d5ffbaa11aa75faaf087ddef4597f2e884c2"
+    }
+  ],
+  "next_trade_date": "2026-10-19",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:57+08:00"
+}

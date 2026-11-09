@@ -1,0 +1,48 @@
+{
+  "code": "300390.SZ",
+  "names": [
+    "天华新能"
+  ],
+  "signal_ids": [
+    "sig-0147"
+  ],
+  "buy_points": [
+    76.7
+  ],
+  "signal_date": "2026-04-14",
+  "days": [
+    {
+      "date": "2026-04-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:37+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "80132708b0ef6a910f01c1517fabf81df8f754d6237edfc7ab7ef4b669c44650"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:37+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a8c5fd17100377e7b6d265ea17f23bd79bc4ea27e91ea0bba537c5acb2384bec"
+    }
+  ],
+  "next_trade_date": "2026-04-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:37+08:00"
+}

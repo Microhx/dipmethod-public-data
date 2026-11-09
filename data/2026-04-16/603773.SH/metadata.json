@@ -1,0 +1,48 @@
+{
+  "code": "603773.SH",
+  "names": [
+    "沃格光电"
+  ],
+  "signal_ids": [
+    "sig-0150"
+  ],
+  "buy_points": [
+    46.85
+  ],
+  "signal_date": "2026-04-16",
+  "days": [
+    {
+      "date": "2026-04-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c14e1f8eab05294b18ef227192663013c79b84edd573f4a448bc94b20642e839"
+    },
+    {
+      "date": "2026-04-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f5c59da187a3097880d86cee6a483cc52246a08240a4397dccaaef991a777286"
+    }
+  ],
+  "next_trade_date": "2026-04-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:44+08:00"
+}

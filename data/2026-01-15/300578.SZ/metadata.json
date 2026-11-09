@@ -1,0 +1,48 @@
+{
+  "code": "300578.SZ",
+  "names": [
+    "会畅科技"
+  ],
+  "signal_ids": [
+    "sig-0026"
+  ],
+  "buy_points": [
+    28.7
+  ],
+  "signal_date": "2026-01-15",
+  "days": [
+    {
+      "date": "2026-01-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7fc82f556ebb9c8b6b75f930b8e5ac7074e586546ad2739fa1baf201b2c9656d"
+    },
+    {
+      "date": "2026-01-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d5c44682de79bf827a5987b3c5c866aad9f8cccdc283f8eeac32195535099a48"
+    }
+  ],
+  "next_trade_date": "2026-01-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:59+08:00"
+}

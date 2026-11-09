@@ -1,0 +1,48 @@
+{
+  "code": "002886.SZ",
+  "names": [
+    "沃特股份"
+  ],
+  "signal_ids": [
+    "sig-0364"
+  ],
+  "buy_points": [
+    27.085
+  ],
+  "signal_date": "2026-09-01",
+  "days": [
+    {
+      "date": "2026-09-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a316afe1d2c4be992ff4f1d260c495f121e08ad8bb6e92e8fb39c5e07db438ba"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "728be728341941c89a2d8d230813521309175c83632496a8aef67aeaf92ceb90"
+    }
+  ],
+  "next_trade_date": "2026-09-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:38+08:00"
+}

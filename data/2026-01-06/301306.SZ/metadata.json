@@ -1,0 +1,48 @@
+{
+  "code": "301306.SZ",
+  "names": [
+    "西测测试"
+  ],
+  "signal_ids": [
+    "sig-0004"
+  ],
+  "buy_points": [
+    126.25
+  ],
+  "signal_date": "2026-01-06",
+  "days": [
+    {
+      "date": "2026-01-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "75b8a9f57a383cd44c4baaa8db491087e570213a5fea81f35c2245d78d73e6a6"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "38d2608d851668122f605afdc3fd9f43bb4fb0234d856383bbda4f56d5b423ef"
+    }
+  ],
+  "next_trade_date": "2026-01-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:07+08:00"
+}

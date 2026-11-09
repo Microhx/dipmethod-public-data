@@ -1,0 +1,48 @@
+{
+  "code": "000703.SZ",
+  "names": [
+    "恒逸石化"
+  ],
+  "signal_ids": [
+    "sig-0034"
+  ],
+  "buy_points": [
+    11.15
+  ],
+  "signal_date": "2026-01-21",
+  "days": [
+    {
+      "date": "2026-01-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4942a5c27155c470d2fdc5aa2b9886722f4dcc66fb84b8856f57e7e284f4df90"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f6019257711fd0a4b7c9644034d7241a0932daeb74cb53af1dc1e4ac328f2320"
+    }
+  ],
+  "next_trade_date": "2026-01-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:18+08:00"
+}

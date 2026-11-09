@@ -1,0 +1,48 @@
+{
+  "code": "300829.SZ",
+  "names": [
+    "金丹科技"
+  ],
+  "signal_ids": [
+    "sig-0422"
+  ],
+  "buy_points": [
+    24.52
+  ],
+  "signal_date": "2026-10-12",
+  "days": [
+    {
+      "date": "2026-10-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "beeef49054f7837a428a583ed87f7f1cadb03ea34be831c8c5fe8baeab437ff2"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9b50e326d1d702c42703376e19c4513dd8322cddf2cfa0a7222af560455c9724"
+    }
+  ],
+  "next_trade_date": "2026-10-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:39+08:00"
+}

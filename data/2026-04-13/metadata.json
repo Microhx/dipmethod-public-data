@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-04-13",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:57:26+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "600105.SH",
+      "code": "600105.SH",
+      "names": [
+        "永鼎股份"
+      ],
+      "signal_ids": [
+        "sig-0143"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002328.SZ",
+      "code": "002328.SZ",
+      "names": [
+        "新朋股份"
+      ],
+      "signal_ids": [
+        "sig-0144"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

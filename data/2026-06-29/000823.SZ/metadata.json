@@ -1,0 +1,48 @@
+{
+  "code": "000823.SZ",
+  "names": [
+    "超声电子"
+  ],
+  "signal_ids": [
+    "sig-0277"
+  ],
+  "buy_points": [
+    26.535
+  ],
+  "signal_date": "2026-06-29",
+  "days": [
+    {
+      "date": "2026-06-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b89c94013d76a14dba961f0a7b775307ec1cacc9100edc21cdc9edbe93b02580"
+    },
+    {
+      "date": "2026-06-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9ddfe74c1a567f1ef8666b66226132b017e0c22b332dece41181e65df73b01fc"
+    }
+  ],
+  "next_trade_date": "2026-06-30",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:51+08:00"
+}

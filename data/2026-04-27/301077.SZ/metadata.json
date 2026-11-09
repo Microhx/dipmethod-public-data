@@ -1,0 +1,48 @@
+{
+  "code": "301077.SZ",
+  "names": [
+    "星华新材"
+  ],
+  "signal_ids": [
+    "sig-0166"
+  ],
+  "buy_points": [
+    34.24
+  ],
+  "signal_date": "2026-04-27",
+  "days": [
+    {
+      "date": "2026-04-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ca58467b5394e0b0e72c250c11e72b69f1a7f8268779afd868ad59f16d9aafab"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b7da8bcac0e48676c9a6e36c67c75069002367551dd38b009e97fee6617e594e"
+    }
+  ],
+  "next_trade_date": "2026-04-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:24+08:00"
+}

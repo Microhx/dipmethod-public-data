@@ -1,0 +1,48 @@
+{
+  "code": "300196.SZ",
+  "names": [
+    "长海股份"
+  ],
+  "signal_ids": [
+    "sig-0256"
+  ],
+  "buy_points": [
+    28.79
+  ],
+  "signal_date": "2026-06-18",
+  "days": [
+    {
+      "date": "2026-06-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c195acfb3a461e2eda6d5e7186adf36133b8161d04d78a6e3deba4f699844e36"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ae6783b84ecf3683fd7ae5014a4e22e4fa3f6a46eba446bff69001e4d7830e24"
+    }
+  ],
+  "next_trade_date": "2026-06-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:06+08:00"
+}

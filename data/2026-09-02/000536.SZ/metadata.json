@@ -1,0 +1,48 @@
+{
+  "code": "000536.SZ",
+  "names": [
+    "华映科技"
+  ],
+  "signal_ids": [
+    "sig-0368"
+  ],
+  "buy_points": [
+    3.73
+  ],
+  "signal_date": "2026-09-02",
+  "days": [
+    {
+      "date": "2026-09-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b8b4a900b44f59f15627bd2a41b72414d31cd4ac86608962c8f9b8a3d1d5c100"
+    },
+    {
+      "date": "2026-09-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a6e46e12109e0334cc655d612be768df9d66ef4e52be388908c4b9dca2d224ee"
+    }
+  ],
+  "next_trade_date": "2026-09-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:46+08:00"
+}

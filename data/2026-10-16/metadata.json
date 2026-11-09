@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-10-16",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:07:56+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "603533.SH",
+      "code": "603533.SH",
+      "names": [
+        "掌阅科技"
+      ],
+      "signal_ids": [
+        "sig-0432"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600812.SH",
+      "code": "600812.SH",
+      "names": [
+        "华北制药"
+      ],
+      "signal_ids": [
+        "sig-0433"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

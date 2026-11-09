@@ -1,0 +1,48 @@
+{
+  "code": "300058.SZ",
+  "names": [
+    "蓝色光标"
+  ],
+  "signal_ids": [
+    "sig-0005"
+  ],
+  "buy_points": [
+    13.15
+  ],
+  "signal_date": "2026-01-06",
+  "days": [
+    {
+      "date": "2026-01-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d9fd4139399ede642c8b022e9acc787247c5a2175b8b9aa86b88ff86f1d519f0"
+    },
+    {
+      "date": "2026-01-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "acdfb7eda3cefc5f32229ba0025624e44ed8c4690cac15a428cbafd7bcd86579"
+    }
+  ],
+  "next_trade_date": "2026-01-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:09+08:00"
+}

@@ -1,0 +1,23 @@
+{
+  "signal_date": "2026-10-20",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:08:03+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 1,
+  "stocks": [
+    {
+      "folder": "002889.SZ",
+      "code": "002889.SZ",
+      "names": [
+        "东方嘉盛"
+      ],
+      "signal_ids": [
+        "sig-0436"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

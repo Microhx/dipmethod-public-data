@@ -1,0 +1,48 @@
+{
+  "code": "301528.SZ",
+  "names": [
+    "多浦乐"
+  ],
+  "signal_ids": [
+    "sig-0238"
+  ],
+  "buy_points": [
+    85.34
+  ],
+  "signal_date": "2026-06-08",
+  "days": [
+    {
+      "date": "2026-06-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6394ffa55a883e0fb699701fbbab3b4196e87d306495e5516b134efbbdcb8328"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e67dad37ffdabb280cdd9c562442618ab474129f4e0f37d4574d74b2de9e73eb"
+    }
+  ],
+  "next_trade_date": "2026-06-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:26+08:00"
+}

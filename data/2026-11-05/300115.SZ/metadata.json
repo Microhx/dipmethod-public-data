@@ -1,0 +1,48 @@
+{
+  "code": "300115.SZ",
+  "names": [
+    "长盈精密"
+  ],
+  "signal_ids": [
+    "sig-0459"
+  ],
+  "buy_points": [
+    29.55
+  ],
+  "signal_date": "2026-11-05",
+  "days": [
+    {
+      "date": "2026-11-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f315928d6abe85d5d854328a38cd58f8251bc538503eaaf8ce61bae89e7e3b27"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "150abc2b16cc7fd4dcc71998d5fcb2679e34407d76e9ac44f2f0e3c225d12516"
+    }
+  ],
+  "next_trade_date": "2026-11-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:50+08:00"
+}

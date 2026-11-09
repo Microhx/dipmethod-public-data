@@ -1,0 +1,23 @@
+{
+  "signal_date": "2026-01-16",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:53:02+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 1,
+  "stocks": [
+    {
+      "folder": "300758.SZ",
+      "code": "300758.SZ",
+      "names": [
+        "七彩化学"
+      ],
+      "signal_ids": [
+        "sig-0029"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

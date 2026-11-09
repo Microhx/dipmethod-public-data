@@ -1,0 +1,48 @@
+{
+  "code": "000586.SZ",
+  "names": [
+    "汇源通信"
+  ],
+  "signal_ids": [
+    "sig-0142"
+  ],
+  "buy_points": [
+    23.236
+  ],
+  "signal_date": "2026-04-10",
+  "days": [
+    {
+      "date": "2026-04-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b24f2630c014062246485dcd69744469641ded31d497472ccc04d957c4f83c91"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e90bf2c8ae58ffe87b919647e77b05bc835f3667d1d4e5f81c5f0dd3c60466ea"
+    }
+  ],
+  "next_trade_date": "2026-04-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:26+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002178.SZ",
+  "names": [
+    "延华智能"
+  ],
+  "signal_ids": [
+    "sig-0404"
+  ],
+  "buy_points": [
+    5.16
+  ],
+  "signal_date": "2026-09-23",
+  "days": [
+    {
+      "date": "2026-09-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5d47900effd474f851b6b5865ef7d501f6039075beb898169ba8f9f04e069299"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "aba61cbd4a0ea6bd2f0c55a2fa5682f2a9ee9546b0e2b52d69b8a3d732bced87"
+    }
+  ],
+  "next_trade_date": "2026-09-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:06+08:00"
+}

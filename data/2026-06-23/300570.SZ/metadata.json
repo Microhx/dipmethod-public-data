@@ -1,0 +1,48 @@
+{
+  "code": "300570.SZ",
+  "names": [
+    "太辰光"
+  ],
+  "signal_ids": [
+    "sig-0264"
+  ],
+  "buy_points": [
+    263
+  ],
+  "signal_date": "2026-06-23",
+  "days": [
+    {
+      "date": "2026-06-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2c686c40250fc3e3e47102cd4c8da986cb3af277718ba69486029e5480aa77cc"
+    },
+    {
+      "date": "2026-06-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "edb8d850d77fc47438a7797112ec54d94b2d4abc2bb6e992a66be0e0c13726ae"
+    }
+  ],
+  "next_trade_date": "2026-06-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:24+08:00"
+}

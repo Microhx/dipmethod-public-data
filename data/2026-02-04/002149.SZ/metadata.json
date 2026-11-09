@@ -1,0 +1,48 @@
+{
+  "code": "002149.SZ",
+  "names": [
+    "西部材料"
+  ],
+  "signal_ids": [
+    "sig-0059"
+  ],
+  "buy_points": [
+    54.08
+  ],
+  "signal_date": "2026-02-04",
+  "days": [
+    {
+      "date": "2026-02-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "854ebcab72dae1d34f1b1da1455fec4ce35e52b82f55613a690a47ec67f71e72"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "17bb8b66a9e64309ad1edaedf13c94bc4505707a57538719eae82c8a8fe7ef9a"
+    }
+  ],
+  "next_trade_date": "2026-02-05",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:17+08:00"
+}

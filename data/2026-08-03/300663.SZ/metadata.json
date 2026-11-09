@@ -1,0 +1,48 @@
+{
+  "code": "300663.SZ",
+  "names": [
+    "科蓝软件"
+  ],
+  "signal_ids": [
+    "sig-0314"
+  ],
+  "buy_points": [
+    9.66
+  ],
+  "signal_date": "2026-08-03",
+  "days": [
+    {
+      "date": "2026-08-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f44d16808d604a01379cba8af8192d5863e2c7dd58511d5f638a8b640537329a"
+    },
+    {
+      "date": "2026-08-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "80eb38b697817b66db71422eb94cd925dcf1c869ae05184bcaae761ddd0d9d2d"
+    }
+  ],
+  "next_trade_date": "2026-08-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:04+08:00"
+}

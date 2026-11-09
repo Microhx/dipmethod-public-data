@@ -1,0 +1,48 @@
+{
+  "code": "000565.SZ",
+  "names": [
+    "渝三峡A"
+  ],
+  "signal_ids": [
+    "sig-0383"
+  ],
+  "buy_points": [
+    7.31
+  ],
+  "signal_date": "2026-09-11",
+  "days": [
+    {
+      "date": "2026-09-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e8b70f1dbd0c74861c8e8e8946a80e8fb6adfb4653939975b82e75f2483251b0"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "40831dfca3a4e7115df3b27676a9706dc09522a56861fb6a7157f96daeffbff0"
+    }
+  ],
+  "next_trade_date": "2026-09-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:22+08:00"
+}

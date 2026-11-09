@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-03-12",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:56:00+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "601789.SH",
+      "code": "601789.SH",
+      "names": [
+        "宁波建工"
+      ],
+      "signal_ids": [
+        "sig-0104"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301179.SZ",
+      "code": "301179.SZ",
+      "names": [
+        "泽宇智能"
+      ],
+      "signal_ids": [
+        "sig-0105"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "missing-sig-0106",
+      "code": null,
+      "names": [
+        "华新环保"
+      ],
+      "signal_ids": [
+        "sig-0106"
+      ],
+      "status": "missing_code"
+    }
+  ],
+  "previous_stock_folders": []
+}

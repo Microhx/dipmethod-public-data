@@ -1,0 +1,48 @@
+{
+  "code": "301591.SZ",
+  "names": [
+    "肯特股份"
+  ],
+  "signal_ids": [
+    "sig-0362"
+  ],
+  "buy_points": [
+    54.51
+  ],
+  "signal_date": "2026-08-31",
+  "days": [
+    {
+      "date": "2026-08-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8f8939c4d18f659b8ea4778d66d4968f63fbe89136801806f0c9076498ace8dd"
+    },
+    {
+      "date": "2026-09-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fb41efc8f3db65cf02a5cc342e591f2be3d3b0af3c81481bb26cb041bc766456"
+    }
+  ],
+  "next_trade_date": "2026-09-01",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:34+08:00"
+}

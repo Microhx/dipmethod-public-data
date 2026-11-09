@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-06-26",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:02:40+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "002068.SZ",
+      "code": "002068.SZ",
+      "names": [
+        "黑猫股份"
+      ],
+      "signal_ids": [
+        "sig-0272"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002167.SZ",
+      "code": "002167.SZ",
+      "names": [
+        "东方锆业"
+      ],
+      "signal_ids": [
+        "sig-0273"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600522.SH",
+      "code": "600522.SH",
+      "names": [
+        "中天科技"
+      ],
+      "signal_ids": [
+        "sig-0274"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-10-08",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:07:22+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "301218.SZ",
+      "code": "301218.SZ",
+      "names": [
+        "华是科技"
+      ],
+      "signal_ids": [
+        "sig-0414"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000504.SZ",
+      "code": "000504.SZ",
+      "names": [
+        "南华生物"
+      ],
+      "signal_ids": [
+        "sig-0415"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "605366.SH",
+      "code": "605366.SH",
+      "names": [
+        "宏柏新材"
+      ],
+      "signal_ids": [
+        "sig-0416"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "603127.SH",
+  "names": [
+    "昭衍新药"
+  ],
+  "signal_ids": [
+    "sig-0133"
+  ],
+  "buy_points": [
+    35.12
+  ],
+  "signal_date": "2026-04-02",
+  "days": [
+    {
+      "date": "2026-04-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "490d59b23140f7b1ea49fcc66b11a271918aa3bae7e347af95357b83f6017443"
+    },
+    {
+      "date": "2026-04-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0fe1e8f7a2d27494121c9949b7d5d0daba6e0525da0d2752f8a352a135c92ddf"
+    }
+  ],
+  "next_trade_date": "2026-04-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:06+08:00"
+}

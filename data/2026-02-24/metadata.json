@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-02-24",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:55:02+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300369.SZ",
+      "code": "300369.SZ",
+      "names": [
+        "绿盟科技"
+      ],
+      "signal_ids": [
+        "sig-0078"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300812.SZ",
+      "code": "300812.SZ",
+      "names": [
+        "易天股份"
+      ],
+      "signal_ids": [
+        "sig-0079"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603138.SH",
+      "code": "603138.SH",
+      "names": [
+        "海量数据"
+      ],
+      "signal_ids": [
+        "sig-0080"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

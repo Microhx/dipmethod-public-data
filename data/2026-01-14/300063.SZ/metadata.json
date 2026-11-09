@@ -1,0 +1,48 @@
+{
+  "code": "300063.SZ",
+  "names": [
+    "天龙集团"
+  ],
+  "signal_ids": [
+    "sig-0024"
+  ],
+  "buy_points": [
+    14.7
+  ],
+  "signal_date": "2026-01-14",
+  "days": [
+    {
+      "date": "2026-01-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:55+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "00fd93474d8b5b834b7f89d8d4d0e3291aaf0bf93b92f5691b8e8ee5a4e3a77d"
+    },
+    {
+      "date": "2026-01-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:55+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8ec9f811d6dfb44e94bca95651d43e91cd380a2c3d4c7244b262e75d128e8c92"
+    }
+  ],
+  "next_trade_date": "2026-01-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:55+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002455.SZ",
+  "names": [
+    "百川股份"
+  ],
+  "signal_ids": [
+    "sig-0056"
+  ],
+  "buy_points": [
+    9.48
+  ],
+  "signal_date": "2026-02-03",
+  "days": [
+    {
+      "date": "2026-02-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7c0382f6ee8a9904c27d45fef008647d55eddaccde0bf7ddc0d6b67741641b0a"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9913b0b5990672b0985d97bf4a9b58e0948261bf01d93640ecff6b5e4ba0f708"
+    }
+  ],
+  "next_trade_date": "2026-02-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:10+08:00"
+}

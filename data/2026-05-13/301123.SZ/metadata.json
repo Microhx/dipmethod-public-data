@@ -1,0 +1,48 @@
+{
+  "code": "301123.SZ",
+  "names": [
+    "奕东电子"
+  ],
+  "signal_ids": [
+    "sig-0191"
+  ],
+  "buy_points": [
+    74.6
+  ],
+  "signal_date": "2026-05-13",
+  "days": [
+    {
+      "date": "2026-05-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7a48fe58613f45e1c947339d40fbfaa89d018417b7d429ad8f7c68a97afc267a"
+    },
+    {
+      "date": "2026-05-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "86d06e1c0d2881394f78bd987dddb0f027e5c115f1c887dcf109733fc969162c"
+    }
+  ],
+  "next_trade_date": "2026-05-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:23+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "601789.SH",
+  "names": [
+    "宁波建工"
+  ],
+  "signal_ids": [
+    "sig-0104"
+  ],
+  "buy_points": [
+    7
+  ],
+  "signal_date": "2026-03-12",
+  "days": [
+    {
+      "date": "2026-03-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:02+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "49e4b6cf41ae90b9effb5e1e17fa69b0590cbd6dbe671d81936699bc120cbec5"
+    },
+    {
+      "date": "2026-03-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:02+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7896f75b9d2302f0e3540f96bf42d82871be50d29508146ed5c06dd7c9e45518"
+    }
+  ],
+  "next_trade_date": "2026-03-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:02+08:00"
+}

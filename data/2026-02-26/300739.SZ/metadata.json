@@ -1,0 +1,48 @@
+{
+  "code": "300739.SZ",
+  "names": [
+    "明阳电路"
+  ],
+  "signal_ids": [
+    "sig-0085"
+  ],
+  "buy_points": [
+    28.22
+  ],
+  "signal_date": "2026-02-26",
+  "days": [
+    {
+      "date": "2026-02-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "48598e908dd2e1b96be4d00d4a6bdf9f228ee0f6ee956387ec4604ae2cee5390"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "74af96abaff2e1be31ac8526b7b886d62eeb93e77b12d2bbaa02853460ddbce5"
+    }
+  ],
+  "next_trade_date": "2026-02-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:17+08:00"
+}

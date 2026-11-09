@@ -1,0 +1,48 @@
+{
+  "code": "301190.SZ",
+  "names": [
+    "善水科技"
+  ],
+  "signal_ids": [
+    "sig-0352"
+  ],
+  "buy_points": [
+    18.99
+  ],
+  "signal_date": "2026-08-21",
+  "days": [
+    {
+      "date": "2026-08-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0b23e4f029b23c3f9b9b14eb57101985292826c776df6cf306cd61646edb6872"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1783229b451472d03325b8344fcf01f8809c40746bf58c9a72d9df35ebf49e79"
+    }
+  ],
+  "next_trade_date": "2026-08-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:15+08:00"
+}

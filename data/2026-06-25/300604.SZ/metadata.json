@@ -1,0 +1,48 @@
+{
+  "code": "300604.SZ",
+  "names": [
+    "长川科技"
+  ],
+  "signal_ids": [
+    "sig-0270"
+  ],
+  "buy_points": [
+    300
+  ],
+  "signal_date": "2026-06-25",
+  "days": [
+    {
+      "date": "2026-06-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "984af92fa2d9d6a2b95a084bf5f68a71bb9b0d981948e15e7515e8614a570f20"
+    },
+    {
+      "date": "2026-06-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "81612ea15451e6dc1581bb4ebcdecfb5ad02c84bc68a588758ee0dfc00758a51"
+    }
+  ],
+  "next_trade_date": "2026-06-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:38+08:00"
+}

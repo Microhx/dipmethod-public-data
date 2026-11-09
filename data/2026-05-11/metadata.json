@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-05-11",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:59:00+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "002930.SZ",
+      "code": "002930.SZ",
+      "names": [
+        "宏川智慧"
+      ],
+      "signal_ids": [
+        "sig-0182"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002536.SZ",
+      "code": "002536.SZ",
+      "names": [
+        "飞龙股份"
+      ],
+      "signal_ids": [
+        "sig-0183"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600345.SH",
+      "code": "600345.SH",
+      "names": [
+        "长江通信"
+      ],
+      "signal_ids": [
+        "sig-0184"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300769.SZ",
+      "code": "300769.SZ",
+      "names": [
+        "德方纳米"
+      ],
+      "signal_ids": [
+        "sig-0185"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

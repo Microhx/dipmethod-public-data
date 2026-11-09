@@ -1,0 +1,48 @@
+{
+  "code": "300296.SZ",
+  "names": [
+    "利亚德"
+  ],
+  "signal_ids": [
+    "sig-0442"
+  ],
+  "buy_points": [
+    6.81
+  ],
+  "signal_date": "2026-10-26",
+  "days": [
+    {
+      "date": "2026-10-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4e5dbdd5e7b8e591f8c5be92a3227fbb063a9bbcd0a5e5339e015aff1b90d8bf"
+    },
+    {
+      "date": "2026-10-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2058fc2294bc74c487c956abebcde02d88f121d71035a22825b39e4bbc83ac0e"
+    }
+  ],
+  "next_trade_date": "2026-10-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:18+08:00"
+}

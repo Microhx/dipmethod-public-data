@@ -1,0 +1,48 @@
+{
+  "code": "300323.SZ",
+  "names": [
+    "华灿光电"
+  ],
+  "signal_ids": [
+    "sig-0098"
+  ],
+  "buy_points": [
+    10.76
+  ],
+  "signal_date": "2026-03-09",
+  "days": [
+    {
+      "date": "2026-03-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7feb6e976eff0ee4f6fbfbb9d46bd283aec8e2585a3842df00cc88520d7df66b"
+    },
+    {
+      "date": "2026-03-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b55bf0a5a44c5a84532cedfb3aba5988cd81c0402de8c363c788372f924c9133"
+    }
+  ],
+  "next_trade_date": "2026-03-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:49+08:00"
+}

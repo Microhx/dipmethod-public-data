@@ -1,0 +1,48 @@
+{
+  "code": "601700.SH",
+  "names": [
+    "风范股份"
+  ],
+  "signal_ids": [
+    "sig-0324"
+  ],
+  "buy_points": [
+    6.53
+  ],
+  "signal_date": "2026-08-07",
+  "days": [
+    {
+      "date": "2026-08-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bc3013c322a16b616031a7cc0f6f3c0125c4aeaf8b1d223e964ca73cc45b2eb3"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8d4b7553a4e39fdd5a8f4f00077c0bd9febbbec2a093e72fbfba601b24d21d11"
+    }
+  ],
+  "next_trade_date": "2026-08-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:22+08:00"
+}

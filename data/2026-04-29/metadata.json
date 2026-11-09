@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-04-29",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:58:30+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "601101.SH",
+      "code": "601101.SH",
+      "names": [
+        "昊华能源"
+      ],
+      "signal_ids": [
+        "sig-0170"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300067.SZ",
+      "code": "300067.SZ",
+      "names": [
+        "安诺其"
+      ],
+      "signal_ids": [
+        "sig-0171"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000889.SZ",
+      "code": "000889.SZ",
+      "names": [
+        "中嘉博创"
+      ],
+      "signal_ids": [
+        "sig-0172"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

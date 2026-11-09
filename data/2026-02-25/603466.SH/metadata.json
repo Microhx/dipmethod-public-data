@@ -1,0 +1,48 @@
+{
+  "code": "603466.SH",
+  "names": [
+    "风语筑"
+  ],
+  "signal_ids": [
+    "sig-0081"
+  ],
+  "buy_points": [
+    12.43
+  ],
+  "signal_date": "2026-02-25",
+  "days": [
+    {
+      "date": "2026-02-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b922e6953c0b150e5b697f712204c2df1d3503f525c47488fac4611aadaeb5d4"
+    },
+    {
+      "date": "2026-02-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b3a2edf08d1bf64e826abc47f9a77180dbb3675d38d56a21385722700429dffd"
+    }
+  ],
+  "next_trade_date": "2026-02-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:10+08:00"
+}

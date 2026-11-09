@@ -1,0 +1,48 @@
+{
+  "code": "300427.SZ",
+  "names": [
+    "红相股份"
+  ],
+  "signal_ids": [
+    "sig-0031"
+  ],
+  "buy_points": [
+    16.8
+  ],
+  "signal_date": "2026-01-20",
+  "days": [
+    {
+      "date": "2026-01-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "864de9619b0469014f033bf9721632fbbb2ae3eccb21db26d481b1f81cba5687"
+    },
+    {
+      "date": "2026-01-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "da318324b20dbdb436d1f3fb3a70dd4e1f4f5bed6a81132661da29a7a92cb947"
+    }
+  ],
+  "next_trade_date": "2026-01-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:10+08:00"
+}

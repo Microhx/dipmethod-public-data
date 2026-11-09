@@ -1,0 +1,48 @@
+{
+  "code": "300503.SZ",
+  "names": [
+    "昊志机电"
+  ],
+  "signal_ids": [
+    "sig-0042"
+  ],
+  "buy_points": [
+    65.1
+  ],
+  "signal_date": "2026-01-26",
+  "days": [
+    {
+      "date": "2026-01-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "60812ef6f3a8a8e40ccc3942e4f47a74fe5fae04b0b4a2551c9ff6daa04dfae7"
+    },
+    {
+      "date": "2026-01-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fa06608c6cd080f5f1ecb2e6cbbccfb14525c75ccff2017c6708474ca0c52142"
+    }
+  ],
+  "next_trade_date": "2026-01-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:39+08:00"
+}

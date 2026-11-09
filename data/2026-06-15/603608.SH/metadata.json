@@ -1,0 +1,48 @@
+{
+  "code": "603608.SH",
+  "names": [
+    "天创时尚"
+  ],
+  "signal_ids": [
+    "sig-0250"
+  ],
+  "buy_points": [
+    24.17
+  ],
+  "signal_date": "2026-06-15",
+  "days": [
+    {
+      "date": "2026-06-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fe4ad4440f043f14062323c78a16c4648b8121a7f314f6d7c2c093b054a74a64"
+    },
+    {
+      "date": "2026-06-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c81d9351fdaf327ce8162b69c6c6d28fc0f190ff314640f02dc0be562700f214"
+    }
+  ],
+  "next_trade_date": "2026-06-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:52+08:00"
+}

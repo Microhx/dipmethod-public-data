@@ -1,0 +1,48 @@
+{
+  "code": "603230.SH",
+  "names": [
+    "内蒙新华"
+  ],
+  "signal_ids": [
+    "sig-0401"
+  ],
+  "buy_points": [
+    15.2
+  ],
+  "signal_date": "2026-09-23",
+  "days": [
+    {
+      "date": "2026-09-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "acd6dcdfafbf639854f38573d6f2319bee49bafe10aedce22394566764dbcb5e"
+    },
+    {
+      "date": "2026-09-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "38d3ee5fc3bea9d46211b3a96888e3eb268aeb167cd7fe3e8c1836f40f44eaf1"
+    }
+  ],
+  "next_trade_date": "2026-09-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:00+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300426.SZ",
+  "names": [
+    "华智数媒"
+  ],
+  "signal_ids": [
+    "sig-0458"
+  ],
+  "buy_points": [
+    9.63
+  ],
+  "signal_date": "2026-11-05",
+  "days": [
+    {
+      "date": "2026-11-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5031ec4694a802d658c0add4ec99cb1ddea6d7cbfa3cd36aa51202c0502ed1b2"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5529399d07a8bbf30f8874145ff43d7ac8551f5bb91800a6bc5f1c633883ecfc"
+    }
+  ],
+  "next_trade_date": "2026-11-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:48+08:00"
+}

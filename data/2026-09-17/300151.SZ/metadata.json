@@ -1,0 +1,48 @@
+{
+  "code": "300151.SZ",
+  "names": [
+    "昌红科技"
+  ],
+  "signal_ids": [
+    "sig-0391"
+  ],
+  "buy_points": [
+    20.02
+  ],
+  "signal_date": "2026-09-17",
+  "days": [
+    {
+      "date": "2026-09-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "dece8ec48b788ba34adb4fc6c7f435010cff4ce5d23b3863e69dd727a890dcb0"
+    },
+    {
+      "date": "2026-09-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0c22451370ae52686731909a18bbd0b10c5fbb02d44aac9d1a45325ab54120a6"
+    }
+  ],
+  "next_trade_date": "2026-09-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:39+08:00"
+}

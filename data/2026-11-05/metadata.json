@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-11-05",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:08:45+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300508.SZ",
+      "code": "300508.SZ",
+      "names": [
+        "维宏股份"
+      ],
+      "signal_ids": [
+        "sig-0457"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300426.SZ",
+      "code": "300426.SZ",
+      "names": [
+        "华智数媒"
+      ],
+      "signal_ids": [
+        "sig-0458"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300115.SZ",
+      "code": "300115.SZ",
+      "names": [
+        "长盈精密"
+      ],
+      "signal_ids": [
+        "sig-0459"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

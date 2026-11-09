@@ -1,0 +1,48 @@
+{
+  "code": "300613.SZ",
+  "names": [
+    "富瀚微"
+  ],
+  "signal_ids": [
+    "sig-0168"
+  ],
+  "buy_points": [
+    61.8
+  ],
+  "signal_date": "2026-04-28",
+  "days": [
+    {
+      "date": "2026-04-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c4b7bd296c792fb2aa0bea9d429467ac3c38b982fe857cf667c7a6d89ed8ea8e"
+    },
+    {
+      "date": "2026-04-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "be4cb1fb86ed6a8ebce752ff4c787ae29e7f79823e091a8fb63cd0099fc6aa6d"
+    }
+  ],
+  "next_trade_date": "2026-04-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:28+08:00"
+}

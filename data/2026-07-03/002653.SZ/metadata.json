@@ -1,0 +1,48 @@
+{
+  "code": "002653.SZ",
+  "names": [
+    "海思科"
+  ],
+  "signal_ids": [
+    "sig-0286"
+  ],
+  "buy_points": [
+    72.93
+  ],
+  "signal_date": "2026-07-03",
+  "days": [
+    {
+      "date": "2026-07-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "58620ee1bb1850f921e532c9fe0a5fbcbb2d046dc306a487863049cf80671261"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3b3952476d94a51de8a26486cb9e89c84b077f852cdb5cdce54479f82f311794"
+    }
+  ],
+  "next_trade_date": "2026-07-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:10+08:00"
+}

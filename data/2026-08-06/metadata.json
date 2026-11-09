@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-08-06",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:04:13+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "603039.SH",
+      "code": "603039.SH",
+      "names": [
+        "泛微网络"
+      ],
+      "signal_ids": [
+        "sig-0320"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300951.SZ",
+      "code": "300951.SZ",
+      "names": [
+        "博硕科技"
+      ],
+      "signal_ids": [
+        "sig-0321"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300209.SZ",
+      "code": "300209.SZ",
+      "names": [
+        "行云科技"
+      ],
+      "signal_ids": [
+        "sig-0322"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

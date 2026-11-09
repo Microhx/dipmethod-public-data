@@ -1,0 +1,48 @@
+{
+  "code": "301218.SZ",
+  "names": [
+    "华是科技"
+  ],
+  "signal_ids": [
+    "sig-0414"
+  ],
+  "buy_points": [
+    66
+  ],
+  "signal_date": "2026-10-08",
+  "days": [
+    {
+      "date": "2026-10-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "58c90d303ebf415a58fba15bf7947205befe775e5a202528c09193cfee5ca3d9"
+    },
+    {
+      "date": "2026-10-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4d85820b0c0b7df31c721c7de023f55d658f53d668c83bbb3ed044aa6b7b18cb"
+    }
+  ],
+  "next_trade_date": "2026-10-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:24+08:00"
+}

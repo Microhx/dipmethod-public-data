@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-09-01",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:05:36+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "002886.SZ",
+      "code": "002886.SZ",
+      "names": [
+        "沃特股份"
+      ],
+      "signal_ids": [
+        "sig-0364"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300816.SZ",
+      "code": "300816.SZ",
+      "names": [
+        "艾可蓝"
+      ],
+      "signal_ids": [
+        "sig-0365"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

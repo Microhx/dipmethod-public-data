@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-01-07",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:52:12+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "600855.SH",
+      "code": "600855.SH",
+      "names": [
+        "航天长峰"
+      ],
+      "signal_ids": [
+        "sig-0007"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002131.SZ",
+      "code": "002131.SZ",
+      "names": [
+        "利欧股份"
+      ],
+      "signal_ids": [
+        "sig-0008"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301330.SZ",
+      "code": "301330.SZ",
+      "names": [
+        "熵基科技"
+      ],
+      "signal_ids": [
+        "sig-0009"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "688523.SH",
+      "code": "688523.SH",
+      "names": [
+        "航天环宇"
+      ],
+      "signal_ids": [
+        "sig-0010"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

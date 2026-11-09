@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-05-14",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:59:24+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "002897.SZ",
+      "code": "002897.SZ",
+      "names": [
+        "意华股份"
+      ],
+      "signal_ids": [
+        "sig-0193"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603890.SH",
+      "code": "603890.SH",
+      "names": [
+        "春秋电子"
+      ],
+      "signal_ids": [
+        "sig-0194"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301611.SZ",
+      "code": "301611.SZ",
+      "names": [
+        "珂玛科技"
+      ],
+      "signal_ids": [
+        "sig-0195"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "601126.SH",
+      "code": "601126.SH",
+      "names": [
+        "四方股份"
+      ],
+      "signal_ids": [
+        "sig-0196"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

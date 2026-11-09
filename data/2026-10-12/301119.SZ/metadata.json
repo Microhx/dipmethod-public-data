@@ -1,0 +1,48 @@
+{
+  "code": "301119.SZ",
+  "names": [
+    "正强股份"
+  ],
+  "signal_ids": [
+    "sig-0421"
+  ],
+  "buy_points": [
+    32
+  ],
+  "signal_date": "2026-10-12",
+  "days": [
+    {
+      "date": "2026-10-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:37+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e1b31272fca849424d7bfc67845a51846265bc4fc29f379c5055095eff90b1b0"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:37+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "aacba222744cfb906f8b4cd2ae6c57c072b4f56d0df17b0fb17293cd7357a486"
+    }
+  ],
+  "next_trade_date": "2026-10-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:37+08:00"
+}

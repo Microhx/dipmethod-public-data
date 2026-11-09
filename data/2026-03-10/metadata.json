@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-03-10",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:55:49+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300880.SZ",
+      "code": "300880.SZ",
+      "names": [
+        "迦南智能"
+      ],
+      "signal_ids": [
+        "sig-0099"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301179.SZ",
+      "code": "301179.SZ",
+      "names": [
+        "泽宇智能"
+      ],
+      "signal_ids": [
+        "sig-0100"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002112.SZ",
+      "code": "002112.SZ",
+      "names": [
+        "三变科技"
+      ],
+      "signal_ids": [
+        "sig-0101"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

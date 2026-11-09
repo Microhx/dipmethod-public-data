@@ -1,0 +1,48 @@
+{
+  "code": "300455.SZ",
+  "names": [
+    "航天智装"
+  ],
+  "signal_ids": [
+    "sig-0020"
+  ],
+  "buy_points": [
+    34.6
+  ],
+  "signal_date": "2026-01-13",
+  "days": [
+    {
+      "date": "2026-01-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2a819531f8740de4c708ff1d81724cdf05147d97a17202c6f0174ae509ef2722"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "33246cd3c3b065086e6727140e815f60b85fec083b334b0b36d02d08ab06255f"
+    }
+  ],
+  "next_trade_date": "2026-01-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:46+08:00"
+}

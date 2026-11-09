@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-09-24",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:07:06+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "000504.SZ",
+      "code": "000504.SZ",
+      "names": [
+        "南华生物"
+      ],
+      "signal_ids": [
+        "sig-0405"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "605058.SH",
+      "code": "605058.SH",
+      "names": [
+        "澳弘电子"
+      ],
+      "signal_ids": [
+        "sig-0406"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301678.SZ",
+      "code": "301678.SZ",
+      "names": [
+        "新恒汇"
+      ],
+      "signal_ids": [
+        "sig-0407"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

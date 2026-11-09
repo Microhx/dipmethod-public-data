@@ -1,0 +1,48 @@
+{
+  "code": "000779.SZ",
+  "names": [
+    "甘咨询"
+  ],
+  "signal_ids": [
+    "sig-0296"
+  ],
+  "buy_points": [
+    10.36
+  ],
+  "signal_date": "2026-07-13",
+  "days": [
+    {
+      "date": "2026-07-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2a5f039d472150a44b773e1c525338d52161c1b52c13bf0661c0ca6c5d2de588"
+    },
+    {
+      "date": "2026-07-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2644b1e76e169006d1ca52a9b2b50cc569765fd67afad1721f30de48ce83527e"
+    }
+  ],
+  "next_trade_date": "2026-07-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:29+08:00"
+}

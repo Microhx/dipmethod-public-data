@@ -1,0 +1,48 @@
+{
+  "code": "603039.SH",
+  "names": [
+    "泛微网络"
+  ],
+  "signal_ids": [
+    "sig-0320"
+  ],
+  "buy_points": [
+    44
+  ],
+  "signal_date": "2026-08-06",
+  "days": [
+    {
+      "date": "2026-08-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b6260a651200d54c82edbea1dae6db14135e90e88e17487c6f1411df17ed9f7b"
+    },
+    {
+      "date": "2026-08-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1218c43262fe1c114193ea2761fbad44fd992016c6098d9d4978f9ec895b9e0b"
+    }
+  ],
+  "next_trade_date": "2026-08-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:15+08:00"
+}

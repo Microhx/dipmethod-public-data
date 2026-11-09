@@ -1,0 +1,48 @@
+{
+  "code": "603601.SH",
+  "names": [
+    "再升科技"
+  ],
+  "signal_ids": [
+    "sig-0131"
+  ],
+  "buy_points": [
+    14.8
+  ],
+  "signal_date": "2026-04-01",
+  "days": [
+    {
+      "date": "2026-04-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ba2d4fe7fc3c15b1325fc32fe2576d2ce979bf19b02d434e4b4a1cd82ea7c6ca"
+    },
+    {
+      "date": "2026-04-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0a0881180d3d4a8ed32de861925c773345dfbe127a4ab80a6c0d39913016cbf3"
+    }
+  ],
+  "next_trade_date": "2026-04-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:02+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "603198.SH",
+  "names": [
+    "迎驾贡酒"
+  ],
+  "signal_ids": [
+    "sig-0453"
+  ],
+  "buy_points": [
+    45.955
+  ],
+  "signal_date": "2026-11-03",
+  "days": [
+    {
+      "date": "2026-11-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2e19e7db9843fef7f131dc99a948f0b7f721078f34729e7035d615bcb4425649"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9ad382ca2e4519dadeeda4093598594fda14c4174cab6152a9abbf6bf721464c"
+    }
+  ],
+  "next_trade_date": "2026-11-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:39+08:00"
+}

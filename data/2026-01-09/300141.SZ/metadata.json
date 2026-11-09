@@ -1,0 +1,48 @@
+{
+  "code": "300141.SZ",
+  "names": [
+    "和顺电气"
+  ],
+  "signal_ids": [
+    "sig-0014"
+  ],
+  "buy_points": [
+    16.15
+  ],
+  "signal_date": "2026-01-09",
+  "days": [
+    {
+      "date": "2026-01-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b763c91a4c4bd2f75213c63bffc7dcd9209a2b98801127b2fc1aa5bd7857fdf0"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cc8fa3aefb42b3779e0d358788443622c5175b462187dd0dbaab2fb8f90012bd"
+    }
+  ],
+  "next_trade_date": "2026-01-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:31+08:00"
+}

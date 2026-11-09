@@ -1,0 +1,48 @@
+{
+  "code": "002437.SZ",
+  "names": [
+    "誉衡药业"
+  ],
+  "signal_ids": [
+    "sig-0336"
+  ],
+  "buy_points": [
+    3.72
+  ],
+  "signal_date": "2026-08-13",
+  "days": [
+    {
+      "date": "2026-08-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "19e4d73d963c222ec27d402e9f1f14dc0eb7b795a8f157d9603f89b5ea427627"
+    },
+    {
+      "date": "2026-08-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "87626f58c4e282bb2966a8d22db0c3e70bcf2a5a43a424c21cc4b047c86aec3f"
+    }
+  ],
+  "next_trade_date": "2026-08-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:45+08:00"
+}

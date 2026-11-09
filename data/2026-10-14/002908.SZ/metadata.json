@@ -1,0 +1,48 @@
+{
+  "code": "002908.SZ",
+  "names": [
+    "德生科技"
+  ],
+  "signal_ids": [
+    "sig-0428"
+  ],
+  "buy_points": [
+    7.61
+  ],
+  "signal_date": "2026-10-14",
+  "days": [
+    {
+      "date": "2026-10-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6701a2686e13c6b465454cea3eb2c16a4a32e44784568765987df0f76874ac60"
+    },
+    {
+      "date": "2026-10-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "09625a36efdf822a8072a9a148911f54b379a2663efb0f53a87d23f528b9203a"
+    }
+  ],
+  "next_trade_date": "2026-10-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:50+08:00"
+}

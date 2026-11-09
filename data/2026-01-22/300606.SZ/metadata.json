@@ -1,0 +1,48 @@
+{
+  "code": "300606.SZ",
+  "names": [
+    "金太阳"
+  ],
+  "signal_ids": [
+    "sig-0036"
+  ],
+  "buy_points": [
+    35.95
+  ],
+  "signal_date": "2026-01-22",
+  "days": [
+    {
+      "date": "2026-01-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3c23b527bb70efd65dd58203b282f616fef58960dfff281d26641530f35ec2cd"
+    },
+    {
+      "date": "2026-01-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6bad142d4c345a9601f22e4e94cc3154f04a89105bde095ef6b3ac95384b54a7"
+    }
+  ],
+  "next_trade_date": "2026-01-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:24+08:00"
+}

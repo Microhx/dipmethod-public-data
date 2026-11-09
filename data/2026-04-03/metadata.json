@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-04-03",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:57:06+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "002082.SZ",
+      "code": "002082.SZ",
+      "names": [
+        "万邦德"
+      ],
+      "signal_ids": [
+        "sig-0134"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002263.SZ",
+      "code": "002263.SZ",
+      "names": [
+        "大东南"
+      ],
+      "signal_ids": [
+        "sig-0135"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300055.SZ",
+      "code": "300055.SZ",
+      "names": [
+        "万邦达"
+      ],
+      "signal_ids": [
+        "sig-0136"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

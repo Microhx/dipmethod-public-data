@@ -1,0 +1,48 @@
+{
+  "code": "002317.SZ",
+  "names": [
+    "众生药业"
+  ],
+  "signal_ids": [
+    "sig-0297"
+  ],
+  "buy_points": [
+    29.49
+  ],
+  "signal_date": "2026-07-14",
+  "days": [
+    {
+      "date": "2026-07-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b6b450e45a44c5e8f85b83e5b8c6a0e97f81e3a9f9234025836435ae66c6559e"
+    },
+    {
+      "date": "2026-07-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cfea9f6b0dbc75330239fe2cdc997bc1d0cd1f13037090de402c7746d98f3964"
+    }
+  ],
+  "next_trade_date": "2026-07-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:31+08:00"
+}

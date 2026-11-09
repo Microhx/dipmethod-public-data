@@ -1,0 +1,48 @@
+{
+  "code": "001217.SZ",
+  "names": [
+    "华尔泰"
+  ],
+  "signal_ids": [
+    "sig-0074"
+  ],
+  "buy_points": [
+    15.19
+  ],
+  "signal_date": "2026-02-12",
+  "days": [
+    {
+      "date": "2026-02-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:55+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "da4e6726f6a7432198734df9b15e6dbf93fba4e91ddb2257e4fd9682697d438e"
+    },
+    {
+      "date": "2026-02-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:55+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3ec11104d66bd5a890a59111a345f8667b78b594f16f6421a303cd4b62c690ee"
+    }
+  ],
+  "next_trade_date": "2026-02-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:55+08:00"
+}

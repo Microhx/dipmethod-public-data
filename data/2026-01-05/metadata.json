@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-01-05",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:51:27+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "002177.SZ",
+      "code": "002177.SZ",
+      "names": [
+        "御银股份"
+      ],
+      "signal_ids": [
+        "sig-0001"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300885.SZ",
+      "code": "300885.SZ",
+      "names": [
+        "海昌新材"
+      ],
+      "signal_ids": [
+        "sig-0002"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300136.SZ",
+      "code": "300136.SZ",
+      "names": [
+        "信维通信"
+      ],
+      "signal_ids": [
+        "sig-0003"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

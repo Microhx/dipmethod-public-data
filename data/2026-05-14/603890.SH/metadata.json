@@ -1,0 +1,48 @@
+{
+  "code": "603890.SH",
+  "names": [
+    "春秋电子"
+  ],
+  "signal_ids": [
+    "sig-0194"
+  ],
+  "buy_points": [
+    21.2
+  ],
+  "signal_date": "2026-05-14",
+  "days": [
+    {
+      "date": "2026-05-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8550ecc8efb2157eb3bf79cbae41d239aea70fa69fb29f08736d0e927202b776"
+    },
+    {
+      "date": "2026-05-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7317a885c054f11821cd0695153168ac17e403d37941665ef550e134e7533513"
+    }
+  ],
+  "next_trade_date": "2026-05-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:29+08:00"
+}

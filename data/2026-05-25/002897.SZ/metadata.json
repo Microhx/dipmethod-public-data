@@ -1,0 +1,48 @@
+{
+  "code": "002897.SZ",
+  "names": [
+    "意华股份"
+  ],
+  "signal_ids": [
+    "sig-0213"
+  ],
+  "buy_points": [
+    75
+  ],
+  "signal_date": "2026-05-25",
+  "days": [
+    {
+      "date": "2026-05-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:21+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "69b5d483fb80f0f7069c4f8dd1a904e5a0b317c2013234036e724335e2b9660b"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:21+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "db3e069c5de462e85fb021854e9af3b2d95876a899c81e13f8ebe19106f3107c"
+    }
+  ],
+  "next_trade_date": "2026-05-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:21+08:00"
+}

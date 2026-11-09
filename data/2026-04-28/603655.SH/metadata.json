@@ -1,0 +1,48 @@
+{
+  "code": "603655.SH",
+  "names": [
+    "朗博科技"
+  ],
+  "signal_ids": [
+    "sig-0169"
+  ],
+  "buy_points": [
+    47.72
+  ],
+  "signal_date": "2026-04-28",
+  "days": [
+    {
+      "date": "2026-04-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f58e08e8425a74a4fbecd01a53f094ba0e6c73733036c652410f55d88d3adbbf"
+    },
+    {
+      "date": "2026-04-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "25031b2c25969b4d3b3e4e7508d50d98585b1494f304290115ee0efeb5fe079e"
+    }
+  ],
+  "next_trade_date": "2026-04-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:30+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-07-09",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:03:20+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "002841.SZ",
+      "code": "002841.SZ",
+      "names": [
+        "视源股份"
+      ],
+      "signal_ids": [
+        "sig-0293"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300821.SZ",
+      "code": "300821.SZ",
+      "names": [
+        "东岳硅材"
+      ],
+      "signal_ids": [
+        "sig-0294"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

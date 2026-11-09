@@ -1,0 +1,48 @@
+{
+  "code": "301051.SZ",
+  "names": [
+    "信濠光电"
+  ],
+  "signal_ids": [
+    "sig-0329"
+  ],
+  "buy_points": [
+    20.3
+  ],
+  "signal_date": "2026-08-11",
+  "days": [
+    {
+      "date": "2026-08-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8dc43fb8dfef4b46bbdaba1d9d5c7533b25e2e136fcf14d47fa7910f8034b8c8"
+    },
+    {
+      "date": "2026-08-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "62efc1997c25be540910545329a2f0954e75b989f1976ab1a7f4b95e104d16f0"
+    }
+  ],
+  "next_trade_date": "2026-08-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:32+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "000820.SZ",
+  "names": [
+    "神雾节能"
+  ],
+  "signal_ids": [
+    "sig-0319"
+  ],
+  "buy_points": [
+    4.05
+  ],
+  "signal_date": "2026-08-05",
+  "days": [
+    {
+      "date": "2026-08-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3b1a860e3120e63d09ca15917f16537f4a9a6013fdf297c961c22e4d4136362c"
+    },
+    {
+      "date": "2026-08-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3fbbda38132d4d2fd65fa17d08dc4af50dcae91f536835b8ca45c3d3abcca540"
+    }
+  ],
+  "next_trade_date": "2026-08-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:13+08:00"
+}

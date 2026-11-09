@@ -1,0 +1,48 @@
+{
+  "code": "300965.SZ",
+  "names": [
+    "恒宇信通"
+  ],
+  "signal_ids": [
+    "sig-0198"
+  ],
+  "buy_points": [
+    81.04
+  ],
+  "signal_date": "2026-05-15",
+  "days": [
+    {
+      "date": "2026-05-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "da6227998582f13fcfa26c1c5aec2c42ba5fc951b4e5ad7a77c7fa2ab95ad984"
+    },
+    {
+      "date": "2026-05-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ceee5f61f9907a2d4e88d7ddda25989aa6c591e66005045b9b6e74758a2cebed"
+    }
+  ],
+  "next_trade_date": "2026-05-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:39+08:00"
+}

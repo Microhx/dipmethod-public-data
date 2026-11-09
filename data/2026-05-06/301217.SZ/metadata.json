@@ -1,0 +1,48 @@
+{
+  "code": "301217.SZ",
+  "names": [
+    "铜冠铜箔"
+  ],
+  "signal_ids": [
+    "sig-0175"
+  ],
+  "buy_points": [
+    76
+  ],
+  "signal_date": "2026-05-06",
+  "days": [
+    {
+      "date": "2026-05-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "838485b2d3f5e14924083b336068de0fdf964f7c7482a2543c97f735c5167cd4"
+    },
+    {
+      "date": "2026-05-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "32d4c3c2bc872f4382d59d2cbcc0049f80ef1e5a9f70262fd0c9de7918503a41"
+    }
+  ],
+  "next_trade_date": "2026-05-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:44+08:00"
+}

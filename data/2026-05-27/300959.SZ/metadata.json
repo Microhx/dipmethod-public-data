@@ -1,0 +1,48 @@
+{
+  "code": "300959.SZ",
+  "names": [
+    "线上线下"
+  ],
+  "signal_ids": [
+    "sig-0221"
+  ],
+  "buy_points": [
+    207
+  ],
+  "signal_date": "2026-05-27",
+  "days": [
+    {
+      "date": "2026-05-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4e9041cc54fbe99d60b524eb63ac0f809540266492bc2a864034a62fc3f0d0f7"
+    },
+    {
+      "date": "2026-05-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8ad157512cf431045abb020e7dd86d678944a31ddd6216800419d515babc9900"
+    }
+  ],
+  "next_trade_date": "2026-05-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:46+08:00"
+}

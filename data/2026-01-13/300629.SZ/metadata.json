@@ -1,0 +1,48 @@
+{
+  "code": "300629.SZ",
+  "names": [
+    "新劲刚"
+  ],
+  "signal_ids": [
+    "sig-0019"
+  ],
+  "buy_points": [
+    29.07
+  ],
+  "signal_date": "2026-01-13",
+  "days": [
+    {
+      "date": "2026-01-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ac4042104aca1c5b83645814e2032cc8f2274c72f1627feb27495c11a6ab289c"
+    },
+    {
+      "date": "2026-01-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5de87619d2225a79e9dc391e67e6579114d016baed1111ea23dd550574a0751b"
+    }
+  ],
+  "next_trade_date": "2026-01-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:44+08:00"
+}

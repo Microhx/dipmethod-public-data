@@ -1,0 +1,48 @@
+{
+  "code": "301225.SZ",
+  "names": [
+    "恒勃股份"
+  ],
+  "signal_ids": [
+    "sig-0448"
+  ],
+  "buy_points": [
+    68.51
+  ],
+  "signal_date": "2026-10-29",
+  "days": [
+    {
+      "date": "2026-10-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bddffc4f4f0aff044837f46cbf782ec52212fe5000f2dd7499b3e3a8977705ef"
+    },
+    {
+      "date": "2026-10-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ce87ab3ad059a7006085de78deed44ae763221fa32e1fb37d1657e05589d5395"
+    }
+  ],
+  "next_trade_date": "2026-10-30",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:29+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "000678.SZ",
+  "names": [
+    "襄阳轴承"
+  ],
+  "signal_ids": [
+    "sig-0439"
+  ],
+  "buy_points": [
+    11.38
+  ],
+  "signal_date": "2026-10-23",
+  "days": [
+    {
+      "date": "2026-10-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1b9723e222b8df00d0f9901555470d266bfed33adca1397b5f86093123ab4779"
+    },
+    {
+      "date": "2026-10-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "54bed875d92d9b9a6ef4689d2802292af85b5fa866a76b291ba99cedb55376d4"
+    }
+  ],
+  "next_trade_date": "2026-10-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:12+08:00"
+}

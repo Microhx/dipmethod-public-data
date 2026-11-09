@@ -1,0 +1,48 @@
+{
+  "code": "300316.SZ",
+  "names": [
+    "晶盛机电"
+  ],
+  "signal_ids": [
+    "sig-0062"
+  ],
+  "buy_points": [
+    55.8
+  ],
+  "signal_date": "2026-02-05",
+  "days": [
+    {
+      "date": "2026-02-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bb6054ffe6c3936cf3411783515f9cdee5b2a96a3bd41bf7dc0393f170b6822a"
+    },
+    {
+      "date": "2026-02-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5fa99bd1b3af8bac64bcdbe60fba42c6efe39d026d432bd793dfb2afc097f0e3"
+    }
+  ],
+  "next_trade_date": "2026-02-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:24+08:00"
+}

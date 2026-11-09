@@ -1,0 +1,48 @@
+{
+  "code": "300885.SZ",
+  "names": [
+    "海昌新材"
+  ],
+  "signal_ids": [
+    "sig-0002"
+  ],
+  "buy_points": [
+    32.825
+  ],
+  "signal_date": "2026-01-05",
+  "days": [
+    {
+      "date": "2026-01-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:51:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "95a329df922b6ab4e8cb55ebf253ecfdb2954e44da70a47531ee3f086e6b4654"
+    },
+    {
+      "date": "2026-01-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:51:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6709dcd3ea4cd964fb297c960cb2baa3da1bfec36d5a441c14fb5e1a3b512137"
+    }
+  ],
+  "next_trade_date": "2026-01-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:51:33+08:00"
+}

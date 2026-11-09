@@ -1,0 +1,48 @@
+{
+  "code": "600860.SH",
+  "names": [
+    "京城股份"
+  ],
+  "signal_ids": [
+    "sig-0437"
+  ],
+  "buy_points": [
+    9.06
+  ],
+  "signal_date": "2026-10-21",
+  "days": [
+    {
+      "date": "2026-10-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "667b929d23fd2e11fea632ce1883a51ded6d2a87383a9ced54520404dfd37c00"
+    },
+    {
+      "date": "2026-10-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0f4cf62391f35711c4e4991be33228183bf679a7b441fb89a214c7b7d84a2295"
+    }
+  ],
+  "next_trade_date": "2026-10-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:07+08:00"
+}

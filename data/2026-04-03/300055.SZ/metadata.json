@@ -1,0 +1,48 @@
+{
+  "code": "300055.SZ",
+  "names": [
+    "万邦达"
+  ],
+  "signal_ids": [
+    "sig-0136"
+  ],
+  "buy_points": [
+    11.54
+  ],
+  "signal_date": "2026-04-03",
+  "days": [
+    {
+      "date": "2026-04-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fbaaa652fc67cedcd4515b7a93b6212c7970065f81a781fd8897857811d99526"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d20fa437db6480b4edf5f9c615a12817b6cce6ddf0df7df2b0b4b63d9ad656ab"
+    }
+  ],
+  "next_trade_date": "2026-04-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:13+08:00"
+}

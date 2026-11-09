@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-01-30",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:53:55+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "002623.SZ",
+      "code": "002623.SZ",
+      "names": [
+        "亚玛顿"
+      ],
+      "signal_ids": [
+        "sig-0051"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300191.SZ",
+      "code": "300191.SZ",
+      "names": [
+        "潜能恒信"
+      ],
+      "signal_ids": [
+        "sig-0052"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

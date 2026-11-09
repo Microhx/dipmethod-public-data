@@ -1,0 +1,48 @@
+{
+  "code": "002631.SZ",
+  "names": [
+    "德尔未来"
+  ],
+  "signal_ids": [
+    "sig-0108"
+  ],
+  "buy_points": [
+    7.63
+  ],
+  "signal_date": "2026-03-13",
+  "days": [
+    {
+      "date": "2026-03-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d781e30fc1422b341c3d1001b2696f487e0688c4bb6cd659e2ec914bed9bb796"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fa1e60d3ca2effd986199aacf049b134dc0ced815292e28c30a00ce5046f1007"
+    }
+  ],
+  "next_trade_date": "2026-03-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:09+08:00"
+}

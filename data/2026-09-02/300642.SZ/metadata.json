@@ -1,0 +1,48 @@
+{
+  "code": "300642.SZ",
+  "names": [
+    "透景生命"
+  ],
+  "signal_ids": [
+    "sig-0366"
+  ],
+  "buy_points": [
+    18.95
+  ],
+  "signal_date": "2026-09-02",
+  "days": [
+    {
+      "date": "2026-09-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:42+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d87abe351772f827e6b3c4ef73dbb32a02962d188ce32de029fbcb87ac11a24b"
+    },
+    {
+      "date": "2026-09-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:42+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0bdd616275f3389eb7f4909bb10f12b0eaa262709d7bb03c3a1a4c1cc8a84bed"
+    }
+  ],
+  "next_trade_date": "2026-09-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:42+08:00"
+}

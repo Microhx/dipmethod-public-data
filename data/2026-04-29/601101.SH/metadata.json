@@ -1,0 +1,48 @@
+{
+  "code": "601101.SH",
+  "names": [
+    "昊华能源"
+  ],
+  "signal_ids": [
+    "sig-0170"
+  ],
+  "buy_points": [
+    10.565
+  ],
+  "signal_date": "2026-04-29",
+  "days": [
+    {
+      "date": "2026-04-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a86bfda62fb5e1fe9e40b673c515652a88a8fdbb53d246bba997c4b4bec8ee35"
+    },
+    {
+      "date": "2026-04-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "16fd04122fdd576395411b3d08cbb10ec36b3f7536f2a32dd0986c734ab2a094"
+    }
+  ],
+  "next_trade_date": "2026-04-30",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:32+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "600105.SH",
+  "names": [
+    "永鼎股份"
+  ],
+  "signal_ids": [
+    "sig-0143"
+  ],
+  "buy_points": [
+    36.75
+  ],
+  "signal_date": "2026-04-13",
+  "days": [
+    {
+      "date": "2026-04-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5919a7dfc100b27410c59aeda99dce6820cc77fe57dbddad1fbc03d8c4b6ef3d"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8f6d7d82d4de4696b8542875aa186262144951ad880ff8140de385133a591d9e"
+    }
+  ],
+  "next_trade_date": "2026-04-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:27+08:00"
+}

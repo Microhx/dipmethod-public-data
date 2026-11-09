@@ -1,0 +1,48 @@
+{
+  "code": "600150.SH",
+  "names": [
+    "中国船舶"
+  ],
+  "signal_ids": [
+    "sig-0382"
+  ],
+  "buy_points": [
+    39.12
+  ],
+  "signal_date": "2026-09-11",
+  "days": [
+    {
+      "date": "2026-09-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d883da02e0f17bb28a12b5085d0c10b6256677bcb905ac1a504f552bcf95cd56"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "93f8f707dcdba35951e01dd653b9ef373868abe51b5162dd64f2a9da0237b5d2"
+    }
+  ],
+  "next_trade_date": "2026-09-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:15+08:00"
+}

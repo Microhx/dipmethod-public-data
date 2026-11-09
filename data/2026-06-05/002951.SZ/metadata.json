@@ -1,0 +1,48 @@
+{
+  "code": "002951.SZ",
+  "names": [
+    "金时科技"
+  ],
+  "signal_ids": [
+    "sig-0237"
+  ],
+  "buy_points": [
+    22.61
+  ],
+  "signal_date": "2026-06-05",
+  "days": [
+    {
+      "date": "2026-06-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "80d02e02c0360d6b41b509bb26a16855f5604b7f5da021a787a98f6b4abe9541"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "246496d0273b767385a9edfdb044f7bd801bdaa1b994ba5dbe58b3b7aa0a51e8"
+    }
+  ],
+  "next_trade_date": "2026-06-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:24+08:00"
+}

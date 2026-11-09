@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-02-04",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:54:12+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300017.SZ",
+      "code": "300017.SZ",
+      "names": [
+        "网宿科技"
+      ],
+      "signal_ids": [
+        "sig-0058"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002149.SZ",
+      "code": "002149.SZ",
+      "names": [
+        "西部材料"
+      ],
+      "signal_ids": [
+        "sig-0059"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000995.SZ",
+      "code": "000995.SZ",
+      "names": [
+        "皇台酒业"
+      ],
+      "signal_ids": [
+        "sig-0060"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

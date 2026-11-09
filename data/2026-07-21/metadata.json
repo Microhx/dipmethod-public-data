@@ -1,0 +1,23 @@
+{
+  "signal_date": "2026-07-21",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:03:38+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 1,
+  "stocks": [
+    {
+      "folder": "600066.SH",
+      "code": "600066.SH",
+      "names": [
+        "宇通客车"
+      ],
+      "signal_ids": [
+        "sig-0302"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

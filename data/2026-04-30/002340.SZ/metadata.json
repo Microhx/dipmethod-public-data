@@ -1,0 +1,48 @@
+{
+  "code": "002340.SZ",
+  "names": [
+    "格林美"
+  ],
+  "signal_ids": [
+    "sig-0173"
+  ],
+  "buy_points": [
+    8.935
+  ],
+  "signal_date": "2026-04-30",
+  "days": [
+    {
+      "date": "2026-04-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8e9ef6d0661eef546b444971e5eee708bc7aa48482f931a5110aeab5cd1f8564"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "dcd2e7aab2a7510d8c1242af2338d15e5be60841437bdd04401b13dfe5f06036"
+    }
+  ],
+  "next_trade_date": "2026-05-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:39+08:00"
+}

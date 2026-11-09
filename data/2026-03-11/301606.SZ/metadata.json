@@ -1,0 +1,48 @@
+{
+  "code": "301606.SZ",
+  "names": [
+    "绿联科技"
+  ],
+  "signal_ids": [
+    "sig-0102"
+  ],
+  "buy_points": [
+    79.16
+  ],
+  "signal_date": "2026-03-11",
+  "days": [
+    {
+      "date": "2026-03-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9ce576c8449a575aa3af766528dfd05958e3c86fa3aac0100b317bbf0007a74d"
+    },
+    {
+      "date": "2026-03-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "74b31a4c27135bd15a7c1e13b84c4c19f94e94aebcd33555571d4447af02cfa2"
+    }
+  ],
+  "next_trade_date": "2026-03-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:58+08:00"
+}

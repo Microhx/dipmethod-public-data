@@ -1,0 +1,16 @@
+[project]
+name = "dipmethod-public-data"
+version = "0.1.0"
+description = "Public daily signal archives and one-minute market data for Dipmethod"
+requires-python = ">=3.10"
+dependencies = ["matplotlib>=3.7,<4"]
+
+[project.scripts]
+dipmethod-public-data = "dipmethod_public_data.__main__:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["dipmethod_public_data*"]

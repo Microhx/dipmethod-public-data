@@ -1,0 +1,48 @@
+{
+  "code": "300738.SZ",
+  "names": [
+    "奥飞数据"
+  ],
+  "signal_ids": [
+    "sig-0077"
+  ],
+  "buy_points": [
+    25.8
+  ],
+  "signal_date": "2026-02-13",
+  "days": [
+    {
+      "date": "2026-02-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:02+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "63d46ffa816cdf81c8c96ce7ad0405a2dd20b2c0615c5b17e7b8331c880deb42"
+    },
+    {
+      "date": "2026-02-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:02+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8d608d589127afa0aae292863083ff6f5df4aa35e141d38c84ec72bb31168629"
+    }
+  ],
+  "next_trade_date": "2026-02-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:02+08:00"
+}

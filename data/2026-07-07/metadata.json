@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-07-07",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:03:13+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "000938.SZ",
+      "code": "000938.SZ",
+      "names": [
+        "紫光股份"
+      ],
+      "signal_ids": [
+        "sig-0289"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301165.SZ",
+      "code": "301165.SZ",
+      "names": [
+        "锐捷网络"
+      ],
+      "signal_ids": [
+        "sig-0290"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

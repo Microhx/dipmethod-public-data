@@ -1,0 +1,48 @@
+{
+  "code": "603669.SH",
+  "names": [
+    "灵康药业"
+  ],
+  "signal_ids": [
+    "sig-0300"
+  ],
+  "buy_points": [
+    7.43
+  ],
+  "signal_date": "2026-07-16",
+  "days": [
+    {
+      "date": "2026-07-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:36+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "26688fc83ec8e0a48034841deea2b3f7eb4559bb6556399572b0a6ad3f22e237"
+    },
+    {
+      "date": "2026-07-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:36+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "33d9e0e0153e24b919a7f6cb971bb95fb4e55be9b0f4174e3b75774230cf3f9a"
+    }
+  ],
+  "next_trade_date": "2026-07-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:36+08:00"
+}

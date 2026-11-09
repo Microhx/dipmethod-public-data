@@ -1,0 +1,48 @@
+{
+  "code": "300042.SZ",
+  "names": [
+    "朗科科技"
+  ],
+  "signal_ids": [
+    "sig-0116"
+  ],
+  "buy_points": [
+    56.85
+  ],
+  "signal_date": "2026-03-19",
+  "days": [
+    {
+      "date": "2026-03-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e00e12e5281f5e6808012165a857d88136403651f92adcb101141a4ff7b83d08"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5ba68037421f5e0a2ac67abcc3760b44e2a1f0b2d2465eacd0556d9ff68286a7"
+    }
+  ],
+  "next_trade_date": "2026-03-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:25+08:00"
+}

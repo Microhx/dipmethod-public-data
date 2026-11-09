@@ -1,0 +1,48 @@
+{
+  "code": "603738.SH",
+  "names": [
+    "泰晶科技"
+  ],
+  "signal_ids": [
+    "sig-0156"
+  ],
+  "buy_points": [
+    30.65
+  ],
+  "signal_date": "2026-04-20",
+  "days": [
+    {
+      "date": "2026-04-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ba1856a2f34dfff7dd7573d8360bc8270fa470faa9fad507896f0481c8a41c70"
+    },
+    {
+      "date": "2026-04-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7fcd83ceb56bfa2b40dcc9f41254a2fe2bc249abaa019e7767fff6c934a56fc8"
+    }
+  ],
+  "next_trade_date": "2026-04-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:59+08:00"
+}

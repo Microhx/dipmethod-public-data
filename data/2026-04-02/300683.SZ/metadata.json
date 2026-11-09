@@ -1,0 +1,48 @@
+{
+  "code": "300683.SZ",
+  "names": [
+    "海特生物"
+  ],
+  "signal_ids": [
+    "sig-0132"
+  ],
+  "buy_points": [
+    45.7
+  ],
+  "signal_date": "2026-04-02",
+  "days": [
+    {
+      "date": "2026-04-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8969c8261429c05c79ccff6dae7ea39f3d235816d33f5924ca386c7e96872629"
+    },
+    {
+      "date": "2026-04-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "def2680d793b3cb9b8c111ebe287f4a8a88f84c0a6e495f9e9500aa35924a900"
+    }
+  ],
+  "next_trade_date": "2026-04-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:04+08:00"
+}

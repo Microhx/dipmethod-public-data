@@ -1,0 +1,48 @@
+{
+  "code": "600313.SH",
+  "names": [
+    "农发种业"
+  ],
+  "signal_ids": [
+    "sig-0095"
+  ],
+  "buy_points": [
+    8.65
+  ],
+  "signal_date": "2026-03-05",
+  "days": [
+    {
+      "date": "2026-03-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:42+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3c700249cb1668afec5655b1940a2ee66cae8cae35a22fc13a07c643c82f2492"
+    },
+    {
+      "date": "2026-03-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:42+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f83e567b45d25154106e9d838eee4711822a46f881a5d8635f5a8c40bfe06faa"
+    }
+  ],
+  "next_trade_date": "2026-03-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:43+08:00"
+}

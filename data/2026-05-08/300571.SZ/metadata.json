@@ -1,0 +1,48 @@
+{
+  "code": "300571.SZ",
+  "names": [
+    "平治信息"
+  ],
+  "signal_ids": [
+    "sig-0181"
+  ],
+  "buy_points": [
+    56.2
+  ],
+  "signal_date": "2026-05-08",
+  "days": [
+    {
+      "date": "2026-05-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "50c9acb22c7fd79fa5b2a05aef86e70c72cd7f55d46e6fab8f92c39edde23c43"
+    },
+    {
+      "date": "2026-05-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cee684312d369616e5bde27a1bbc02ef84580b7ae39ae461f571e2c66c7d8bd7"
+    }
+  ],
+  "next_trade_date": "2026-05-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:00+08:00"
+}

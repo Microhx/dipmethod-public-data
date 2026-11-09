@@ -1,0 +1,48 @@
+{
+  "code": "600353.SH",
+  "names": [
+    "旭光电子"
+  ],
+  "signal_ids": [
+    "sig-0271"
+  ],
+  "buy_points": [
+    48.54
+  ],
+  "signal_date": "2026-06-25",
+  "days": [
+    {
+      "date": "2026-06-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "63466237cccf22f5b40b94c76bd7020ed1bf71855f783bb9c7023377810677c0"
+    },
+    {
+      "date": "2026-06-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cab55088bf0a98092ac9ba3b67127d902344b680572cd48058a5a2dc015ad9b4"
+    }
+  ],
+  "next_trade_date": "2026-06-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:40+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300567.SZ",
+  "names": [
+    "精测电子"
+  ],
+  "signal_ids": [
+    "sig-0283"
+  ],
+  "buy_points": [
+    309
+  ],
+  "signal_date": "2026-07-01",
+  "days": [
+    {
+      "date": "2026-07-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6248149409fa3fc3b1983ea6f4f0790bdad5565c6287543ce8adb2e3030ca128"
+    },
+    {
+      "date": "2026-07-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "28f9da4e291721cb67113dff32906863769fddef5a431302d99e81d524784eef"
+    }
+  ],
+  "next_trade_date": "2026-07-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:04+08:00"
+}

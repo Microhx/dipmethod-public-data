@@ -1,0 +1,48 @@
+{
+  "code": "600668.SH",
+  "names": [
+    "尖峰集团"
+  ],
+  "signal_ids": [
+    "sig-0435"
+  ],
+  "buy_points": [
+    8.2
+  ],
+  "signal_date": "2026-10-19",
+  "days": [
+    {
+      "date": "2026-10-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:02+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2be372b7bd1a665f745fb66ae0431b17c06e426953ae831e211592c0c5e13a46"
+    },
+    {
+      "date": "2026-10-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:02+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "dca5093d9638a4560f27d625b3a0ed7dc014e1c32a719b0c7d17c1ec9e46e55a"
+    }
+  ],
+  "next_trade_date": "2026-10-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:03+08:00"
+}

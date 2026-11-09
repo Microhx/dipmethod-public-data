@@ -1,0 +1,48 @@
+{
+  "code": "301251.SZ",
+  "names": [
+    "威尔高"
+  ],
+  "signal_ids": [
+    "sig-0392"
+  ],
+  "buy_points": [
+    75.8
+  ],
+  "signal_date": "2026-09-17",
+  "days": [
+    {
+      "date": "2026-09-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "450765d40580bbe604d6d9100b2b53bd855223fb9a1ecfbe03ed9149553ce6b8"
+    },
+    {
+      "date": "2026-09-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c156742853a4deed5fc5242f90f82d2ca57e41bec76993dfe7a9b8633743dd1d"
+    }
+  ],
+  "next_trade_date": "2026-09-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:41+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "600352.SH",
+  "names": [
+    "浙江龙盛"
+  ],
+  "signal_ids": [
+    "sig-0049"
+  ],
+  "buy_points": [
+    14.8
+  ],
+  "signal_date": "2026-01-29",
+  "days": [
+    {
+      "date": "2026-01-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "89334b19bddd07c00bd798de914eb032442d88e4a60efe10d356a82b970c6f22"
+    },
+    {
+      "date": "2026-01-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1e3f48f01d178128b297a6ccd9e49dad1e5829683ec29c551d17a4f862dad240"
+    }
+  ],
+  "next_trade_date": "2026-01-30",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:53+08:00"
+}

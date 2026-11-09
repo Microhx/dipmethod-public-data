@@ -1,0 +1,48 @@
+{
+  "code": "002141.SZ",
+  "names": [
+    "贤丰控股"
+  ],
+  "signal_ids": [
+    "sig-0267"
+  ],
+  "buy_points": [
+    4.62
+  ],
+  "signal_date": "2026-06-24",
+  "days": [
+    {
+      "date": "2026-06-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2fb6e23b41f354f10b3911f555c9a83e5fe572398b896ca5c9bb8dbc2e39b4f6"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "153578c2fe6be1b8cfdecebced37a5b65071318ce579071df454fff910ca12f9"
+    }
+  ],
+  "next_trade_date": "2026-06-25",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:31+08:00"
+}

@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-04-14",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:57:30+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "301055.SZ",
+      "code": "301055.SZ",
+      "names": [
+        "张小泉"
+      ],
+      "signal_ids": [
+        "sig-0145"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300668.SZ",
+      "code": "300668.SZ",
+      "names": [
+        "杰恩设计"
+      ],
+      "signal_ids": [
+        "sig-0146"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300390.SZ",
+      "code": "300390.SZ",
+      "names": [
+        "天华新能"
+      ],
+      "signal_ids": [
+        "sig-0147"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

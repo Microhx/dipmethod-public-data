@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-05-12",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:59:09+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "002938.SZ",
+      "code": "002938.SZ",
+      "names": [
+        "鹏鼎控股"
+      ],
+      "signal_ids": [
+        "sig-0186"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301319.SZ",
+      "code": "301319.SZ",
+      "names": [
+        "唯特偶"
+      ],
+      "signal_ids": [
+        "sig-0187"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301207.SZ",
+      "code": "301207.SZ",
+      "names": [
+        "华兰疫苗"
+      ],
+      "signal_ids": [
+        "sig-0188"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301392.SZ",
+      "code": "301392.SZ",
+      "names": [
+        "汇成真空"
+      ],
+      "signal_ids": [
+        "sig-0189"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002730.SZ",
+  "names": [
+    "电光科技"
+  ],
+  "signal_ids": [
+    "sig-0119"
+  ],
+  "buy_points": [
+    21.826
+  ],
+  "signal_date": "2026-03-23",
+  "days": [
+    {
+      "date": "2026-03-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1f6bab4971549d667143bfd80829b7115a2430559dfca087f8ef2e2212800cf1"
+    },
+    {
+      "date": "2026-03-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "38df75ce8259f47142a32075152d9cb3ce8393af92dd1837123ee40604d5cfad"
+    }
+  ],
+  "next_trade_date": "2026-03-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:33+08:00"
+}

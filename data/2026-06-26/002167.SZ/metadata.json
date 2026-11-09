@@ -1,0 +1,48 @@
+{
+  "code": "002167.SZ",
+  "names": [
+    "东方锆业"
+  ],
+  "signal_ids": [
+    "sig-0273"
+  ],
+  "buy_points": [
+    21.276
+  ],
+  "signal_date": "2026-06-26",
+  "days": [
+    {
+      "date": "2026-06-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d3aa1a6e5d72c169e2c3dc8a11cba8846e87a434af2a8fcfd0f655539293cb87"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ded8fe37f733ee254fee2a413c836930e65b4126c23524e872a26b11a10676fc"
+    }
+  ],
+  "next_trade_date": "2026-06-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:43+08:00"
+}

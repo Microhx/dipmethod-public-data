@@ -1,0 +1,48 @@
+{
+  "code": "000938.SZ",
+  "names": [
+    "紫光股份"
+  ],
+  "signal_ids": [
+    "sig-0305"
+  ],
+  "buy_points": [
+    42.97
+  ],
+  "signal_date": "2026-07-23",
+  "days": [
+    {
+      "date": "2026-07-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a5b6349b92d7e3ac77942086c45d6813a62d907ad0f9e3e77dfeda6e6748d9f8"
+    },
+    {
+      "date": "2026-07-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c3e7443116fde34c949b5173d2cecb2784abf2f5d53d2450acdc0bdca2d51163"
+    }
+  ],
+  "next_trade_date": "2026-07-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:46+08:00"
+}

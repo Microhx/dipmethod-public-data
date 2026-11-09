@@ -1,0 +1,48 @@
+{
+  "code": "603928.SH",
+  "names": [
+    "兴业股份"
+  ],
+  "signal_ids": [
+    "sig-0295"
+  ],
+  "buy_points": [
+    17.16
+  ],
+  "signal_date": "2026-07-10",
+  "days": [
+    {
+      "date": "2026-07-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e28709ec1e81ebf3edfb6c90024154d386083662ae926aff7c097c3873082d7a"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "eab347fc3f8156c52582b76421ed32707a4bab2a46c9f40a4d54c11a4b84c268"
+    }
+  ],
+  "next_trade_date": "2026-07-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:27+08:00"
+}

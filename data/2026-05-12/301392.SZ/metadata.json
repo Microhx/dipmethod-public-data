@@ -1,0 +1,48 @@
+{
+  "code": "301392.SZ",
+  "names": [
+    "汇成真空"
+  ],
+  "signal_ids": [
+    "sig-0189"
+  ],
+  "buy_points": [
+    175.21
+  ],
+  "signal_date": "2026-05-12",
+  "days": [
+    {
+      "date": "2026-05-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a3d6b4be5716410258d5c8e3a9f6052fd19da95314bd4f61cd2766f90fe03ca5"
+    },
+    {
+      "date": "2026-05-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "364b1b191f71fb890295e5b2c592e923e537be98e15f538fe09219e7877f4966"
+    }
+  ],
+  "next_trade_date": "2026-05-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:18+08:00"
+}

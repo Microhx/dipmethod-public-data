@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-06-08",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:01:24+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "301528.SZ",
+      "code": "301528.SZ",
+      "names": [
+        "多浦乐"
+      ],
+      "signal_ids": [
+        "sig-0238"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301458.SZ",
+      "code": "301458.SZ",
+      "names": [
+        "钧崴电子"
+      ],
+      "signal_ids": [
+        "sig-0239"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

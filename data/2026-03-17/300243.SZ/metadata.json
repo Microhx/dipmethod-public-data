@@ -1,0 +1,48 @@
+{
+  "code": "300243.SZ",
+  "names": [
+    "瑞丰高材"
+  ],
+  "signal_ids": [
+    "sig-0112"
+  ],
+  "buy_points": [
+    15.7
+  ],
+  "signal_date": "2026-03-17",
+  "days": [
+    {
+      "date": "2026-03-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "60e137058a835d252b49c0117e843d8f9eb10128519b6b396757dfbd19759adc"
+    },
+    {
+      "date": "2026-03-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "00966f74cc7942112338b16e81f40b5968c4419d4aaa0a8ecf50e90f94e5c5b7"
+    }
+  ],
+  "next_trade_date": "2026-03-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:18+08:00"
+}

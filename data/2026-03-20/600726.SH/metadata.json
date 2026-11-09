@@ -1,0 +1,48 @@
+{
+  "code": "600726.SH",
+  "names": [
+    "华电能源"
+  ],
+  "signal_ids": [
+    "sig-0117"
+  ],
+  "buy_points": [
+    5.05
+  ],
+  "signal_date": "2026-03-20",
+  "days": [
+    {
+      "date": "2026-03-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "046e15686046224856481aff3f6d8da194d37f43dbeaa49c8efa2ab6eb795fc9"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bcee065b932d4e43976044ea5fa93fbd30e5b1e030e995f4ef4348bac7b826be"
+    }
+  ],
+  "next_trade_date": "2026-03-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:28+08:00"
+}

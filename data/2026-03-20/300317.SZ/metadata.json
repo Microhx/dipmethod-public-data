@@ -1,0 +1,48 @@
+{
+  "code": "300317.SZ",
+  "names": [
+    "珈伟新能"
+  ],
+  "signal_ids": [
+    "sig-0118"
+  ],
+  "buy_points": [
+    6.306
+  ],
+  "signal_date": "2026-03-20",
+  "days": [
+    {
+      "date": "2026-03-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bb1ebaa7dfab2d5e3eb5a7fb713a14f88174365a58922c7011097d1179ecddaf"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b0f1e9d1dcf2fc422d7c5065752fae64bb2f656f1df62f9124e93d977fe9fe32"
+    }
+  ],
+  "next_trade_date": "2026-03-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:29+08:00"
+}

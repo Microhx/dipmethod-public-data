@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-01-26",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:53:28+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "300842.SZ",
+      "code": "300842.SZ",
+      "names": [
+        "帝科股份"
+      ],
+      "signal_ids": [
+        "sig-0039"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "001316.SZ",
+      "code": "001316.SZ",
+      "names": [
+        "润贝航科"
+      ],
+      "signal_ids": [
+        "sig-0040"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300342.SZ",
+      "code": "300342.SZ",
+      "names": [
+        "天银机电"
+      ],
+      "signal_ids": [
+        "sig-0041"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300503.SZ",
+      "code": "300503.SZ",
+      "names": [
+        "昊志机电"
+      ],
+      "signal_ids": [
+        "sig-0042"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300311.SZ",
+  "names": [
+    "任子行"
+  ],
+  "signal_ids": [
+    "sig-0323"
+  ],
+  "buy_points": [
+    6.386
+  ],
+  "signal_date": "2026-08-07",
+  "days": [
+    {
+      "date": "2026-08-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7d62a14e07bfdebbc9055ed91bfa3d259e1c29682b7f81871412b3cccc373118"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bc19afdcedf90d82d905be554d55c00be2e6fc94686c690b3ad5555f66eab33c"
+    }
+  ],
+  "next_trade_date": "2026-08-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:21+08:00"
+}

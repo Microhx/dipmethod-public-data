@@ -1,0 +1,48 @@
+{
+  "code": "301189.SZ",
+  "names": [
+    "奥尼电子"
+  ],
+  "signal_ids": [
+    "sig-0151"
+  ],
+  "buy_points": [
+    80.69
+  ],
+  "signal_date": "2026-04-16",
+  "days": [
+    {
+      "date": "2026-04-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9e204acea96f8f01948d2e534a984ca4021591cf2dcfd8d2fe93e9e4aa7fd768"
+    },
+    {
+      "date": "2026-04-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2e9836b0a65c7e58b2bee91cb1c2e104023c8976c5537ae1346a818e83f387d4"
+    }
+  ],
+  "next_trade_date": "2026-04-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:47+08:00"
+}

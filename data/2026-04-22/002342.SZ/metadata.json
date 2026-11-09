@@ -1,0 +1,48 @@
+{
+  "code": "002342.SZ",
+  "names": [
+    "巨力索具"
+  ],
+  "signal_ids": [
+    "sig-0160"
+  ],
+  "buy_points": [
+    20.26
+  ],
+  "signal_date": "2026-04-22",
+  "days": [
+    {
+      "date": "2026-04-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:08+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9f5a3953a57b06d7139696b6142209e3e599d7c58d2250e57b9286d18726ecb6"
+    },
+    {
+      "date": "2026-04-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:08+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "13d521ae0d42f8929d14f2ddff9fbfe1d49213ca71b5112029c437445284453a"
+    }
+  ],
+  "next_trade_date": "2026-04-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:08+08:00"
+}

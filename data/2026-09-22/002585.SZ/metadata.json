@@ -1,0 +1,48 @@
+{
+  "code": "002585.SZ",
+  "names": [
+    "双星新材"
+  ],
+  "signal_ids": [
+    "sig-0400"
+  ],
+  "buy_points": [
+    12.04
+  ],
+  "signal_date": "2026-09-22",
+  "days": [
+    {
+      "date": "2026-09-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4ebf71e12ed3412f9f326cf9399d9b2d7d0b36bb55b6e8cb46d8202453e9b6cf"
+    },
+    {
+      "date": "2026-09-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "87da1f35e09e5cdf453857916e482547a9811bb553478798e3b9320cb85daa24"
+    }
+  ],
+  "next_trade_date": "2026-09-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:58+08:00"
+}

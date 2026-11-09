@@ -1,0 +1,23 @@
+{
+  "signal_date": "2026-04-15",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:57:37+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 1,
+  "stocks": [
+    {
+      "folder": "301310.SZ",
+      "code": "301310.SZ",
+      "names": [
+        "鑫宏业"
+      ],
+      "signal_ids": [
+        "sig-0148"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002930.SZ",
+  "names": [
+    "宏川智慧"
+  ],
+  "signal_ids": [
+    "sig-0182"
+  ],
+  "buy_points": [
+    15.3
+  ],
+  "signal_date": "2026-05-11",
+  "days": [
+    {
+      "date": "2026-05-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:03+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8092efcb31052e579abcbae44b849ba2dad076b51cb32f950a33f8324b31d5de"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:03+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "99946f36e6ed35223416c80bd1a37e274096ee7c7c6d760d2bf0519170ff3f0d"
+    }
+  ],
+  "next_trade_date": "2026-05-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:03+08:00"
+}

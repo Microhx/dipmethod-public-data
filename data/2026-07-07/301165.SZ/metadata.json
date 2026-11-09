@@ -1,0 +1,48 @@
+{
+  "code": "301165.SZ",
+  "names": [
+    "锐捷网络"
+  ],
+  "signal_ids": [
+    "sig-0290"
+  ],
+  "buy_points": [
+    96.43
+  ],
+  "signal_date": "2026-07-07",
+  "days": [
+    {
+      "date": "2026-07-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e235542cd1c1dd23ae4e57c223b3b0ac83a8c935ce78e9fe39d5283f13e2200a"
+    },
+    {
+      "date": "2026-07-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "26c37d19cd6a88dcc64d08d084956d7291990dfd0606f7cc155a7000d7d73f8a"
+    }
+  ],
+  "next_trade_date": "2026-07-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:17+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002498.SZ",
+  "names": [
+    "汉缆股份"
+  ],
+  "signal_ids": [
+    "sig-0190"
+  ],
+  "buy_points": [
+    10.4
+  ],
+  "signal_date": "2026-05-13",
+  "days": [
+    {
+      "date": "2026-05-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6661e8197ea9b2374755b7400969d1c6a890508f14a5b6eb72c943eef7be7d8e"
+    },
+    {
+      "date": "2026-05-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "32963ca9c9d37e937ebc61b53d31b641b2a684fb4887221a15ee98da9373a9bb"
+    }
+  ],
+  "next_trade_date": "2026-05-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:20+08:00"
+}

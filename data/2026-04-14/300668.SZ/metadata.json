@@ -1,0 +1,48 @@
+{
+  "code": "300668.SZ",
+  "names": [
+    "杰恩设计"
+  ],
+  "signal_ids": [
+    "sig-0146"
+  ],
+  "buy_points": [
+    53.85
+  ],
+  "signal_date": "2026-04-14",
+  "days": [
+    {
+      "date": "2026-04-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e68ef984843b78f30ccf398d2f4b5acfc0dc70dddfe0508f421c2f3f220398cf"
+    },
+    {
+      "date": "2026-04-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6f8ce5cb7222440be20ad62608ac29eba72ffdc5eb46d7b2e9f69a21b9066f32"
+    }
+  ],
+  "next_trade_date": "2026-04-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:34+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002082.SZ",
+  "names": [
+    "万邦德"
+  ],
+  "signal_ids": [
+    "sig-0134"
+  ],
+  "buy_points": [
+    33.05
+  ],
+  "signal_date": "2026-04-03",
+  "days": [
+    {
+      "date": "2026-04-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:08+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "06522a7ac15401419fd720dcf71a811fc60053aa861b2a85d36b23b56b81537f"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:08+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c0b04acdaebba1cd31c13d4db6f413a2e6527f77c87df40ce7a98e0a47979f48"
+    }
+  ],
+  "next_trade_date": "2026-04-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:09+08:00"
+}

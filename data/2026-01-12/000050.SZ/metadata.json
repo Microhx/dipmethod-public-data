@@ -1,0 +1,48 @@
+{
+  "code": "000050.SZ",
+  "names": [
+    "深天马A"
+  ],
+  "signal_ids": [
+    "sig-0018"
+  ],
+  "buy_points": [
+    10
+  ],
+  "signal_date": "2026-01-12",
+  "days": [
+    {
+      "date": "2026-01-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "132eb5332d5d5f608e4888a2cf8ef399de0094120dabdedbb0b4aa60ef120072"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d5c9041e1741362ca4fad1b09ce180d2229b90fa8fca536b11910b6d1fe7f465"
+    }
+  ],
+  "next_trade_date": "2026-01-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:41+08:00"
+}

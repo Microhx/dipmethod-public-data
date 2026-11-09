@@ -1,0 +1,48 @@
+{
+  "code": "002084.SZ",
+  "names": [
+    "海鸥住工"
+  ],
+  "signal_ids": [
+    "sig-0373"
+  ],
+  "buy_points": [
+    6.685
+  ],
+  "signal_date": "2026-09-07",
+  "days": [
+    {
+      "date": "2026-09-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "64491acac3705df0b91d145a4748c003413a070232a7f586db8bdef62bd77eb2"
+    },
+    {
+      "date": "2026-09-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c2921767f4062a4202b5c026cc23454d57442628effbcd1f1533cdf66ab7e5f4"
+    }
+  ],
+  "next_trade_date": "2026-09-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:56+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-06-16",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:01:54+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300400.SZ",
+      "code": "300400.SZ",
+      "names": [
+        "劲拓股份"
+      ],
+      "signal_ids": [
+        "sig-0252"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603124.SH",
+      "code": "603124.SH",
+      "names": [
+        "江南新材"
+      ],
+      "signal_ids": [
+        "sig-0253"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

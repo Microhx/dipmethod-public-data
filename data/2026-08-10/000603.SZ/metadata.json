@@ -1,0 +1,48 @@
+{
+  "code": "000603.SZ",
+  "names": [
+    "盛达资源"
+  ],
+  "signal_ids": [
+    "sig-0326"
+  ],
+  "buy_points": [
+    34.52
+  ],
+  "signal_date": "2026-08-10",
+  "days": [
+    {
+      "date": "2026-08-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c01f211991df2f238b0b14afb1eabd3489b3f51028e41a8f86eba7fcdbee2dd4"
+    },
+    {
+      "date": "2026-08-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "34ec3a5021a055dcc8a45ce77eebd5444102264c9e82e297080d6762491c0792"
+    }
+  ],
+  "next_trade_date": "2026-08-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:26+08:00"
+}

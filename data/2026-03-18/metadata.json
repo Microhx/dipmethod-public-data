@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-03-18",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:56:18+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "301667.SZ",
+      "code": "301667.SZ",
+      "names": [
+        "纳百川"
+      ],
+      "signal_ids": [
+        "sig-0113"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600367.SH",
+      "code": "600367.SH",
+      "names": [
+        "红星发展"
+      ],
+      "signal_ids": [
+        "sig-0114"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

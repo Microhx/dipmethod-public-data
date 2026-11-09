@@ -1,0 +1,48 @@
+{
+  "code": "300816.SZ",
+  "names": [
+    "艾可蓝"
+  ],
+  "signal_ids": [
+    "sig-0365"
+  ],
+  "buy_points": [
+    65.75
+  ],
+  "signal_date": "2026-09-01",
+  "days": [
+    {
+      "date": "2026-09-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e27420a9bba7f511f03d95d2fe7c255e75c2d701c2824fde92dd2c3e7b21ee9a"
+    },
+    {
+      "date": "2026-09-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a6c1d798073dbbcce415825a895671ddcb5e24963834ab46b9e8a3204d10bfb0"
+    }
+  ],
+  "next_trade_date": "2026-09-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:40+08:00"
+}

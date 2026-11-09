@@ -1,0 +1,48 @@
+{
+  "code": "601858.SH",
+  "names": [
+    "中国科传"
+  ],
+  "signal_ids": [
+    "sig-0317"
+  ],
+  "buy_points": [
+    24.13
+  ],
+  "signal_date": "2026-08-05",
+  "days": [
+    {
+      "date": "2026-08-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "753c347df6d510f2616bb3a413aed1351c4e0829d4cfa46c9cab04a4b1427ee7"
+    },
+    {
+      "date": "2026-08-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "62ec273328411c9a6534acadd870a09abf23a1a3cdc2fe6ea5731d0986b97cb7"
+    }
+  ],
+  "next_trade_date": "2026-08-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:09+08:00"
+}

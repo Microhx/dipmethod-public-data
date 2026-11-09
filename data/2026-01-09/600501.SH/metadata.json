@@ -1,0 +1,48 @@
+{
+  "code": "600501.SH",
+  "names": [
+    "航天晨光"
+  ],
+  "signal_ids": [
+    "sig-0015"
+  ],
+  "buy_points": [
+    33.4
+  ],
+  "signal_date": "2026-01-09",
+  "days": [
+    {
+      "date": "2026-01-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9018e05a98eb5e95b8d4025bd8ce917fce716efa90ca625d103ea529737ffad9"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cae8f1593a3708eaefe1c3f31ac84cee78363e89d34d9d280290a1715de51b97"
+    }
+  ],
+  "next_trade_date": "2026-01-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:33+08:00"
+}

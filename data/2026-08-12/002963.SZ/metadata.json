@@ -1,0 +1,48 @@
+{
+  "code": "002963.SZ",
+  "names": [
+    "豪尔赛"
+  ],
+  "signal_ids": [
+    "sig-0334"
+  ],
+  "buy_points": [
+    19.4
+  ],
+  "signal_date": "2026-08-12",
+  "days": [
+    {
+      "date": "2026-08-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e4806b8f230a79cdc4e03a82ce0c5df9108957859bb517ba56fbc9182c07e992"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "973ddf9d8cf87c57d395c64f4ef20f883a91a6012b7624090d80fbe3ea981383"
+    }
+  ],
+  "next_trade_date": "2026-08-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:41+08:00"
+}

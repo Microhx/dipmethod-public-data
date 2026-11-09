@@ -1,0 +1,48 @@
+{
+  "code": "300720.SZ",
+  "names": [
+    "海川智能"
+  ],
+  "signal_ids": [
+    "sig-0125"
+  ],
+  "buy_points": [
+    69.2
+  ],
+  "signal_date": "2026-03-26",
+  "days": [
+    {
+      "date": "2026-03-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c117d1185fd327a771247c5245b11aa7cc150c60f56eeb199ba09d1a4229a5b3"
+    },
+    {
+      "date": "2026-03-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a170c66c378de030bb0d161eedd2c9847a9b77e736113ce63ea0478ec799d353"
+    }
+  ],
+  "next_trade_date": "2026-03-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:49+08:00"
+}

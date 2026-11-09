@@ -1,0 +1,48 @@
+{
+  "code": "003023.SZ",
+  "names": [
+    "彩虹集团"
+  ],
+  "signal_ids": [
+    "sig-0337"
+  ],
+  "buy_points": [
+    26.52
+  ],
+  "signal_date": "2026-08-13",
+  "days": [
+    {
+      "date": "2026-08-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:47+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3cd6d8b37ae7afac9e56dadfe92f3ff92fb6889f139e5d7a2337051c1d002f61"
+    },
+    {
+      "date": "2026-08-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:47+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "aee015d74869e4ccce834059de55d926bcdd9db895fe93810b0a5a51bc056cf7"
+    }
+  ],
+  "next_trade_date": "2026-08-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:48+08:00"
+}

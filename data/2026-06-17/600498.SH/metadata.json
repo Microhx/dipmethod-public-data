@@ -1,0 +1,48 @@
+{
+  "code": "600498.SH",
+  "names": [
+    "烽火通信"
+  ],
+  "signal_ids": [
+    "sig-0255"
+  ],
+  "buy_points": [
+    73
+  ],
+  "signal_date": "2026-06-17",
+  "days": [
+    {
+      "date": "2026-06-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:03+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "440e6149e13dee963f7b94b7f45dbb13fee8dfda4853c58a457cafe43e820bfa"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:03+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a58b3ac26e9191224138cabb047742a40bdcf112a3f89412d54f9f7898158c89"
+    }
+  ],
+  "next_trade_date": "2026-06-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:03+08:00"
+}

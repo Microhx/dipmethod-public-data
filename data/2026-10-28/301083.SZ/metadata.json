@@ -1,0 +1,48 @@
+{
+  "code": "301083.SZ",
+  "names": [
+    "百胜智能"
+  ],
+  "signal_ids": [
+    "sig-0446"
+  ],
+  "buy_points": [
+    14.97
+  ],
+  "signal_date": "2026-10-28",
+  "days": [
+    {
+      "date": "2026-10-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "89505ed5bb397e544cc3a9b6b13baf59264da58f331f30da1d0dbb9e13fb0af3"
+    },
+    {
+      "date": "2026-10-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c00de0c164dd456d8e0b5cb504e9e66c2e88df277c539cfac69723f6f5fdd1e7"
+    }
+  ],
+  "next_trade_date": "2026-10-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:26+08:00"
+}

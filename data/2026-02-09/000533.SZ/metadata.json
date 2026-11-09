@@ -1,0 +1,48 @@
+{
+  "code": "000533.SZ",
+  "names": [
+    "顺钠股份"
+  ],
+  "signal_ids": [
+    "sig-0067"
+  ],
+  "buy_points": [
+    11.2
+  ],
+  "signal_date": "2026-02-09",
+  "days": [
+    {
+      "date": "2026-02-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:36+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e98297d54ca3053523494ff95b58861e1a20df3f821d999c252aa03f2e518e54"
+    },
+    {
+      "date": "2026-02-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:36+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "260888c34c1e76e4b6219f0fb0398edfb75c0dae26aee74f068ccb3daa644a0a"
+    }
+  ],
+  "next_trade_date": "2026-02-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:36+08:00"
+}

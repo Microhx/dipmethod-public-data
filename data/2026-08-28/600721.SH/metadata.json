@@ -1,0 +1,48 @@
+{
+  "code": "600721.SH",
+  "names": [
+    "百花医药"
+  ],
+  "signal_ids": [
+    "sig-0360"
+  ],
+  "buy_points": [
+    15.47
+  ],
+  "signal_date": "2026-08-28",
+  "days": [
+    {
+      "date": "2026-08-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cef89895dc55517b7bac465684cd0e45c536760817905a09a96e9daae1269ec2"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0a7f2c1fa3ffe2e586850e2c3d42271cc5e1344b91a7a5e643c58635fa3ec43f"
+    }
+  ],
+  "next_trade_date": "2026-08-31",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:30+08:00"
+}

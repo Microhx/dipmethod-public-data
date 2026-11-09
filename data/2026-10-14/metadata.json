@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-10-14",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:07:45+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "002869.SZ",
+      "code": "002869.SZ",
+      "names": [
+        "金溢科技"
+      ],
+      "signal_ids": [
+        "sig-0426"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603980.SH",
+      "code": "603980.SH",
+      "names": [
+        "吉华集团"
+      ],
+      "signal_ids": [
+        "sig-0427"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002908.SZ",
+      "code": "002908.SZ",
+      "names": [
+        "德生科技"
+      ],
+      "signal_ids": [
+        "sig-0428"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

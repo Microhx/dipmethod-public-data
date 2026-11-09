@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-03-26",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:56:44+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "600982.SH",
+      "code": "600982.SH",
+      "names": [
+        "宁波能源"
+      ],
+      "signal_ids": [
+        "sig-0124"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300720.SZ",
+      "code": "300720.SZ",
+      "names": [
+        "海川智能"
+      ],
+      "signal_ids": [
+        "sig-0125"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

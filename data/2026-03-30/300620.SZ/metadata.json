@@ -1,0 +1,48 @@
+{
+  "code": "300620.SZ",
+  "names": [
+    "光库科技"
+  ],
+  "signal_ids": [
+    "sig-0126"
+  ],
+  "buy_points": [
+    186
+  ],
+  "signal_date": "2026-03-30",
+  "days": [
+    {
+      "date": "2026-03-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a298e9203c34029ba6fbb5cb9582282af26ce2e67e00ef7b2f72d4f1495a7d15"
+    },
+    {
+      "date": "2026-03-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "82146e794e73500582de64e82b0bf6f322167c76b033f961c52a9936b8a03557"
+    }
+  ],
+  "next_trade_date": "2026-03-31",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:51+08:00"
+}

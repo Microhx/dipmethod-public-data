@@ -1,0 +1,48 @@
+{
+  "code": "001259.SZ",
+  "names": [
+    "利仁科技"
+  ],
+  "signal_ids": [
+    "sig-0228"
+  ],
+  "buy_points": [
+    78.15
+  ],
+  "signal_date": "2026-06-01",
+  "days": [
+    {
+      "date": "2026-06-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3d9837481c6e1844f5e49d0d7862d1a01e747defe4bae0bd1f13c6ec4f46804c"
+    },
+    {
+      "date": "2026-06-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f2587c0bdf21fd7bf80e12a1d4bf382f7c15205244e75edafe6ebe8b8d9444fb"
+    }
+  ],
+  "next_trade_date": "2026-06-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:04+08:00"
+}

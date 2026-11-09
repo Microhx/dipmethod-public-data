@@ -1,0 +1,48 @@
+{
+  "code": "000720.SZ",
+  "names": [
+    "新能泰山"
+  ],
+  "signal_ids": [
+    "sig-0140"
+  ],
+  "buy_points": [
+    6.57
+  ],
+  "signal_date": "2026-04-08",
+  "days": [
+    {
+      "date": "2026-04-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:21+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "759f546cf70e006220b2ce061b4ac3368041e141731ce8446715d94814efb987"
+    },
+    {
+      "date": "2026-04-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:21+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "accd02606e27acd20b9d03ed6d926a77b2ce3c24d8ff9a84f7de3d1bc5ec2850"
+    }
+  ],
+  "next_trade_date": "2026-04-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:21+08:00"
+}

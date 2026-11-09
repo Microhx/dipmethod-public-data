@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-06-18",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:02:03+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300196.SZ",
+      "code": "300196.SZ",
+      "names": [
+        "长海股份"
+      ],
+      "signal_ids": [
+        "sig-0256"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301188.SZ",
+      "code": "301188.SZ",
+      "names": [
+        "力诺药包"
+      ],
+      "signal_ids": [
+        "sig-0257"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "605198.SH",
+      "code": "605198.SH",
+      "names": [
+        "安德利"
+      ],
+      "signal_ids": [
+        "sig-0258"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

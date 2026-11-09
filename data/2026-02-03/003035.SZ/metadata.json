@@ -1,0 +1,48 @@
+{
+  "code": "003035.SZ",
+  "names": [
+    "南网能源"
+  ],
+  "signal_ids": [
+    "sig-0055"
+  ],
+  "buy_points": [
+    6.5
+  ],
+  "signal_date": "2026-02-03",
+  "days": [
+    {
+      "date": "2026-02-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:08+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "84a3b3d658d4b572885c2ab32de09bdd740563ca79ec2e2c853575fc668fb5db"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:08+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8c19896564c5d2f7b9c4ea00d0e062be4676084b80fbf11fd09e7fbae43edcd4"
+    }
+  ],
+  "next_trade_date": "2026-02-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:08+08:00"
+}

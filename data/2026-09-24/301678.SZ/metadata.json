@@ -1,0 +1,48 @@
+{
+  "code": "301678.SZ",
+  "names": [
+    "新恒汇"
+  ],
+  "signal_ids": [
+    "sig-0407"
+  ],
+  "buy_points": [
+    55.475
+  ],
+  "signal_date": "2026-09-24",
+  "days": [
+    {
+      "date": "2026-09-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "174bce03b17c490bd2db817a4de11a06443ec7cabb87a73d3c4236fe0fd88947"
+    },
+    {
+      "date": "2026-09-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "33f5a3029baf3d6c8d40e00488cb5b8b387d6dad3ee42865c034f3476bf32995"
+    }
+  ],
+  "next_trade_date": "2026-09-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:11+08:00"
+}

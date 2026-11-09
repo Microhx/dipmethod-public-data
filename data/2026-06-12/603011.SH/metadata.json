@@ -1,0 +1,48 @@
+{
+  "code": "603011.SH",
+  "names": [
+    "合锻智能"
+  ],
+  "signal_ids": [
+    "sig-0246"
+  ],
+  "buy_points": [
+    31.65
+  ],
+  "signal_date": "2026-06-12",
+  "days": [
+    {
+      "date": "2026-06-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c0b156a9462404e330459da22a15e4ac6f855ae0326dea211ac02f87c157740f"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "22333da2f47ed7ce556f3ca9ff4829211bd922e7e2fa3dd0c758ea779c3f1301"
+    }
+  ],
+  "next_trade_date": "2026-06-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:43+08:00"
+}

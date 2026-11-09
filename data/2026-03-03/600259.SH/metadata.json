@@ -1,0 +1,48 @@
+{
+  "code": "600259.SH",
+  "names": [
+    "中稀有色"
+  ],
+  "signal_ids": [
+    "sig-0091"
+  ],
+  "buy_points": [
+    104.7
+  ],
+  "signal_date": "2026-03-03",
+  "days": [
+    {
+      "date": "2026-03-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8acf72bd1bd747d41bfad438d84c6523aeab9afbf61d2f0012d64c860b2ed57d"
+    },
+    {
+      "date": "2026-03-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "24478d8c8b0761bc820cbe98d7983842ce07369078a8858e10a542da24f597dd"
+    }
+  ],
+  "next_trade_date": "2026-03-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:32+08:00"
+}

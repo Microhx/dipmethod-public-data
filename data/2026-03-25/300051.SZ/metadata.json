@@ -1,0 +1,48 @@
+{
+  "code": "300051.SZ",
+  "names": [
+    "琏升科技"
+  ],
+  "signal_ids": [
+    "sig-0123"
+  ],
+  "buy_points": [
+    11.7
+  ],
+  "signal_date": "2026-03-25",
+  "days": [
+    {
+      "date": "2026-03-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5e3370f97d6840c531622ba62a2970c5cd55b20495514a528be7780a5c77e7dd"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7bc42147d0da9dbebf701541fc25b8568e04e3a8c43efc66f3ead0f11531b2ec"
+    }
+  ],
+  "next_trade_date": "2026-03-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:44+08:00"
+}

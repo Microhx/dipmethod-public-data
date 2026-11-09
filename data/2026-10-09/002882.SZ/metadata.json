@@ -1,0 +1,48 @@
+{
+  "code": "002882.SZ",
+  "names": [
+    "金龙羽"
+  ],
+  "signal_ids": [
+    "sig-0418"
+  ],
+  "buy_points": [
+    25.85
+  ],
+  "signal_date": "2026-10-09",
+  "days": [
+    {
+      "date": "2026-10-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e100a0461b41785d00da72adff18386ac1affd1dfa682032b50d4d7ceb1ee5bb"
+    },
+    {
+      "date": "2026-10-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3ef8139c762a56689686b4c6cb6037428e5064d6a3359715d96594f1c7cf9fcb"
+    }
+  ],
+  "next_trade_date": "2026-10-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:31+08:00"
+}

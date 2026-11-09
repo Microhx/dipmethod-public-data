@@ -1,0 +1,48 @@
+{
+  "code": "300746.SZ",
+  "names": [
+    "汉嘉数智"
+  ],
+  "signal_ids": [
+    "sig-0413"
+  ],
+  "buy_points": [
+    15.8
+  ],
+  "signal_date": "2026-09-30",
+  "days": [
+    {
+      "date": "2026-09-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a648f0d062f2bb626259b534753ac4c1604b5fa7c2f5681f76871f3ae7a44deb"
+    },
+    {
+      "date": "2026-10-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5a1135b9ed96ff667261b7fbd82aa73ec8ebe73248622a4ea388121366a3272a"
+    }
+  ],
+  "next_trade_date": "2026-10-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:22+08:00"
+}

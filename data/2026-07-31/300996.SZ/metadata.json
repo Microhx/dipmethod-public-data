@@ -1,0 +1,48 @@
+{
+  "code": "300996.SZ",
+  "names": [
+    "普联软件"
+  ],
+  "signal_ids": [
+    "sig-0312"
+  ],
+  "buy_points": [
+    15.5
+  ],
+  "signal_date": "2026-07-31",
+  "days": [
+    {
+      "date": "2026-07-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "989210dbf93d617e5f89c7f42ad5e4a65541680337088a95d50ecc206814fd37"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bfb1590ebc38367144a2c9ab4a2603bc5566c6a281bb6d73d87efda6e71a6de7"
+    }
+  ],
+  "next_trade_date": "2026-08-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:00+08:00"
+}

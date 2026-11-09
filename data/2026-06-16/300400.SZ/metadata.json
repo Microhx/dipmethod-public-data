@@ -1,0 +1,48 @@
+{
+  "code": "300400.SZ",
+  "names": [
+    "劲拓股份"
+  ],
+  "signal_ids": [
+    "sig-0252"
+  ],
+  "buy_points": [
+    41.4
+  ],
+  "signal_date": "2026-06-16",
+  "days": [
+    {
+      "date": "2026-06-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "28fe91196b3466d20625b68d490f3fc783852a47f53bca6c8a32791b79d82779"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "42e95388e557a6a5810d3a5a99c76cbc2d05e528d9ea2081262518b4c2b82058"
+    }
+  ],
+  "next_trade_date": "2026-06-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:56+08:00"
+}

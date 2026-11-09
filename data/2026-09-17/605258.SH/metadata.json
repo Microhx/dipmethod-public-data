@@ -1,0 +1,48 @@
+{
+  "code": "605258.SH",
+  "names": [
+    "协和电子"
+  ],
+  "signal_ids": [
+    "sig-0393"
+  ],
+  "buy_points": [
+    37.74
+  ],
+  "signal_date": "2026-09-17",
+  "days": [
+    {
+      "date": "2026-09-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "297615d4968e29ff1ab5dbb255989aee550dbafc3ff9522fcc0f60c9df9aa886"
+    },
+    {
+      "date": "2026-09-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "dbb79c58b956086ff0eb6437134834a7b41fa72569fcbf788a1ea5b285bbb87d"
+    }
+  ],
+  "next_trade_date": "2026-09-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:43+08:00"
+}

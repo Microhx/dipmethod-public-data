@@ -1,0 +1,48 @@
+{
+  "code": "300842.SZ",
+  "names": [
+    "帝科股份"
+  ],
+  "signal_ids": [
+    "sig-0045"
+  ],
+  "buy_points": [
+    113.4
+  ],
+  "signal_date": "2026-01-28",
+  "days": [
+    {
+      "date": "2026-01-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "aaaa7725aef82c67f01f31ecc3fbfd4757b8f45bd081ac63e9dcdca67e692a34"
+    },
+    {
+      "date": "2026-01-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "20d7fb79decef529b72787b58e94e8f7f23812ac251c80da187b0f8d86780ca1"
+    }
+  ],
+  "next_trade_date": "2026-01-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:45+08:00"
+}

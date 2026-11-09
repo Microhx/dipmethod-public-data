@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-05-20",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:59:52+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300260.SZ",
+      "code": "300260.SZ",
+      "names": [
+        "新莱应材"
+      ],
+      "signal_ids": [
+        "sig-0204"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603115.SH",
+      "code": "603115.SH",
+      "names": [
+        "海星股份"
+      ],
+      "signal_ids": [
+        "sig-0205"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300721.SZ",
+      "code": "300721.SZ",
+      "names": [
+        "怡达股份"
+      ],
+      "signal_ids": [
+        "sig-0206"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

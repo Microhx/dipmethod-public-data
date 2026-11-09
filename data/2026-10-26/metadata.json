@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-10-26",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:08:14+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300115.SZ",
+      "code": "300115.SZ",
+      "names": [
+        "长盈精密"
+      ],
+      "signal_ids": [
+        "sig-0441"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300296.SZ",
+      "code": "300296.SZ",
+      "names": [
+        "利亚德"
+      ],
+      "signal_ids": [
+        "sig-0442"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300378.SZ",
+      "code": "300378.SZ",
+      "names": [
+        "鼎捷数智"
+      ],
+      "signal_ids": [
+        "sig-0443"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

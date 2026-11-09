@@ -1,0 +1,48 @@
+{
+  "code": "301520.SZ",
+  "names": [
+    "万邦医药"
+  ],
+  "signal_ids": [
+    "sig-0339"
+  ],
+  "buy_points": [
+    82.2
+  ],
+  "signal_date": "2026-08-14",
+  "days": [
+    {
+      "date": "2026-08-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f0cf976a064bdc5f2606a4b1b5330d7df423cfb7ebb172b867c44978e2e7a352"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d7d4c29dca99260dd011c07aea08343ffb0bb58e71e72598b5f351c5ab083509"
+    }
+  ],
+  "next_trade_date": "2026-08-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:51+08:00"
+}

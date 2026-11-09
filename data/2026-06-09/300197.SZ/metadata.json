@@ -1,0 +1,48 @@
+{
+  "code": "300197.SZ",
+  "names": [
+    "节能铁汉"
+  ],
+  "signal_ids": [
+    "sig-0241"
+  ],
+  "buy_points": [
+    82.8
+  ],
+  "signal_date": "2026-06-09",
+  "days": [
+    {
+      "date": "2026-06-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5d6a5e84a9050029cc9d98e0784d2b4f3b9fc5164d1e8fe814519b2a65bf1e70"
+    },
+    {
+      "date": "2026-06-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e5df530e793c365ae55092810cce73b8b506abedc56b3a5fc03ecce0bee2b56c"
+    }
+  ],
+  "next_trade_date": "2026-06-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:32+08:00"
+}

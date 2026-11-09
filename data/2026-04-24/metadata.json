@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-04-24",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:58:13+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "603922.SH",
+      "code": "603922.SH",
+      "names": [
+        "金鸿顺"
+      ],
+      "signal_ids": [
+        "sig-0163"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "601512.SH",
+      "code": "601512.SH",
+      "names": [
+        "中新集团"
+      ],
+      "signal_ids": [
+        "sig-0164"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

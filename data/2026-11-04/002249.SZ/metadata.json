@@ -1,0 +1,48 @@
+{
+  "code": "002249.SZ",
+  "names": [
+    "大洋电机"
+  ],
+  "signal_ids": [
+    "sig-0456"
+  ],
+  "buy_points": [
+    7.29
+  ],
+  "signal_date": "2026-11-04",
+  "days": [
+    {
+      "date": "2026-11-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c996a35d59d96186250ed1aaa1462b7cce3b26fb947cc6fa4fc1ee5b76a86b9c"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "311af19ab0fb4636545f8ae695bce736881a5ed0c244d0e17718c6c8a66e3aff"
+    }
+  ],
+  "next_trade_date": "2026-11-05",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:45+08:00"
+}

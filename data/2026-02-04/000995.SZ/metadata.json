@@ -1,0 +1,48 @@
+{
+  "code": "000995.SZ",
+  "names": [
+    "皇台酒业"
+  ],
+  "signal_ids": [
+    "sig-0060"
+  ],
+  "buy_points": [
+    18.5
+  ],
+  "signal_date": "2026-02-04",
+  "days": [
+    {
+      "date": "2026-02-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "56f1fe9dc4196d40f1eae6e7347f211463356ebce24602cc0283550ff867134a"
+    },
+    {
+      "date": "2026-02-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f17b56c481b4cff6c173274d6c9692149ef01fb13755375d2b6b2e0f6cc7d15f"
+    }
+  ],
+  "next_trade_date": "2026-02-05",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:20+08:00"
+}

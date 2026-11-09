@@ -1,0 +1,48 @@
+{
+  "code": "002201.SZ",
+  "names": [
+    "九鼎新材"
+  ],
+  "signal_ids": [
+    "sig-0385"
+  ],
+  "buy_points": [
+    10.64
+  ],
+  "signal_date": "2026-09-14",
+  "days": [
+    {
+      "date": "2026-09-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b143995f52f953a5b160b882c87fc8898f50198ec5972d2e177ba3594ef05011"
+    },
+    {
+      "date": "2026-09-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6c225cf13a982d4e4be4d20b62d7b059b00a0a1d8cd40fa8be9dfc2762b32186"
+    }
+  ],
+  "next_trade_date": "2026-09-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:27+08:00"
+}

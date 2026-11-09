@@ -1,0 +1,48 @@
+{
+  "code": "002272.SZ",
+  "names": [
+    "川润股份"
+  ],
+  "signal_ids": [
+    "sig-0209"
+  ],
+  "buy_points": [
+    23.576
+  ],
+  "signal_date": "2026-05-21",
+  "days": [
+    {
+      "date": "2026-05-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "efafc06e2301cd045a0485be8f7e93e52838f6558472e0de77fe04f727ecc2c6"
+    },
+    {
+      "date": "2026-05-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c25cd3d072d1eead5a9e446ba7bf5283e540b4628d33b5f46020fdf65a4e834b"
+    }
+  ],
+  "next_trade_date": "2026-05-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:10+08:00"
+}

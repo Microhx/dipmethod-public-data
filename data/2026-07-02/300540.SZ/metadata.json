@@ -1,0 +1,48 @@
+{
+  "code": "300540.SZ",
+  "names": [
+    "蜀道装备"
+  ],
+  "signal_ids": [
+    "sig-0284"
+  ],
+  "buy_points": [
+    41.37
+  ],
+  "signal_date": "2026-07-02",
+  "days": [
+    {
+      "date": "2026-07-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1e64aed9738ae751a091b57bc090e0202c300de9d0151cb743c405220a5b83f3"
+    },
+    {
+      "date": "2026-07-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:06+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "47937183749cac8191682290091c4b12a41f3fa937065114620878f7d90bd8e6"
+    }
+  ],
+  "next_trade_date": "2026-07-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:06+08:00"
+}

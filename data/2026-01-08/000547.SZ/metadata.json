@@ -1,0 +1,48 @@
+{
+  "code": "000547.SZ",
+  "names": [
+    "航天发展"
+  ],
+  "signal_ids": [
+    "sig-0012"
+  ],
+  "buy_points": [
+    35.5
+  ],
+  "signal_date": "2026-01-08",
+  "days": [
+    {
+      "date": "2026-01-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fba074fb8fadbad34370b8518258a7fe3c8f9b79394aeddaf07d8bce9eaf1a20"
+    },
+    {
+      "date": "2026-01-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2e42c29cb352eb6a83038f429dda0dcb88a9d0d6b101743cf4210e7750ace497"
+    }
+  ],
+  "next_trade_date": "2026-01-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:27+08:00"
+}

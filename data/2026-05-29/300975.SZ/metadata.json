@@ -1,0 +1,48 @@
+{
+  "code": "300975.SZ",
+  "names": [
+    "商络电子"
+  ],
+  "signal_ids": [
+    "sig-0225"
+  ],
+  "buy_points": [
+    36.1
+  ],
+  "signal_date": "2026-05-29",
+  "days": [
+    {
+      "date": "2026-05-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "99cccd6af3cdbd64ed6408e61526fa7ea7a46bbf9ab65c6b9e7b15ee3b42d167"
+    },
+    {
+      "date": "2026-06-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "99063ea0be777f31454a9d915a63f2af870ab770c832a60dad1b9111d1306db6"
+    }
+  ],
+  "next_trade_date": "2026-06-01",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:56+08:00"
+}

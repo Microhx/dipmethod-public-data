@@ -1,0 +1,48 @@
+{
+  "code": "300927.SZ",
+  "names": [
+    "江天化学"
+  ],
+  "signal_ids": [
+    "sig-0358"
+  ],
+  "buy_points": [
+    29.76
+  ],
+  "signal_date": "2026-08-27",
+  "days": [
+    {
+      "date": "2026-08-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e7ce912b10e04738ee8b4ef5da55b509c9fd0a181e84897e8c239c3d2401442b"
+    },
+    {
+      "date": "2026-08-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6e96c9f364fb8066ab13dd6cce13aa204f9caafa3a0cac007773a970a8cc5062"
+    }
+  ],
+  "next_trade_date": "2026-08-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:27+08:00"
+}

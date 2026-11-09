@@ -1,0 +1,48 @@
+{
+  "code": "300006.SZ",
+  "names": [
+    "莱美药业"
+  ],
+  "signal_ids": [
+    "sig-0434"
+  ],
+  "buy_points": [
+    8.87
+  ],
+  "signal_date": "2026-10-19",
+  "days": [
+    {
+      "date": "2026-10-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d4144be50d28e82a8b022da632b61f10a31881e7c5084901a38832ec2eb5bbba"
+    },
+    {
+      "date": "2026-10-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2129c4e70e7f1d4de4ba663c5ccf13fd61dda2371e406063149f32c814ba4ca4"
+    }
+  ],
+  "next_trade_date": "2026-10-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:01+08:00"
+}

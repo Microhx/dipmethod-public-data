@@ -1,0 +1,48 @@
+{
+  "code": "002655.SZ",
+  "names": [
+    "共达电声"
+  ],
+  "signal_ids": [
+    "sig-0349"
+  ],
+  "buy_points": [
+    35.525
+  ],
+  "signal_date": "2026-08-19",
+  "days": [
+    {
+      "date": "2026-08-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7d7a4b50256dc62f64d9ff5a27d94b675181ca7870fdc1cf16ecce5d900a53bf"
+    },
+    {
+      "date": "2026-08-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "786da350cd556de41e60e92d963f32a8be6119f110f5b8346a8ba47b1375ab13"
+    }
+  ],
+  "next_trade_date": "2026-08-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:09+08:00"
+}

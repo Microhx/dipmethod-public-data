@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-09-15",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:06:27+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300913.SZ",
+      "code": "300913.SZ",
+      "names": [
+        "兆龙互连"
+      ],
+      "signal_ids": [
+        "sig-0386"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002579.SZ",
+      "code": "002579.SZ",
+      "names": [
+        "中京电子"
+      ],
+      "signal_ids": [
+        "sig-0387"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

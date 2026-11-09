@@ -1,0 +1,48 @@
+{
+  "code": "002536.SZ",
+  "names": [
+    "飞龙股份"
+  ],
+  "signal_ids": [
+    "sig-0183"
+  ],
+  "buy_points": [
+    43.6
+  ],
+  "signal_date": "2026-05-11",
+  "days": [
+    {
+      "date": "2026-05-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "40f8a1220ad9550b484175bd2e932813502316b3dde3c60a6c1be4118ee12a8d"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "58488def998c92b7f0d3ebf1508bdcbb9d9ca64808564b8211bdc49e19eee6e6"
+    }
+  ],
+  "next_trade_date": "2026-05-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:05+08:00"
+}

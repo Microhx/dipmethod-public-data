@@ -1,0 +1,48 @@
+{
+  "code": "600400.SH",
+  "names": [
+    "红豆股份"
+  ],
+  "signal_ids": [
+    "sig-0431"
+  ],
+  "buy_points": [
+    4.05
+  ],
+  "signal_date": "2026-10-15",
+  "days": [
+    {
+      "date": "2026-10-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:55+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c5b289ddd5f93589f058adb0a0eeae0f5d48716a742a9f08447417913e17f355"
+    },
+    {
+      "date": "2026-10-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:55+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8aae08a9342b0d1316a2c2d970cf820c9536e97b49bb5ceb36adac475194fcbf"
+    }
+  ],
+  "next_trade_date": "2026-10-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:56+08:00"
+}

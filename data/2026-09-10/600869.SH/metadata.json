@@ -1,0 +1,48 @@
+{
+  "code": "600869.SH",
+  "names": [
+    "远东股份"
+  ],
+  "signal_ids": [
+    "sig-0380"
+  ],
+  "buy_points": [
+    24.036
+  ],
+  "signal_date": "2026-09-10",
+  "days": [
+    {
+      "date": "2026-09-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ebde4aec4f0790e25ae6cde8c095f3cafbdf61434773d1039a2df3c78a665888"
+    },
+    {
+      "date": "2026-09-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "83244c58d862e882b757b9e00e07b915f6b4cdc3c0c285f965245328a498f016"
+    }
+  ],
+  "next_trade_date": "2026-09-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:11+08:00"
+}

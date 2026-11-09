@@ -1,0 +1,48 @@
+{
+  "code": "601611.SH",
+  "names": [
+    "中国核建"
+  ],
+  "signal_ids": [
+    "sig-0017"
+  ],
+  "buy_points": [
+    18.21
+  ],
+  "signal_date": "2026-01-12",
+  "days": [
+    {
+      "date": "2026-01-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "357f427a20cc139a900fc228f81bb3d75da0fa7ea26c94fab9052ba88eff8af4"
+    },
+    {
+      "date": "2026-01-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7defc8f4de59d6f2c642761d410b3c015750e0ec8405ea9e27f4db5ffdfb43d4"
+    }
+  ],
+  "next_trade_date": "2026-01-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:39+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-06-01",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:01:00+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "601991.SH",
+      "code": "601991.SH",
+      "names": [
+        "大唐发电"
+      ],
+      "signal_ids": [
+        "sig-0227"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "001259.SZ",
+      "code": "001259.SZ",
+      "names": [
+        "利仁科技"
+      ],
+      "signal_ids": [
+        "sig-0228"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-06-23",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:02:17+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "600226.SH",
+      "code": "600226.SH",
+      "names": [
+        "亨通股份"
+      ],
+      "signal_ids": [
+        "sig-0262"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300951.SZ",
+      "code": "300951.SZ",
+      "names": [
+        "博硕科技"
+      ],
+      "signal_ids": [
+        "sig-0263"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300570.SZ",
+      "code": "300570.SZ",
+      "names": [
+        "太辰光"
+      ],
+      "signal_ids": [
+        "sig-0264"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300671.SZ",
+      "code": "300671.SZ",
+      "names": [
+        "富满微"
+      ],
+      "signal_ids": [
+        "sig-0265"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

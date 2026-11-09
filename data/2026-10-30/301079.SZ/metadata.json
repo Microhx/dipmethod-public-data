@@ -1,0 +1,48 @@
+{
+  "code": "301079.SZ",
+  "names": [
+    "邵阳液压"
+  ],
+  "signal_ids": [
+    "sig-0450"
+  ],
+  "buy_points": [
+    36.35
+  ],
+  "signal_date": "2026-10-30",
+  "days": [
+    {
+      "date": "2026-10-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5df71e6fe6b8ca658de313d1855dfb61f6be9f09e57b784dbd0a6e7e4a9b4fbd"
+    },
+    {
+      "date": "2026-11-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b06121adb5035b8a64c6e5a9d9d4a6e11a2b1eb9d487cf4b7e5db319a76534fb"
+    }
+  ],
+  "next_trade_date": "2026-11-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:34+08:00"
+}

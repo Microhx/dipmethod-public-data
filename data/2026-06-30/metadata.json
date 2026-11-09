@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-06-30",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:02:53+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300706.SZ",
+      "code": "300706.SZ",
+      "names": [
+        "阿石创"
+      ],
+      "signal_ids": [
+        "sig-0279"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000962.SZ",
+      "code": "000962.SZ",
+      "names": [
+        "东方钽业"
+      ],
+      "signal_ids": [
+        "sig-0280"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

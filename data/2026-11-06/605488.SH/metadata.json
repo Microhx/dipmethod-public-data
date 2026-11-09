@@ -1,0 +1,48 @@
+{
+  "code": "605488.SH",
+  "names": [
+    "福莱新材"
+  ],
+  "signal_ids": [
+    "sig-0460"
+  ],
+  "buy_points": [
+    47.05
+  ],
+  "signal_date": "2026-11-06",
+  "days": [
+    {
+      "date": "2026-11-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "57292eba6bebb4d74c25ffa759246e6950ace1075560db30ab24b0f9aaf734fc"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "247745f7f15fb44bf35d4151c7c537526e7279616bf63ac5c45ee3dd903d1322"
+    }
+  ],
+  "next_trade_date": "2026-11-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:51+08:00"
+}

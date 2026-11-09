@@ -1,0 +1,48 @@
+{
+  "code": "000636.SZ",
+  "names": [
+    "风华高科"
+  ],
+  "signal_ids": [
+    "sig-0245"
+  ],
+  "buy_points": [
+    61.68
+  ],
+  "signal_date": "2026-06-12",
+  "days": [
+    {
+      "date": "2026-06-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "79d35155b11fd966debc4f2a2a7d70046c5e136a21b259c2f2769eed35e8577d"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "987c05070f8250ab4718e0b54390e8d00bd95c0f821fee05c5f963c9c62d946a"
+    }
+  ],
+  "next_trade_date": "2026-06-15",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:41+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002328.SZ",
+  "names": [
+    "新朋股份"
+  ],
+  "signal_ids": [
+    "sig-0144"
+  ],
+  "buy_points": [
+    10.43
+  ],
+  "signal_date": "2026-04-13",
+  "days": [
+    {
+      "date": "2026-04-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f4611c26753b577f8d6507ee39d76f108284ff4766b8ce8c393d623cc0a86b1d"
+    },
+    {
+      "date": "2026-04-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "856d56f225d56c0adb64645620c87d8e8178f151286fcd9d104703b152f41aa4"
+    }
+  ],
+  "next_trade_date": "2026-04-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:30+08:00"
+}

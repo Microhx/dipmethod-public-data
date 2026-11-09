@@ -1,0 +1,48 @@
+{
+  "code": "300871.SZ",
+  "names": [
+    "回盛生物"
+  ],
+  "signal_ids": [
+    "sig-0033"
+  ],
+  "buy_points": [
+    27.75
+  ],
+  "signal_date": "2026-01-21",
+  "days": [
+    {
+      "date": "2026-01-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "db2e5169373e1534b92acc12d1f2fe20a170f1606d37199aa522818da0da47ef"
+    },
+    {
+      "date": "2026-01-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ce4af01672e9667848da6060a88bd7cc9a41fe260ccc26807ee1145128e99ef5"
+    }
+  ],
+  "next_trade_date": "2026-01-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:16+08:00"
+}

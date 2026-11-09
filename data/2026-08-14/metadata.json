@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-08-14",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:04:49+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "301520.SZ",
+      "code": "301520.SZ",
+      "names": [
+        "万邦医药"
+      ],
+      "signal_ids": [
+        "sig-0339"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301602.SZ",
+      "code": "301602.SZ",
+      "names": [
+        "超研股份"
+      ],
+      "signal_ids": [
+        "sig-0340"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000887.SZ",
+      "code": "000887.SZ",
+      "names": [
+        "中鼎股份"
+      ],
+      "signal_ids": [
+        "sig-0341"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

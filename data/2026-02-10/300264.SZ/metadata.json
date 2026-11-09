@@ -1,0 +1,48 @@
+{
+  "code": "300264.SZ",
+  "names": [
+    "佳创视讯"
+  ],
+  "signal_ids": [
+    "sig-0070"
+  ],
+  "buy_points": [
+    8.41
+  ],
+  "signal_date": "2026-02-10",
+  "days": [
+    {
+      "date": "2026-02-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8bf149b8abea871b2d83d76b221e49f1daa68e02382f6edaa85deea72f9303e0"
+    },
+    {
+      "date": "2026-02-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5ba4a0a86c98568fa9fe7d7a058d7edf17f43f5ef016ede2e55cef6de729fd04"
+    }
+  ],
+  "next_trade_date": "2026-02-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:43+08:00"
+}

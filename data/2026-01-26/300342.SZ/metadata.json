@@ -1,0 +1,48 @@
+{
+  "code": "300342.SZ",
+  "names": [
+    "天银机电"
+  ],
+  "signal_ids": [
+    "sig-0041"
+  ],
+  "buy_points": [
+    56.7
+  ],
+  "signal_date": "2026-01-26",
+  "days": [
+    {
+      "date": "2026-01-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:36+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c66e57a35c2a0a1a8210500e645a676970d5e7c0b6ea88abc6845b7845c4f952"
+    },
+    {
+      "date": "2026-01-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:36+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "82c1af4bac43b55219b4c03325a8856c2b7bd234eb7466275fb56cf33c064722"
+    }
+  ],
+  "next_trade_date": "2026-01-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:36+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "605058.SH",
+  "names": [
+    "澳弘电子"
+  ],
+  "signal_ids": [
+    "sig-0406"
+  ],
+  "buy_points": [
+    56.95
+  ],
+  "signal_date": "2026-09-24",
+  "days": [
+    {
+      "date": "2026-09-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9e14ec60bedee2e91883f769ea0e3b00ce550050141c0ae6b614a5097c3a6e78"
+    },
+    {
+      "date": "2026-09-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1f419b4c95b2de926f4abdeead394414671b05e63defd913bb33ecfdaaa5006b"
+    }
+  ],
+  "next_trade_date": "2026-09-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:10+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-08-25",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:05:18+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "missing-sig-0354",
+      "code": null,
+      "names": [
+        "天祥新材"
+      ],
+      "signal_ids": [
+        "sig-0354"
+      ],
+      "status": "missing_code"
+    },
+    {
+      "folder": "300546.SZ",
+      "code": "300546.SZ",
+      "names": [
+        "雄帝科技"
+      ],
+      "signal_ids": [
+        "sig-0355"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "301106.SZ",
+  "names": [
+    "骏成科技"
+  ],
+  "signal_ids": [
+    "sig-0350"
+  ],
+  "buy_points": [
+    22.6
+  ],
+  "signal_date": "2026-08-20",
+  "days": [
+    {
+      "date": "2026-08-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "38e29f67eedd894d6213414aaf176e769218d39a9c0eab3815e042f5f2b180b0"
+    },
+    {
+      "date": "2026-08-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ce274eecafb96b18012fa98607ef5b31a0074a445fc570b9f3461b98a262ff76"
+    }
+  ],
+  "next_trade_date": "2026-08-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:11+08:00"
+}

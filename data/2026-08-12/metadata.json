@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-08-12",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:04:35+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "000636.SZ",
+      "code": "000636.SZ",
+      "names": [
+        "风华高科"
+      ],
+      "signal_ids": [
+        "sig-0332"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603137.SH",
+      "code": "603137.SH",
+      "names": [
+        "恒尚节能"
+      ],
+      "signal_ids": [
+        "sig-0333"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002963.SZ",
+      "code": "002963.SZ",
+      "names": [
+        "豪尔赛"
+      ],
+      "signal_ids": [
+        "sig-0334"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300426.SZ",
+      "code": "300426.SZ",
+      "names": [
+        "华智数媒"
+      ],
+      "signal_ids": [
+        "sig-0335"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300333.SZ",
+  "names": [
+    "兆日科技"
+  ],
+  "signal_ids": [
+    "sig-0361"
+  ],
+  "buy_points": [
+    13.1
+  ],
+  "signal_date": "2026-08-28",
+  "days": [
+    {
+      "date": "2026-08-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1528b9fc0f06a1edd2b31776fc85fc28d43060130abb40ef526c797c191e48f8"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "352d05c523e86809e40d8f7e1b040285585a5cf16c826471c5e4eb0de902989d"
+    }
+  ],
+  "next_trade_date": "2026-08-31",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:32+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "601811.SH",
+  "names": [
+    "新华文轩"
+  ],
+  "signal_ids": [
+    "sig-0425"
+  ],
+  "buy_points": [
+    21.85
+  ],
+  "signal_date": "2026-10-13",
+  "days": [
+    {
+      "date": "2026-10-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1ec7fb7da1dd9c3a39cd375b658ad09eccbb1e553e28f327b82e361d78164ca5"
+    },
+    {
+      "date": "2026-10-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "701a2e679b42d42216ad13957588cb31076ff1fd57fdc03f867eeff53f57de57"
+    }
+  ],
+  "next_trade_date": "2026-10-14",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:45+08:00"
+}

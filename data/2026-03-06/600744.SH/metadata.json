@@ -1,0 +1,48 @@
+{
+  "code": "600744.SH",
+  "names": [
+    "华银电力"
+  ],
+  "signal_ids": [
+    "sig-0096"
+  ],
+  "buy_points": [
+    8.6
+  ],
+  "signal_date": "2026-03-06",
+  "days": [
+    {
+      "date": "2026-03-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "75598a9d53efbe0fe107c8ed73e66789c023992d4fa5f71fa21d86e936a05333"
+    },
+    {
+      "date": "2026-03-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:45+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d88ead0ab0ccc421b04a342b891cb51ecd9b922c9b63ab680c1ad4d45d335f99"
+    }
+  ],
+  "next_trade_date": "2026-03-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:45+08:00"
+}

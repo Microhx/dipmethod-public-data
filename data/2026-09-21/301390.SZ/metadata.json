@@ -1,0 +1,48 @@
+{
+  "code": "301390.SZ",
+  "names": [
+    "经纬股份"
+  ],
+  "signal_ids": [
+    "sig-0397"
+  ],
+  "buy_points": [
+    49.86
+  ],
+  "signal_date": "2026-09-21",
+  "days": [
+    {
+      "date": "2026-09-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e87e95194a02e96a83bb64b1a00cae24b1c968faa828b393526714427185144f"
+    },
+    {
+      "date": "2026-09-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8e8373a5117e3bfa221b8e6fcf34fee85e6d34f36687ee3ce999fe4f06235c27"
+    }
+  ],
+  "next_trade_date": "2026-09-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:51+08:00"
+}

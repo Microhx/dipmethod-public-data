@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-06-15",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:01:47+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "301323.SZ",
+      "code": "301323.SZ",
+      "names": [
+        "新莱福"
+      ],
+      "signal_ids": [
+        "sig-0249"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603608.SH",
+      "code": "603608.SH",
+      "names": [
+        "天创时尚"
+      ],
+      "signal_ids": [
+        "sig-0250"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002971.SZ",
+      "code": "002971.SZ",
+      "names": [
+        "和远气体"
+      ],
+      "signal_ids": [
+        "sig-0251"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

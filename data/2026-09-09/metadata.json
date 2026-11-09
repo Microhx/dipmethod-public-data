@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-09-09",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:06:02+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "603395.SH",
+      "code": "603395.SH",
+      "names": [
+        "红四方"
+      ],
+      "signal_ids": [
+        "sig-0377"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002403.SZ",
+      "code": "002403.SZ",
+      "names": [
+        "爱仕达"
+      ],
+      "signal_ids": [
+        "sig-0378"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "601999.SH",
+      "code": "601999.SH",
+      "names": [
+        "出版传媒"
+      ],
+      "signal_ids": [
+        "sig-0379"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

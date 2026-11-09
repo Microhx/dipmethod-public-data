@@ -1,0 +1,48 @@
+{
+  "code": "002263.SZ",
+  "names": [
+    "大东南"
+  ],
+  "signal_ids": [
+    "sig-0135"
+  ],
+  "buy_points": [
+    4.47
+  ],
+  "signal_date": "2026-04-03",
+  "days": [
+    {
+      "date": "2026-04-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "17e8217df94b7567c3101b6aa396c39bd6ef39b096b917e3db322f7ccd3d5e81"
+    },
+    {
+      "date": "2026-04-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "150f256296f47f36857646d6177b918bb2f058215e6a17118643c50990fc9427"
+    }
+  ],
+  "next_trade_date": "2026-04-07",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:11+08:00"
+}

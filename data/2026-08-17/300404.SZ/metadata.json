@@ -1,0 +1,48 @@
+{
+  "code": "300404.SZ",
+  "names": [
+    "博济医药"
+  ],
+  "signal_ids": [
+    "sig-0343"
+  ],
+  "buy_points": [
+    16.6
+  ],
+  "signal_date": "2026-08-17",
+  "days": [
+    {
+      "date": "2026-08-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d2266cc5dc9dd3de4689f525b67e865b69cf997b28cec19462ca2fb0140fb100"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6bd19e55dd68a28d687b9b0db9b51b560f88877f35917d26b70dbaa404b7db46"
+    }
+  ],
+  "next_trade_date": "2026-08-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:59+08:00"
+}

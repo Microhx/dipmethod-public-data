@@ -1,0 +1,48 @@
+{
+  "code": "002909.SZ",
+  "names": [
+    "集泰股份"
+  ],
+  "signal_ids": [
+    "sig-0375"
+  ],
+  "buy_points": [
+    7.83
+  ],
+  "signal_date": "2026-09-08",
+  "days": [
+    {
+      "date": "2026-09-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "dc7b6793a688e78fccf933360aa7aa40781bc7391cbf2f58229c8199f0bd597e"
+    },
+    {
+      "date": "2026-09-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a207189c996b38a499bbaf251338c0479da48ffc9a058c98f85dcbb1b00a698c"
+    }
+  ],
+  "next_trade_date": "2026-09-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:01+08:00"
+}

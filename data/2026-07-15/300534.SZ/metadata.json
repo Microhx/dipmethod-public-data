@@ -1,0 +1,48 @@
+{
+  "code": "300534.SZ",
+  "names": [
+    "陇神戎发"
+  ],
+  "signal_ids": [
+    "sig-0298"
+  ],
+  "buy_points": [
+    10.12
+  ],
+  "signal_date": "2026-07-15",
+  "days": [
+    {
+      "date": "2026-07-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f91392e59bbbd572d5be302e7ae6c81eec059f480dd785b204fab7e11749a952"
+    },
+    {
+      "date": "2026-07-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:32+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8556c6349fb4e70d2a7c857ab39530f38bc4bcf4d92e0fd92dbb03a5eecb6433"
+    }
+  ],
+  "next_trade_date": "2026-07-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:33+08:00"
+}

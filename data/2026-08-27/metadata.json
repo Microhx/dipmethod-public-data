@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-08-27",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:05:24+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300927.SZ",
+      "code": "300927.SZ",
+      "names": [
+        "江天化学"
+      ],
+      "signal_ids": [
+        "sig-0358"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300684.SZ",
+      "code": "300684.SZ",
+      "names": [
+        "中石科技"
+      ],
+      "signal_ids": [
+        "sig-0359"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002077.SZ",
+  "names": [
+    "大港股份"
+  ],
+  "signal_ids": [
+    "sig-0038"
+  ],
+  "buy_points": [
+    18.1
+  ],
+  "signal_date": "2026-01-23",
+  "days": [
+    {
+      "date": "2026-01-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f7cb0d2d77215284358c8cdc506a0497de597dbc27cfb575e79f01721534fcd4"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "70797497a6d294d8dcbc7d99fcc82a69d5480d7cd0fe407f8406270d50f31c09"
+    }
+  ],
+  "next_trade_date": "2026-01-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:28+08:00"
+}

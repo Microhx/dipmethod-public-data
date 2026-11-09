@@ -1,0 +1,48 @@
+{
+  "code": "301188.SZ",
+  "names": [
+    "力诺药包"
+  ],
+  "signal_ids": [
+    "sig-0215"
+  ],
+  "buy_points": [
+    44.6
+  ],
+  "signal_date": "2026-05-25",
+  "days": [
+    {
+      "date": "2026-05-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "86f5dc2f1d372f54746ed7617f6cf259e55cd6d8a2bb7765ba867a8529113d15"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "70bf531091ab14133b104d81fa914617ea2903ea1c0e786b0406bfe560e49bb7"
+    }
+  ],
+  "next_trade_date": "2026-05-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:27+08:00"
+}

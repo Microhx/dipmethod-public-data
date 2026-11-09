@@ -1,0 +1,48 @@
+{
+  "code": "300837.SZ",
+  "names": [
+    "浙矿股份"
+  ],
+  "signal_ids": [
+    "sig-0044"
+  ],
+  "buy_points": [
+    60.7
+  ],
+  "signal_date": "2026-01-27",
+  "days": [
+    {
+      "date": "2026-01-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e13dcb84ceea31d9ef4f80e3486803d211d876fa7537d3d97abf21117372dd1a"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "94997c266f2fd1fc538042e58475c59144014c8701f1be5e1a8605c14f4c5803"
+    }
+  ],
+  "next_trade_date": "2026-01-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:44+08:00"
+}

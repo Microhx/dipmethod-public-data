@@ -1,0 +1,48 @@
+{
+  "code": "002623.SZ",
+  "names": [
+    "亚玛顿"
+  ],
+  "signal_ids": [
+    "sig-0051"
+  ],
+  "buy_points": [
+    24.11
+  ],
+  "signal_date": "2026-01-30",
+  "days": [
+    {
+      "date": "2026-01-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f4452644333a00e9848fd83993153508a47c6e9d1a2c00f28297adffe515b013"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e013d49d80e50965a91b7a7008ba6c2ab28c48d912855da19683c5be83a1ca0b"
+    }
+  ],
+  "next_trade_date": "2026-02-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:57+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-08-31",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:05:32+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "301591.SZ",
+      "code": "301591.SZ",
+      "names": [
+        "肯特股份"
+      ],
+      "signal_ids": [
+        "sig-0362"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600654.SH",
+      "code": "600654.SH",
+      "names": [
+        "中安科"
+      ],
+      "signal_ids": [
+        "sig-0363"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

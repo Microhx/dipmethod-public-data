@@ -1,0 +1,48 @@
+{
+  "code": "001337.SZ",
+  "names": [
+    "四川黄金"
+  ],
+  "signal_ids": [
+    "sig-0331"
+  ],
+  "buy_points": [
+    49.267
+  ],
+  "signal_date": "2026-08-11",
+  "days": [
+    {
+      "date": "2026-08-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5ac04078253ef88d5cae0fe23f113c51c1b9ab66cc1b1e617ef1e457b512ae9d"
+    },
+    {
+      "date": "2026-08-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5d3a9c35489ecee59d44f0bea1b69f16b53bc1b53e9cf2072891e28ad611e328"
+    }
+  ],
+  "next_trade_date": "2026-08-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:35+08:00"
+}

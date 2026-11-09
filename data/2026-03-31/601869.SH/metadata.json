@@ -1,0 +1,48 @@
+{
+  "code": "601869.SH",
+  "names": [
+    "长飞光纤"
+  ],
+  "signal_ids": [
+    "sig-0129"
+  ],
+  "buy_points": [
+    287.5
+  ],
+  "signal_date": "2026-03-31",
+  "days": [
+    {
+      "date": "2026-03-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e487ac34125c38aebd867d6bd7c9d7e938fbbf846a74a97c460803f4c0e06555"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:57+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8ea6c878ecdcb828be4dadb328ad28d8bbea79ce062815f767483edfb40d8002"
+    }
+  ],
+  "next_trade_date": "2026-04-01",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:58+08:00"
+}

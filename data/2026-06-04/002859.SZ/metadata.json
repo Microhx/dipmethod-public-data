@@ -1,0 +1,48 @@
+{
+  "code": "002859.SZ",
+  "names": [
+    "洁美科技"
+  ],
+  "signal_ids": [
+    "sig-0233"
+  ],
+  "buy_points": [
+    84.4
+  ],
+  "signal_date": "2026-06-04",
+  "days": [
+    {
+      "date": "2026-06-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0cde255ced81db98f90cd7221fc282ae30ce3b0d8f82b95d1f5f9f8cbfd6098f"
+    },
+    {
+      "date": "2026-06-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d7eb714b4c62126addaedc2035ae6ad7406362bf2bf3153bdf88f882d0595a2c"
+    }
+  ],
+  "next_trade_date": "2026-06-05",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:15+08:00"
+}

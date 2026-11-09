@@ -1,0 +1,48 @@
+{
+  "code": "000504.SZ",
+  "names": [
+    "南华生物"
+  ],
+  "signal_ids": [
+    "sig-0405"
+  ],
+  "buy_points": [
+    12.05
+  ],
+  "signal_date": "2026-09-24",
+  "days": [
+    {
+      "date": "2026-09-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:08+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "cb07f3787bfe7e840e21d2a3d9b3009ee0ba943b0deb4309bf23954d78cd0c74"
+    },
+    {
+      "date": "2026-09-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:08+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2ac2ba4898c8f27468a1e5efda8bebf313d158e510702c1524245e627adb3337"
+    }
+  ],
+  "next_trade_date": "2026-09-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:08+08:00"
+}

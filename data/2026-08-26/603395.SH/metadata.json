@@ -1,0 +1,48 @@
+{
+  "code": "603395.SH",
+  "names": [
+    "红四方"
+  ],
+  "signal_ids": [
+    "sig-0356"
+  ],
+  "buy_points": [
+    27.17
+  ],
+  "signal_date": "2026-08-26",
+  "days": [
+    {
+      "date": "2026-08-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "98ddcbdf6795679c281572a99981e67d2a8ff5e6bf9b49d8cd8e1b890b73280c"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:22+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c1e214b2db3aed6858005aba5807ac6fbd825049f978666037c4127e715f2001"
+    }
+  ],
+  "next_trade_date": "2026-08-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:22+08:00"
+}

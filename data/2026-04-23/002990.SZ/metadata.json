@@ -1,0 +1,48 @@
+{
+  "code": "002990.SZ",
+  "names": [
+    "盛视科技"
+  ],
+  "signal_ids": [
+    "sig-0161"
+  ],
+  "buy_points": [
+    47.08
+  ],
+  "signal_date": "2026-04-23",
+  "days": [
+    {
+      "date": "2026-04-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2372bfdac5e03dc6d73ce979900cbd8f4207fa988cc3704fa360eacf42ed7713"
+    },
+    {
+      "date": "2026-04-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e4a061b3bd368ecbad5a667a1a00730280fabfce93e33244fda68c8e452a56a9"
+    }
+  ],
+  "next_trade_date": "2026-04-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:11+08:00"
+}

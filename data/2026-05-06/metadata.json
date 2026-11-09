@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-05-06",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:58:42+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "301217.SZ",
+      "code": "301217.SZ",
+      "names": [
+        "铜冠铜箔"
+      ],
+      "signal_ids": [
+        "sig-0175"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600400.SH",
+      "code": "600400.SH",
+      "names": [
+        "红豆股份"
+      ],
+      "signal_ids": [
+        "sig-0176"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002929.SZ",
+      "code": "002929.SZ",
+      "names": [
+        "润建股份"
+      ],
+      "signal_ids": [
+        "sig-0177"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

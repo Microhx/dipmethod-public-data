@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-06-12",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:01:39+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "000636.SZ",
+      "code": "000636.SZ",
+      "names": [
+        "风华高科"
+      ],
+      "signal_ids": [
+        "sig-0245"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603011.SH",
+      "code": "603011.SH",
+      "names": [
+        "合锻智能"
+      ],
+      "signal_ids": [
+        "sig-0246"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300334.SZ",
+      "code": "300334.SZ",
+      "names": [
+        "津膜科技"
+      ],
+      "signal_ids": [
+        "sig-0247"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600378.SH",
+      "code": "600378.SH",
+      "names": [
+        "昊华科技"
+      ],
+      "signal_ids": [
+        "sig-0248"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

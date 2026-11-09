@@ -1,0 +1,48 @@
+{
+  "code": "002971.SZ",
+  "names": [
+    "和远气体"
+  ],
+  "signal_ids": [
+    "sig-0251"
+  ],
+  "buy_points": [
+    53.615
+  ],
+  "signal_date": "2026-06-15",
+  "days": [
+    {
+      "date": "2026-06-15",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0796692c89871dc792646fb9d56d658ce86a81b80604a13bd190f5784f17f70a"
+    },
+    {
+      "date": "2026-06-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0ccf4c40ed77fba47a98b405657799be55b35d37b3a20cecf5e917f1b3f8d862"
+    }
+  ],
+  "next_trade_date": "2026-06-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:54+08:00"
+}

@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-02-03",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:54:05+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "003035.SZ",
+      "code": "003035.SZ",
+      "names": [
+        "南网能源"
+      ],
+      "signal_ids": [
+        "sig-0055"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002455.SZ",
+      "code": "002455.SZ",
+      "names": [
+        "百川股份"
+      ],
+      "signal_ids": [
+        "sig-0056"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603629.SH",
+      "code": "603629.SH",
+      "names": [
+        "利通电子"
+      ],
+      "signal_ids": [
+        "sig-0057"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

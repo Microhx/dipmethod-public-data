@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-04-21",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:58:01+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "603178.SH",
+      "code": "603178.SH",
+      "names": [
+        "圣龙股份"
+      ],
+      "signal_ids": [
+        "sig-0158"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002580.SZ",
+      "code": "002580.SZ",
+      "names": [
+        "圣阳股份"
+      ],
+      "signal_ids": [
+        "sig-0159"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300981.SZ",
+  "names": [
+    "中红医疗"
+  ],
+  "signal_ids": [
+    "sig-0313"
+  ],
+  "buy_points": [
+    13.4
+  ],
+  "signal_date": "2026-07-31",
+  "days": [
+    {
+      "date": "2026-07-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d4e162772f30cb59b8f84294dda55295d68c4c80b3e26d20a1a8b187cf568bf3"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "16efb9f7f5e7dcc47ac37f388fbf27194428ffe12dddfac71a15488b15ef08e7"
+    }
+  ],
+  "next_trade_date": "2026-08-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:02+08:00"
+}

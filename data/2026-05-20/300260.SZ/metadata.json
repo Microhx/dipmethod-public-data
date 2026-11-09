@@ -1,0 +1,48 @@
+{
+  "code": "300260.SZ",
+  "names": [
+    "新莱应材"
+  ],
+  "signal_ids": [
+    "sig-0204"
+  ],
+  "buy_points": [
+    65.36
+  ],
+  "signal_date": "2026-05-20",
+  "days": [
+    {
+      "date": "2026-05-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6b84b44ceea1a4c341c81519db3a76a0e57cf4b9d5448ec74d7307a1337e40d8"
+    },
+    {
+      "date": "2026-05-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a51188852450c2b6bdf716b77478c70c52a508012fa05e73535d93115e0bc970"
+    }
+  ],
+  "next_trade_date": "2026-05-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:54+08:00"
+}

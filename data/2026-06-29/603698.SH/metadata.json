@@ -1,0 +1,48 @@
+{
+  "code": "603698.SH",
+  "names": [
+    "航天工程"
+  ],
+  "signal_ids": [
+    "sig-0276"
+  ],
+  "buy_points": [
+    40.7
+  ],
+  "signal_date": "2026-06-29",
+  "days": [
+    {
+      "date": "2026-06-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c8eda9d4bc6844f5cfd49487c6cc5a136adbe09583b1c9232a07151775bf3c27"
+    },
+    {
+      "date": "2026-06-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c81c0abce4a5250671b972e2f9c70cb5ad2f49900fa024b7da812402762ff1d3"
+    }
+  ],
+  "next_trade_date": "2026-06-30",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:48+08:00"
+}

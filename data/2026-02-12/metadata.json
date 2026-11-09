@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-02-12",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:54:49+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "603618.SH",
+      "code": "603618.SH",
+      "names": [
+        "杭电股份"
+      ],
+      "signal_ids": [
+        "sig-0073"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "001217.SZ",
+      "code": "001217.SZ",
+      "names": [
+        "华尔泰"
+      ],
+      "signal_ids": [
+        "sig-0074"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

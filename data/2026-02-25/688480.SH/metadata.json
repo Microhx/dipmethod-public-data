@@ -1,0 +1,48 @@
+{
+  "code": "688480.SH",
+  "names": [
+    "赛恩斯"
+  ],
+  "signal_ids": [
+    "sig-0082"
+  ],
+  "buy_points": [
+    97.5
+  ],
+  "signal_date": "2026-02-25",
+  "days": [
+    {
+      "date": "2026-02-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:12+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a9fdc9328fbf7959c96c3c6f1760e52e71a747339216a75f03ce83afc5ade089"
+    },
+    {
+      "date": "2026-02-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:12+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "94db0261fc60d66fead48f147dc373346e3e9f9b6a2dccc83da3a15d9fecd9ff"
+    }
+  ],
+  "next_trade_date": "2026-02-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:12+08:00"
+}

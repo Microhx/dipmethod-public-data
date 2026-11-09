@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-05-25",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:00:18+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "002897.SZ",
+      "code": "002897.SZ",
+      "names": [
+        "意华股份"
+      ],
+      "signal_ids": [
+        "sig-0213"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002929.SZ",
+      "code": "002929.SZ",
+      "names": [
+        "润建股份"
+      ],
+      "signal_ids": [
+        "sig-0214"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301188.SZ",
+      "code": "301188.SZ",
+      "names": [
+        "力诺药包"
+      ],
+      "signal_ids": [
+        "sig-0215"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300259.SZ",
+      "code": "300259.SZ",
+      "names": [
+        "新天科技"
+      ],
+      "signal_ids": [
+        "sig-0216"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

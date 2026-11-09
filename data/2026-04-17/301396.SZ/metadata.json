@@ -1,0 +1,48 @@
+{
+  "code": "301396.SZ",
+  "names": [
+    "宏景科技"
+  ],
+  "signal_ids": [
+    "sig-0153"
+  ],
+  "buy_points": [
+    274.5
+  ],
+  "signal_date": "2026-04-17",
+  "days": [
+    {
+      "date": "2026-04-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a7b7313bbfa751f4d0b2b66ec1e4286d564c4038520ade8a8954aa779d287f3b"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a897da80597c0fbfb54e2ad6ce60b407fec8c917dc4c34f9083884e3f2f6222e"
+    }
+  ],
+  "next_trade_date": "2026-04-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:52+08:00"
+}

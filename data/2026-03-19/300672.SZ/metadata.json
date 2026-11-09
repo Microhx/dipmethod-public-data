@@ -1,0 +1,48 @@
+{
+  "code": "300672.SZ",
+  "names": [
+    "国科微"
+  ],
+  "signal_ids": [
+    "sig-0115"
+  ],
+  "buy_points": [
+    187
+  ],
+  "signal_date": "2026-03-19",
+  "days": [
+    {
+      "date": "2026-03-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "81e600da51233f4bc504d2fc40b0cb5bc7e678917ea3179bf1626fe130339e6c"
+    },
+    {
+      "date": "2026-03-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:23+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9281d6e71c0162267fa8b3a6f65b90fa9d53a10a19975f6ad76ab5790b390588"
+    }
+  ],
+  "next_trade_date": "2026-03-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:23+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-03-06",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:55:43+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "600744.SH",
+      "code": "600744.SH",
+      "names": [
+        "华银电力"
+      ],
+      "signal_ids": [
+        "sig-0096"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300303.SZ",
+      "code": "300303.SZ",
+      "names": [
+        "聚飞光电"
+      ],
+      "signal_ids": [
+        "sig-0097"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

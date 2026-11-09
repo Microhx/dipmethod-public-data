@@ -1,0 +1,48 @@
+{
+  "code": "300546.SZ",
+  "names": [
+    "雄帝科技"
+  ],
+  "signal_ids": [
+    "sig-0355"
+  ],
+  "buy_points": [
+    18.05
+  ],
+  "signal_date": "2026-08-25",
+  "days": [
+    {
+      "date": "2026-08-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ce15dbdb6fd3ef77bfd5190b4eee0a38cbf91917977795ab47f26aebc40e8a69"
+    },
+    {
+      "date": "2026-08-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "adac5f5171ece8c972a4f6de54aa17fd67576041878e368f35a7e0e585168208"
+    }
+  ],
+  "next_trade_date": "2026-08-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:20+08:00"
+}

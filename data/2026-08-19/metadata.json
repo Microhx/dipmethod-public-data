@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-08-19",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:05:05+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "missing-sig-0347",
+      "code": null,
+      "names": [
+        "拓中股份"
+      ],
+      "signal_ids": [
+        "sig-0347"
+      ],
+      "status": "missing_code"
+    },
+    {
+      "folder": "300684.SZ",
+      "code": "300684.SZ",
+      "names": [
+        "中石科技"
+      ],
+      "signal_ids": [
+        "sig-0348"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002655.SZ",
+      "code": "002655.SZ",
+      "names": [
+        "共达电声"
+      ],
+      "signal_ids": [
+        "sig-0349"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

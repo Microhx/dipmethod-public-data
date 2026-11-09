@@ -1,0 +1,48 @@
+{
+  "code": "300880.SZ",
+  "names": [
+    "迦南智能"
+  ],
+  "signal_ids": [
+    "sig-0099"
+  ],
+  "buy_points": [
+    25.9
+  ],
+  "signal_date": "2026-03-10",
+  "days": [
+    {
+      "date": "2026-03-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f27035b8df3a27e2ae722b52cab757b322a6c3d83e90fdab16de3bef000c0d96"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "65d11ca2bbbe64c6e95cb870e4c9740cd816cddcfa69609424b58649d9da3d80"
+    }
+  ],
+  "next_trade_date": "2026-03-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:52+08:00"
+}

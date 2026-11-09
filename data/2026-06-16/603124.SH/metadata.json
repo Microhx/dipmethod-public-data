@@ -1,0 +1,48 @@
+{
+  "code": "603124.SH",
+  "names": [
+    "江南新材"
+  ],
+  "signal_ids": [
+    "sig-0253"
+  ],
+  "buy_points": [
+    192.1
+  ],
+  "signal_date": "2026-06-16",
+  "days": [
+    {
+      "date": "2026-06-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "28aca61e46df099a72868c193866400746308e7593f70d11b9f709a597cb9196"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "83ab48131f445f4828517676d4874d08a73e959a46f5040fe1cf48048c049db9"
+    }
+  ],
+  "next_trade_date": "2026-06-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:59+08:00"
+}

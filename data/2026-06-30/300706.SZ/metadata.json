@@ -1,0 +1,48 @@
+{
+  "code": "300706.SZ",
+  "names": [
+    "阿石创"
+  ],
+  "signal_ids": [
+    "sig-0279"
+  ],
+  "buy_points": [
+    81.8
+  ],
+  "signal_date": "2026-06-30",
+  "days": [
+    {
+      "date": "2026-06-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f8cd13e5b889bb615b58d9c76d2fa277fe5845901271864a98cf3d68eeb103be"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a00db03fe4e8c94ecdfd4d2f200ec4df42ce4e9c3693999261edea5e52479ab8"
+    }
+  ],
+  "next_trade_date": "2026-07-01",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:56+08:00"
+}

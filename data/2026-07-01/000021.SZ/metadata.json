@@ -1,0 +1,48 @@
+{
+  "code": "000021.SZ",
+  "names": [
+    "深科技"
+  ],
+  "signal_ids": [
+    "sig-0282"
+  ],
+  "buy_points": [
+    61.626
+  ],
+  "signal_date": "2026-07-01",
+  "days": [
+    {
+      "date": "2026-07-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8e80f1303d65f3b4891620b1d3a9179fb77b43774042a18ea55ed41a4e9bb898"
+    },
+    {
+      "date": "2026-07-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c08a9c64ef8c5e013fabdaecd41036132ea8629ba917bd45014a65733bba2308"
+    }
+  ],
+  "next_trade_date": "2026-07-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:02+08:00"
+}

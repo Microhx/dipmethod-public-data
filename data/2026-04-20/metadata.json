@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-04-20",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:57:55+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "301237.SZ",
+      "code": "301237.SZ",
+      "names": [
+        "和顺科技"
+      ],
+      "signal_ids": [
+        "sig-0155"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603738.SH",
+      "code": "603738.SH",
+      "names": [
+        "泰晶科技"
+      ],
+      "signal_ids": [
+        "sig-0156"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002328.SZ",
+      "code": "002328.SZ",
+      "names": [
+        "新朋股份"
+      ],
+      "signal_ids": [
+        "sig-0157"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

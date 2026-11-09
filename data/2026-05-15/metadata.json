@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-05-15",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:59:33+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "002929.SZ",
+      "code": "002929.SZ",
+      "names": [
+        "润建股份"
+      ],
+      "signal_ids": [
+        "sig-0197"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300965.SZ",
+      "code": "300965.SZ",
+      "names": [
+        "恒宇信通"
+      ],
+      "signal_ids": [
+        "sig-0198"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

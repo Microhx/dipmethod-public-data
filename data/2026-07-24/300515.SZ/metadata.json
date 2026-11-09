@@ -1,0 +1,48 @@
+{
+  "code": "300515.SZ",
+  "names": [
+    "三德科技"
+  ],
+  "signal_ids": [
+    "sig-0308"
+  ],
+  "buy_points": [
+    15.34
+  ],
+  "signal_date": "2026-07-24",
+  "days": [
+    {
+      "date": "2026-07-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7d1252df150b03519003ea00fe01abaada4c55e00f43365571094f20f53a084e"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0bff7ffba6ef5357f4f2ad2cbd1de14d551e459a3355bec87415c4212e85fce7"
+    }
+  ],
+  "next_trade_date": "2026-07-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:51+08:00"
+}

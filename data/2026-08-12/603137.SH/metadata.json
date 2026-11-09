@@ -1,0 +1,48 @@
+{
+  "code": "603137.SH",
+  "names": [
+    "恒尚节能"
+  ],
+  "signal_ids": [
+    "sig-0333"
+  ],
+  "buy_points": [
+    30.32
+  ],
+  "signal_date": "2026-08-12",
+  "days": [
+    {
+      "date": "2026-08-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "791d9dd542c869db53c95dadebe6d1af228052ce67210718e44d8ae404f98867"
+    },
+    {
+      "date": "2026-08-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "079767854b318b67d6990fe353c3b3ba40b1d4839bae06044a880ba18da93bbd"
+    }
+  ],
+  "next_trade_date": "2026-08-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:39+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002194.SZ",
+  "names": [
+    "武汉凡谷"
+  ],
+  "signal_ids": [
+    "sig-0328"
+  ],
+  "buy_points": [
+    10.215
+  ],
+  "signal_date": "2026-08-10",
+  "days": [
+    {
+      "date": "2026-08-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f12963bdb0ab5b5d84549094e729e33bfae1ddbd923d5fd674e61c1c7c96cf8a"
+    },
+    {
+      "date": "2026-08-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:30+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f2d03bcb5891f38435ff9010f790e354d883214766ed6d216b0cf9a4675a3b4d"
+    }
+  ],
+  "next_trade_date": "2026-08-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:30+08:00"
+}

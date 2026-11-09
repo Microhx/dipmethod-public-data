@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-05-08",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:58:54+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "301189.SZ",
+      "code": "301189.SZ",
+      "names": [
+        "奥尼电子"
+      ],
+      "signal_ids": [
+        "sig-0180"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300571.SZ",
+      "code": "300571.SZ",
+      "names": [
+        "平治信息"
+      ],
+      "signal_ids": [
+        "sig-0181"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

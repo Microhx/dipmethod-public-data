@@ -1,0 +1,48 @@
+{
+  "code": "300468.SZ",
+  "names": [
+    "四方精创"
+  ],
+  "signal_ids": [
+    "sig-0374"
+  ],
+  "buy_points": [
+    25.736
+  ],
+  "signal_date": "2026-09-07",
+  "days": [
+    {
+      "date": "2026-09-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8d7015544d839fe398119157984678886cba69ec3fe99d5cc3202ffca7d1bc4d"
+    },
+    {
+      "date": "2026-09-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:58+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "58048915f74454637ed936c6602c1ae4f79b29a413f3dfce668242241341bd9e"
+    }
+  ],
+  "next_trade_date": "2026-09-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:59+08:00"
+}

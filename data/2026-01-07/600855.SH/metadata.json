@@ -1,0 +1,48 @@
+{
+  "code": "600855.SH",
+  "names": [
+    "航天长峰"
+  ],
+  "signal_ids": [
+    "sig-0007"
+  ],
+  "buy_points": [
+    23.88
+  ],
+  "signal_date": "2026-01-07",
+  "days": [
+    {
+      "date": "2026-01-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:14+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8b41b1789f90e253673f2cf1fb617afa3e1a9f1b7ebcf58b053827c8e5f2012d"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:14+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "37ede4448fe3ebac51da0e4a662f061c293d29c404c4d88dcd80c35813dce41f"
+    }
+  ],
+  "next_trade_date": "2026-01-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:14+08:00"
+}

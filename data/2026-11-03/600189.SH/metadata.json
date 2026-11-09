@@ -1,0 +1,48 @@
+{
+  "code": "600189.SH",
+  "names": [
+    "泉阳泉"
+  ],
+  "signal_ids": [
+    "sig-0454"
+  ],
+  "buy_points": [
+    9.16
+  ],
+  "signal_date": "2026-11-03",
+  "days": [
+    {
+      "date": "2026-11-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "ada897390ecae12b6d4abbdf0965fe9e9209b12ed6efc6d9ea815b04c24abcd0"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a28d272d0eb3006e5a6e37ad32e1599a4d3e19e53fb0da422e834e1cf1a8e862"
+    }
+  ],
+  "next_trade_date": "2026-11-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:41+08:00"
+}

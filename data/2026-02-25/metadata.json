@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-02-25",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:55:08+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "603466.SH",
+      "code": "603466.SH",
+      "names": [
+        "风语筑"
+      ],
+      "signal_ids": [
+        "sig-0081"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "688480.SH",
+      "code": "688480.SH",
+      "names": [
+        "赛恩斯"
+      ],
+      "signal_ids": [
+        "sig-0082"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300739.SZ",
+      "code": "300739.SZ",
+      "names": [
+        "明阳电路"
+      ],
+      "signal_ids": [
+        "sig-0083"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

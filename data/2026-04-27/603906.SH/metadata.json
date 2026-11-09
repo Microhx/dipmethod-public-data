@@ -1,0 +1,48 @@
+{
+  "code": "603906.SH",
+  "names": [
+    "龙蟠科技"
+  ],
+  "signal_ids": [
+    "sig-0167"
+  ],
+  "buy_points": [
+    31
+  ],
+  "signal_date": "2026-04-27",
+  "days": [
+    {
+      "date": "2026-04-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "400bd3bf450870d3a4dc99b7524ca280fb7f4fe71c7c857b6a1dddd5842ca768"
+    },
+    {
+      "date": "2026-04-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:25+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d423c8b5f93655dd82f3aff582a0e6b00d3fcf0bff57465cae0441cd0406084b"
+    }
+  ],
+  "next_trade_date": "2026-04-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:25+08:00"
+}

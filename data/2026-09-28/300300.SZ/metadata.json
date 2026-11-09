@@ -1,0 +1,48 @@
+{
+  "code": "300300.SZ",
+  "names": [
+    "海峡创新"
+  ],
+  "signal_ids": [
+    "sig-0408"
+  ],
+  "buy_points": [
+    10.44
+  ],
+  "signal_date": "2026-09-28",
+  "days": [
+    {
+      "date": "2026-09-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "43b87559f485312a2320cc90c74e0e6a7de4597896382df595043ed23f95c194"
+    },
+    {
+      "date": "2026-09-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7cb7728759d78f8b912a74badd332c3db101f22828de91d644ccacbca7053db0"
+    }
+  ],
+  "next_trade_date": "2026-09-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:13+08:00"
+}

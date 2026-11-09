@@ -1,0 +1,48 @@
+{
+  "code": "301602.SZ",
+  "names": [
+    "超研股份"
+  ],
+  "signal_ids": [
+    "sig-0340"
+  ],
+  "buy_points": [
+    18.985
+  ],
+  "signal_date": "2026-08-14",
+  "days": [
+    {
+      "date": "2026-08-14",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "de941e3ccb289693fb7c3d724588129e1609810d4ccd8ebd3c13de97d1598de5"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f1ad4ad7bfc7979130a15e6f8d7c8a83858aed15996956fed0a0794c09dd0fcb"
+    }
+  ],
+  "next_trade_date": "2026-08-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:52+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "301171.SZ",
+  "names": [
+    "易点天下"
+  ],
+  "signal_ids": [
+    "sig-0318"
+  ],
+  "buy_points": [
+    37.04
+  ],
+  "signal_date": "2026-08-05",
+  "days": [
+    {
+      "date": "2026-08-05",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f5f0fbfd54933a32e407dabc5805680af819b565879cfeac731ba18eb0afa688"
+    },
+    {
+      "date": "2026-08-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "17a453405278bf0def9dfde1de13caef9b582b61530741267fb9909ab5898158"
+    }
+  ],
+  "next_trade_date": "2026-08-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:11+08:00"
+}

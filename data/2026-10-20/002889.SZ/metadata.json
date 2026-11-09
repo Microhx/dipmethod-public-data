@@ -1,0 +1,48 @@
+{
+  "code": "002889.SZ",
+  "names": [
+    "东方嘉盛"
+  ],
+  "signal_ids": [
+    "sig-0436"
+  ],
+  "buy_points": [
+    14.84
+  ],
+  "signal_date": "2026-10-20",
+  "days": [
+    {
+      "date": "2026-10-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "34bafcf02d4a00b27086eff0aeed8ca9ea7541c90f140b796aec0e239a7bd654"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7c76de4240b4a79a4a01060ecb97d429490d0e0d62c09dde79f8c095079628c0"
+    }
+  ],
+  "next_trade_date": "2026-10-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:05+08:00"
+}

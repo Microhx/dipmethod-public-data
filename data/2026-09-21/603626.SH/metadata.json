@@ -1,0 +1,48 @@
+{
+  "code": "603626.SH",
+  "names": [
+    "科森科技"
+  ],
+  "signal_ids": [
+    "sig-0396"
+  ],
+  "buy_points": [
+    22.5
+  ],
+  "signal_date": "2026-09-21",
+  "days": [
+    {
+      "date": "2026-09-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4d72635fbe91f5ddb7d8f95353fe5ac99f4ca1fec900507b89436fedd9c000e6"
+    },
+    {
+      "date": "2026-09-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c820ba01316964ccc0b5e0e90f0d99f060e174ae64456bfa7aeec7f8a51c9be4"
+    }
+  ],
+  "next_trade_date": "2026-09-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:49+08:00"
+}

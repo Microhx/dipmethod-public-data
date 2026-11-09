@@ -1,0 +1,48 @@
+{
+  "code": "600272.SH",
+  "names": [
+    "开开实业"
+  ],
+  "signal_ids": [
+    "sig-0351"
+  ],
+  "buy_points": [
+    19.17
+  ],
+  "signal_date": "2026-08-20",
+  "days": [
+    {
+      "date": "2026-08-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "51c5d596f010c756c181961b6a4dbaf1fd5aeec5820db1ce532c43cc926d93cd"
+    },
+    {
+      "date": "2026-08-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:13+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6bae3b193ca63cc7f1367881e6571d8e374a664d14794bce625cf076e2e115cc"
+    }
+  ],
+  "next_trade_date": "2026-08-21",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:13+08:00"
+}

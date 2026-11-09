@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-03-11",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:55:56+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "301606.SZ",
+      "code": "301606.SZ",
+      "names": [
+        "绿联科技"
+      ],
+      "signal_ids": [
+        "sig-0102"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600396.SH",
+      "code": "600396.SH",
+      "names": [
+        "华电辽能"
+      ],
+      "signal_ids": [
+        "sig-0103"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

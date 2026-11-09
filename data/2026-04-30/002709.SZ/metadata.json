@@ -1,0 +1,48 @@
+{
+  "code": "002709.SZ",
+  "names": [
+    "天赐材料"
+  ],
+  "signal_ids": [
+    "sig-0174"
+  ],
+  "buy_points": [
+    59.8
+  ],
+  "signal_date": "2026-04-30",
+  "days": [
+    {
+      "date": "2026-04-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "41411812991aa9355419c6d0e62edd0ec00c89e932d15d939f6681aaa09b107e"
+    },
+    {
+      "date": "2026-05-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:58:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5bc3a4912f2b5cfdf01209ba5aa089c8dee38311af243954cda71fc61fb1b421"
+    }
+  ],
+  "next_trade_date": "2026-05-06",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:58:42+08:00"
+}

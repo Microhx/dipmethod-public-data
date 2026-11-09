@@ -1,0 +1,48 @@
+{
+  "code": "000890.SZ",
+  "names": [
+    "法尔胜"
+  ],
+  "signal_ids": [
+    "sig-0128"
+  ],
+  "buy_points": [
+    13.92
+  ],
+  "signal_date": "2026-03-31",
+  "days": [
+    {
+      "date": "2026-03-31",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e3004a98ba3504259cb9b829875febe68d3588bb2c6332258548a4ed818b7c1b"
+    },
+    {
+      "date": "2026-04-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6fffb7348536046015035b6a09d2090e336e915b6948c0f5f6fa3bc900dcbcb7"
+    }
+  ],
+  "next_trade_date": "2026-04-01",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:56+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "300758.SZ",
+  "names": [
+    "七彩化学"
+  ],
+  "signal_ids": [
+    "sig-0029"
+  ],
+  "buy_points": [
+    18
+  ],
+  "signal_date": "2026-01-16",
+  "days": [
+    {
+      "date": "2026-01-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "96d9b3655b415c9f56c94747032ca7e808f9797d873eab795fa920a18c6f8a0a"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "dd3756721076b1fb43372cff79774ab460cd5f3949441b18617b469533d212d5"
+    }
+  ],
+  "next_trade_date": "2026-01-19",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:04+08:00"
+}

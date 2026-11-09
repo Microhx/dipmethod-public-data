@@ -1,0 +1,48 @@
+{
+  "code": "301413.SZ",
+  "names": [
+    "安培龙"
+  ],
+  "signal_ids": [
+    "sig-0451"
+  ],
+  "buy_points": [
+    68.71
+  ],
+  "signal_date": "2026-11-02",
+  "days": [
+    {
+      "date": "2026-11-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "168de5c1cc12d33dd6fe7e70c6af9cd82120d319707de41330a84dcc81ed40f7"
+    },
+    {
+      "date": "2026-11-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "fc0ed06900bfa5694a3bc05020811c8f38c601d6bb596a322b47c07d2dbd616c"
+    }
+  ],
+  "next_trade_date": "2026-11-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:35+08:00"
+}

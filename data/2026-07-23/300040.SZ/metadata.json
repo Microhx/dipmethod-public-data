@@ -1,0 +1,48 @@
+{
+  "code": "300040.SZ",
+  "names": [
+    "九洲集团"
+  ],
+  "signal_ids": [
+    "sig-0307"
+  ],
+  "buy_points": [
+    6.89
+  ],
+  "signal_date": "2026-07-23",
+  "days": [
+    {
+      "date": "2026-07-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "faac52c873ae188711375f3840b7a76afbda7365b7bf044f2ad75264198ba8b9"
+    },
+    {
+      "date": "2026-07-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:49+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f05dc93be8e369aadd6b2f7f9c5fe89269fdd57c75eb0bf3673dcd451b5fee70"
+    }
+  ],
+  "next_trade_date": "2026-07-24",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:50+08:00"
+}

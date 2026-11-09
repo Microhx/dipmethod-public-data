@@ -1,0 +1,48 @@
+{
+  "code": "300806.SZ",
+  "names": [
+    "斯迪克"
+  ],
+  "signal_ids": [
+    "sig-0054"
+  ],
+  "buy_points": [
+    55.2
+  ],
+  "signal_date": "2026-02-02",
+  "days": [
+    {
+      "date": "2026-02-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "45a6b7132aa7e791d6b171bbd4ab446f80bb8b5a4d71ba94ca34979e75a445b1"
+    },
+    {
+      "date": "2026-02-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6ce04ef9db588a262a5e8577dafe0a77438ef01c6b96b2c7017585cffc1e145d"
+    }
+  ],
+  "next_trade_date": "2026-02-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:05+08:00"
+}

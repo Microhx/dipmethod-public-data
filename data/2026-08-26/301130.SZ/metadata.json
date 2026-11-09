@@ -1,0 +1,48 @@
+{
+  "code": "301130.SZ",
+  "names": [
+    "西点药业"
+  ],
+  "signal_ids": [
+    "sig-0357"
+  ],
+  "buy_points": [
+    35.135
+  ],
+  "signal_date": "2026-08-26",
+  "days": [
+    {
+      "date": "2026-08-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "291266c00b2361a8dd52bfe0c8b3708d8206fe8955ffa8d038e84883b0c98bdc"
+    },
+    {
+      "date": "2026-08-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2bfe8c6e9f515cbb70aba0599273e9b7ee1ae8d59f433c00afb2ef76262b0961"
+    }
+  ],
+  "next_trade_date": "2026-08-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:24+08:00"
+}

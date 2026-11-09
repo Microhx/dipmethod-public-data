@@ -1,0 +1,48 @@
+{
+  "code": "300548.SZ",
+  "names": [
+    "长芯博创"
+  ],
+  "signal_ids": [
+    "sig-0141"
+  ],
+  "buy_points": [
+    201.8
+  ],
+  "signal_date": "2026-04-09",
+  "days": [
+    {
+      "date": "2026-04-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c9394852053a22f81db3f84bcb1c1e30c6ced2063e0af0234bb1d67c765a8aa7"
+    },
+    {
+      "date": "2026-04-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:24+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a95fdbbc5da1e4ec6c4859e7236996c0338e5514035723e6477b9f84b7975112"
+    }
+  ],
+  "next_trade_date": "2026-04-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:24+08:00"
+}

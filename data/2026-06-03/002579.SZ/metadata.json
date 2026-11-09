@@ -1,0 +1,48 @@
+{
+  "code": "002579.SZ",
+  "names": [
+    "中京电子"
+  ],
+  "signal_ids": [
+    "sig-0232"
+  ],
+  "buy_points": [
+    19.48
+  ],
+  "signal_date": "2026-06-03",
+  "days": [
+    {
+      "date": "2026-06-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:12+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9abc53b146f337089b899648ec775e046ea617d261ec63783e69fa7d4fd02f99"
+    },
+    {
+      "date": "2026-06-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:12+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "39c580914a2ca81b45cece21a5e734cd6c0f50662cefd1063deacba619cc5519"
+    }
+  ],
+  "next_trade_date": "2026-06-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:12+08:00"
+}

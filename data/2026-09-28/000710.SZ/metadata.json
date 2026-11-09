@@ -1,0 +1,48 @@
+{
+  "code": "000710.SZ",
+  "names": [
+    "贝瑞基因"
+  ],
+  "signal_ids": [
+    "sig-0409"
+  ],
+  "buy_points": [
+    10.27
+  ],
+  "signal_date": "2026-09-28",
+  "days": [
+    {
+      "date": "2026-09-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "282758e028cff803575ac11b92372db39a50f691342eaac80bff054a324ac928"
+    },
+    {
+      "date": "2026-09-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:15+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0688ffc438652357834097dc7e1c8ccb7a92a4d221770e3d2dd7d01609165fed"
+    }
+  ],
+  "next_trade_date": "2026-09-29",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:15+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-08-07",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:04:19+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300311.SZ",
+      "code": "300311.SZ",
+      "names": [
+        "任子行"
+      ],
+      "signal_ids": [
+        "sig-0323"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "601700.SH",
+      "code": "601700.SH",
+      "names": [
+        "风范股份"
+      ],
+      "signal_ids": [
+        "sig-0324"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

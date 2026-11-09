@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-07-01",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:02:58+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "600367.SH",
+      "code": "600367.SH",
+      "names": [
+        "红星发展"
+      ],
+      "signal_ids": [
+        "sig-0281"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000021.SZ",
+      "code": "000021.SZ",
+      "names": [
+        "深科技"
+      ],
+      "signal_ids": [
+        "sig-0282"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300567.SZ",
+      "code": "300567.SZ",
+      "names": [
+        "精测电子"
+      ],
+      "signal_ids": [
+        "sig-0283"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "301330.SZ",
+  "names": [
+    "熵基科技"
+  ],
+  "signal_ids": [
+    "sig-0009"
+  ],
+  "buy_points": [
+    41.5
+  ],
+  "signal_date": "2026-01-07",
+  "days": [
+    {
+      "date": "2026-01-07",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "19365564b28638310cb2cd96f94d424418d259b290f6d3ca73a7db1df3f3ddd9"
+    },
+    {
+      "date": "2026-01-08",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:52:19+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "65ad70f13ac79f990b6739a4dac7b368819e102e3ce0462c1b5918cedff12a25"
+    }
+  ],
+  "next_trade_date": "2026-01-08",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:52:19+08:00"
+}

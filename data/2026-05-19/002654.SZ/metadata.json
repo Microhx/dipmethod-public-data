@@ -1,0 +1,48 @@
+{
+  "code": "002654.SZ",
+  "names": [
+    "万润科技"
+  ],
+  "signal_ids": [
+    "sig-0203"
+  ],
+  "buy_points": [
+    17.14
+  ],
+  "signal_date": "2026-05-19",
+  "days": [
+    {
+      "date": "2026-05-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "041dd3d9d0989164f235fc7f43c7c12022a93cdfa24e80e892c22cf294051c56"
+    },
+    {
+      "date": "2026-05-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:51+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1449b03daef01999900f242763006442627fba800ec71840a100f7842c4b6156"
+    }
+  ],
+  "next_trade_date": "2026-05-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:52+08:00"
+}

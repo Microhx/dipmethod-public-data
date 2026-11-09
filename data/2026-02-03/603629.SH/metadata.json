@@ -1,0 +1,48 @@
+{
+  "code": "603629.SH",
+  "names": [
+    "利通电子"
+  ],
+  "signal_ids": [
+    "sig-0057"
+  ],
+  "buy_points": [
+    39.53
+  ],
+  "signal_date": "2026-02-03",
+  "days": [
+    {
+      "date": "2026-02-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:12+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5225bb58a0bd45af7fc1c2a2f86fce08fcf0d2711940ff1f5ac2aa6441dee6c7"
+    },
+    {
+      "date": "2026-02-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:12+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7e2a22f42f6952c4531e68539c6ac79373548ac71c43623f02be17ad73c76bc9"
+    }
+  ],
+  "next_trade_date": "2026-02-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:12+08:00"
+}

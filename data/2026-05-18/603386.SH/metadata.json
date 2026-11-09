@@ -1,0 +1,48 @@
+{
+  "code": "603386.SH",
+  "names": [
+    "骏亚科技"
+  ],
+  "signal_ids": [
+    "sig-0199"
+  ],
+  "buy_points": [
+    15.93
+  ],
+  "signal_date": "2026-05-18",
+  "days": [
+    {
+      "date": "2026-05-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "74e26c23cf6bbaea9fd27ff6de4b55f0c309e637d657a74b722b673a2ce51db9"
+    },
+    {
+      "date": "2026-05-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:41+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "38deb24a7d4b3628ce9b5db0ceef816f02d22bf530b4f870b7ff41f11c31bd0f"
+    }
+  ],
+  "next_trade_date": "2026-05-19",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:42+08:00"
+}

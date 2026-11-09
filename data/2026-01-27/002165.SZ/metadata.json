@@ -1,0 +1,48 @@
+{
+  "code": "002165.SZ",
+  "names": [
+    "红宝丽"
+  ],
+  "signal_ids": [
+    "sig-0043"
+  ],
+  "buy_points": [
+    9.96
+  ],
+  "signal_date": "2026-01-27",
+  "days": [
+    {
+      "date": "2026-01-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "969f1eb1e01a99f418ec03f1a2e68d4630200f70920445544040c6672415461a"
+    },
+    {
+      "date": "2026-01-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8f8d8c0e4dff5c9757e72cd61e27d6161e9b56716f2e91d404246f5b2be2fcae"
+    }
+  ],
+  "next_trade_date": "2026-01-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:41+08:00"
+}

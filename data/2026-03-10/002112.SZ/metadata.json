@@ -1,0 +1,48 @@
+{
+  "code": "002112.SZ",
+  "names": [
+    "三变科技"
+  ],
+  "signal_ids": [
+    "sig-0101"
+  ],
+  "buy_points": [
+    26.91
+  ],
+  "signal_date": "2026-03-10",
+  "days": [
+    {
+      "date": "2026-03-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a6c901f1f23f1129012f5e78c393f4d71592d494cad49d9b819fcac8d3a4d420"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c90ab806ded9bb90a8f9143c27f386ac90e816c06ee2ade2549d3a1ef7a99587"
+    }
+  ],
+  "next_trade_date": "2026-03-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:56+08:00"
+}

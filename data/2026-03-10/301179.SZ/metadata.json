@@ -1,0 +1,48 @@
+{
+  "code": "301179.SZ",
+  "names": [
+    "泽宇智能"
+  ],
+  "signal_ids": [
+    "sig-0100"
+  ],
+  "buy_points": [
+    23.54
+  ],
+  "signal_date": "2026-03-10",
+  "days": [
+    {
+      "date": "2026-03-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "19e81fd00cfa149de0e0cddb4db4f4897b7c6663b7ba163c8e93a0c2d7ddb33c"
+    },
+    {
+      "date": "2026-03-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c333560b39e7e762c5db30fa3ee04a100d7c1bad7bd1203b4942c5c67f9d5c61"
+    }
+  ],
+  "next_trade_date": "2026-03-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:54+08:00"
+}

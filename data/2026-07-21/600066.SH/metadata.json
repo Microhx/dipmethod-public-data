@@ -1,0 +1,48 @@
+{
+  "code": "600066.SH",
+  "names": [
+    "宇通客车"
+  ],
+  "signal_ids": [
+    "sig-0302"
+  ],
+  "buy_points": [
+    30.58
+  ],
+  "signal_date": "2026-07-21",
+  "days": [
+    {
+      "date": "2026-07-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4486af1176348cedaa2aa8af9e73f9045a1c7ef560c53b88e081434ead87e97f"
+    },
+    {
+      "date": "2026-07-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b97251600ea91eb0e0385b9b03dc5e7be22b35e07e9626b3cccd80ac947019ab"
+    }
+  ],
+  "next_trade_date": "2026-07-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:40+08:00"
+}

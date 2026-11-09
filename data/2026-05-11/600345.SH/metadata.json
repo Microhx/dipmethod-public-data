@@ -1,0 +1,48 @@
+{
+  "code": "600345.SH",
+  "names": [
+    "长江通信"
+  ],
+  "signal_ids": [
+    "sig-0184"
+  ],
+  "buy_points": [
+    57.08
+  ],
+  "signal_date": "2026-05-11",
+  "days": [
+    {
+      "date": "2026-05-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1ab29c743f2a6ce86068c37ec569eed491bc953ff01833832e12fd3d68f70522"
+    },
+    {
+      "date": "2026-05-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:59:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "28c6c31a0d135dbc3071c4e8f65424abb8e1a632abbb6cf4c88180292929cfc5"
+    }
+  ],
+  "next_trade_date": "2026-05-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:59:07+08:00"
+}

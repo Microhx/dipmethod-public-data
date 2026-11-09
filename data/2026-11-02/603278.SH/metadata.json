@@ -1,0 +1,48 @@
+{
+  "code": "603278.SH",
+  "names": [
+    "大业股份"
+  ],
+  "signal_ids": [
+    "sig-0452"
+  ],
+  "buy_points": [
+    17.57
+  ],
+  "signal_date": "2026-11-02",
+  "days": [
+    {
+      "date": "2026-11-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:37+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d9e7f61b6dbc0804b2433fff9e01997cd7ae55e13b48795c72496f7dcbdb8f3e"
+    },
+    {
+      "date": "2026-11-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:08:37+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a437bab242c7981f41dc3bf2322dd76e4937fee0e88d9620f90b944dfb237ff3"
+    }
+  ],
+  "next_trade_date": "2026-11-03",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:08:37+08:00"
+}

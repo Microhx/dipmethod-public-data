@@ -1,0 +1,48 @@
+{
+  "code": "000518.SZ",
+  "names": [
+    "四环生物"
+  ],
+  "signal_ids": [
+    "sig-0219"
+  ],
+  "buy_points": [
+    4.13
+  ],
+  "signal_date": "2026-05-26",
+  "days": [
+    {
+      "date": "2026-05-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e3f3d52b089d47c41348e4855732b31a58634bc4908af732636160424407e4f3"
+    },
+    {
+      "date": "2026-05-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:39+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4e8cc87a2a8213f1853549ebc4d50d7c58a9e492c215f073f98895bc4c3fe73d"
+    }
+  ],
+  "next_trade_date": "2026-05-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:39+08:00"
+}

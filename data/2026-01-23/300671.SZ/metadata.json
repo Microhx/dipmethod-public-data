@@ -1,0 +1,48 @@
+{
+  "code": "300671.SZ",
+  "names": [
+    "富满微"
+  ],
+  "signal_ids": [
+    "sig-0037"
+  ],
+  "buy_points": [
+    42.5
+  ],
+  "signal_date": "2026-01-23",
+  "days": [
+    {
+      "date": "2026-01-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "989c3f23609de1207e49d9026a88c64c29b9289978fc46ca43182eda794dbaad"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "eafff9e0b2f37e982d252431e5de149a21ea454c8b9bf550be2463cee9fe47c8"
+    }
+  ],
+  "next_trade_date": "2026-01-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:26+08:00"
+}

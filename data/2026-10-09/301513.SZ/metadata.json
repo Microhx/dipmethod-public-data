@@ -1,0 +1,48 @@
+{
+  "code": "301513.SZ",
+  "names": [
+    "尚水智能"
+  ],
+  "signal_ids": [
+    "sig-0417"
+  ],
+  "buy_points": [
+    65
+  ],
+  "signal_date": "2026-10-09",
+  "days": [
+    {
+      "date": "2026-10-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "e3fea2e42b52a01395f5792cd3f281aa0080ef5b42a2ccdb0141933042a9778c"
+    },
+    {
+      "date": "2026-10-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a8277c8fbecc1c2fdc70a9fb999cb1642246f644f3e51090714e14077fbedc27"
+    }
+  ],
+  "next_trade_date": "2026-10-12",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:29+08:00"
+}

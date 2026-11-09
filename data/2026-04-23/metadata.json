@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-04-23",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:58:08+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "002990.SZ",
+      "code": "002990.SZ",
+      "names": [
+        "盛视科技"
+      ],
+      "signal_ids": [
+        "sig-0161"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600522.SH",
+      "code": "600522.SH",
+      "names": [
+        "中天科技"
+      ],
+      "signal_ids": [
+        "sig-0162"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

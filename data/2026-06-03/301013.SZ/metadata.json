@@ -1,0 +1,48 @@
+{
+  "code": "301013.SZ",
+  "names": [
+    "利和兴"
+  ],
+  "signal_ids": [
+    "sig-0231"
+  ],
+  "buy_points": [
+    51.8
+  ],
+  "signal_date": "2026-06-03",
+  "days": [
+    {
+      "date": "2026-06-03",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4b73b65ce9998c3989347971dc913ed9fa5fee03ed23e3f4c0517d84cca01f47"
+    },
+    {
+      "date": "2026-06-04",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:10+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f9a91ac1b02e86e97e0a40f043acc97eeb4444a654ac64600aaaa4d8d7f20ce8"
+    }
+  ],
+  "next_trade_date": "2026-06-04",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:11+08:00"
+}

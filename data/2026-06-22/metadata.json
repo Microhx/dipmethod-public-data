@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-06-22",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:02:11+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300522.SZ",
+      "code": "300522.SZ",
+      "names": [
+        "世名科技"
+      ],
+      "signal_ids": [
+        "sig-0259"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301687.SZ",
+      "code": "301687.SZ",
+      "names": [
+        "新广益"
+      ],
+      "signal_ids": [
+        "sig-0260"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603011.SH",
+      "code": "603011.SH",
+      "names": [
+        "合锻智能"
+      ],
+      "signal_ids": [
+        "sig-0261"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "002879.SZ",
+  "names": [
+    "长缆科技"
+  ],
+  "signal_ids": [
+    "sig-0309"
+  ],
+  "buy_points": [
+    16.9
+  ],
+  "signal_date": "2026-07-27",
+  "days": [
+    {
+      "date": "2026-07-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1b3cb469244dc354df5e3ed5dda6590e5f69af761d37cf8820017900f4317806"
+    },
+    {
+      "date": "2026-07-28",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:53+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "43649a246098c6c1376cdd2af866d09856e0030db6a84fee419ae13aba5842f4"
+    }
+  ],
+  "next_trade_date": "2026-07-28",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:54+08:00"
+}

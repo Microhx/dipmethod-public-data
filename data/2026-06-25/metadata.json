@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-06-25",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:02:31+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "301526.SZ",
+      "code": "301526.SZ",
+      "names": [
+        "国际复材"
+      ],
+      "signal_ids": [
+        "sig-0268"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600460.SH",
+      "code": "600460.SH",
+      "names": [
+        "士兰微"
+      ],
+      "signal_ids": [
+        "sig-0269"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300604.SZ",
+      "code": "300604.SZ",
+      "names": [
+        "长川科技"
+      ],
+      "signal_ids": [
+        "sig-0270"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "600353.SH",
+      "code": "600353.SH",
+      "names": [
+        "旭光电子"
+      ],
+      "signal_ids": [
+        "sig-0271"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

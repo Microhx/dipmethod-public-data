@@ -1,0 +1,56 @@
+{
+  "signal_date": "2026-06-29",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:02:45+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 4,
+  "stocks": [
+    {
+      "folder": "301611.SZ",
+      "code": "301611.SZ",
+      "names": [
+        "珂玛科技"
+      ],
+      "signal_ids": [
+        "sig-0275"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603698.SH",
+      "code": "603698.SH",
+      "names": [
+        "航天工程"
+      ],
+      "signal_ids": [
+        "sig-0276"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000823.SZ",
+      "code": "000823.SZ",
+      "names": [
+        "超声电子"
+      ],
+      "signal_ids": [
+        "sig-0277"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300420.SZ",
+      "code": "300420.SZ",
+      "names": [
+        "五洋自控"
+      ],
+      "signal_ids": [
+        "sig-0278"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

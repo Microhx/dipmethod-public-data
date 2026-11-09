@@ -1,0 +1,48 @@
+{
+  "code": "300968.SZ",
+  "names": [
+    "格林精密"
+  ],
+  "signal_ids": [
+    "sig-0304"
+  ],
+  "buy_points": [
+    11.55
+  ],
+  "signal_date": "2026-07-22",
+  "days": [
+    {
+      "date": "2026-07-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f22d19012aabd2197accef3a859e4d152ea352c7093222ad29b75ed11383bf73"
+    },
+    {
+      "date": "2026-07-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:03:44+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "612a53a66994470c2fa6a1a752dfde2b8e9904e6c3ea787868c7cb531de6cfde"
+    }
+  ],
+  "next_trade_date": "2026-07-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:03:44+08:00"
+}

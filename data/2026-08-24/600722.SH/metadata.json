@@ -1,0 +1,48 @@
+{
+  "code": "600722.SH",
+  "names": [
+    "金牛化工"
+  ],
+  "signal_ids": [
+    "sig-0353"
+  ],
+  "buy_points": [
+    14.51
+  ],
+  "signal_date": "2026-08-24",
+  "days": [
+    {
+      "date": "2026-08-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "42514f54af859d9f9988d4956bd5af6133195dc1cf583c502c5eb57b5a0ea859"
+    },
+    {
+      "date": "2026-08-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:05:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "baac125897e0b6a0159d7801d4aaf102606acf4778e490ee3237bce0c3c71059"
+    }
+  ],
+  "next_trade_date": "2026-08-25",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:05:18+08:00"
+}

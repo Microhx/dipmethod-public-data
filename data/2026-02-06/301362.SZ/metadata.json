@@ -1,0 +1,48 @@
+{
+  "code": "301362.SZ",
+  "names": [
+    "民爆光电"
+  ],
+  "signal_ids": [
+    "sig-0064"
+  ],
+  "buy_points": [
+    86.42
+  ],
+  "signal_date": "2026-02-06",
+  "days": [
+    {
+      "date": "2026-02-06",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1ec328ab252ef866fc0985ad7067c58415b5280e3e0e193a51b23af34215eef9"
+    },
+    {
+      "date": "2026-02-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:54:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "81ab0d5e203dde6e93e07e881f3805bf208c3c0c7c6d2773c6719e9fae1773bb"
+    }
+  ],
+  "next_trade_date": "2026-02-09",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:54:29+08:00"
+}

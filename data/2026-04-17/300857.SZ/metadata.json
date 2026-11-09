@@ -1,0 +1,48 @@
+{
+  "code": "300857.SZ",
+  "names": [
+    "协创数据"
+  ],
+  "signal_ids": [
+    "sig-0152"
+  ],
+  "buy_points": [
+    305.5
+  ],
+  "signal_date": "2026-04-17",
+  "days": [
+    {
+      "date": "2026-04-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8104bcabe7b83f5d78e7d13dee14eb031fb8608a73b26013becf02a196212f9e"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:57:50+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5c00296b2ccecf64b1371abacef3075bcde3c3e65ea293e60011f1f6e44e3c27"
+    }
+  ],
+  "next_trade_date": "2026-04-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:57:50+08:00"
+}

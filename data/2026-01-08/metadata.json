@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-01-08",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T16:52:21+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "600435.SH",
+      "code": "600435.SH",
+      "names": [
+        "北方导航"
+      ],
+      "signal_ids": [
+        "sig-0011"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "000547.SZ",
+      "code": "000547.SZ",
+      "names": [
+        "航天发展"
+      ],
+      "signal_ids": [
+        "sig-0012"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

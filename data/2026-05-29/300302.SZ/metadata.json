@@ -1,0 +1,48 @@
+{
+  "code": "300302.SZ",
+  "names": [
+    "同有科技"
+  ],
+  "signal_ids": [
+    "sig-0226"
+  ],
+  "buy_points": [
+    48.99
+  ],
+  "signal_date": "2026-05-29",
+  "days": [
+    {
+      "date": "2026-05-29",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b65f9cd5ca75523b14473b27cb6e328101b3537651d2d49d6414d2cd26e86032"
+    },
+    {
+      "date": "2026-06-01",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:01:00+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "13994d72c75f9faff6e2c86e02f4f78feb965b243242637cddc0b1a1376268e6"
+    }
+  ],
+  "next_trade_date": "2026-06-01",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:01:00+08:00"
+}

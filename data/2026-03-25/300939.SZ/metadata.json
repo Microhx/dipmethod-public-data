@@ -1,0 +1,48 @@
+{
+  "code": "300939.SZ",
+  "names": [
+    "秋田微"
+  ],
+  "signal_ids": [
+    "sig-0122"
+  ],
+  "buy_points": [
+    44.65
+  ],
+  "signal_date": "2026-03-25",
+  "days": [
+    {
+      "date": "2026-03-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5975abf118296179169819d07bd161f7ef72da971e5e8c3642a844656a9b391f"
+    },
+    {
+      "date": "2026-03-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:56:40+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "29043d1a4a750e353d051b85484d9623194777f7f917a05e8ac2d48865a86b78"
+    }
+  ],
+  "next_trade_date": "2026-03-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:56:40+08:00"
+}

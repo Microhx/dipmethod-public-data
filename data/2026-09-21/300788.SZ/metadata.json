@@ -1,0 +1,48 @@
+{
+  "code": "300788.SZ",
+  "names": [
+    "中信出版"
+  ],
+  "signal_ids": [
+    "sig-0398"
+  ],
+  "buy_points": [
+    34.24
+  ],
+  "signal_date": "2026-09-21",
+  "days": [
+    {
+      "date": "2026-09-21",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2a338f9a88161f787f6fcd9c818a77e1e78c0e4805e0033fdfa5eb6b3cc16ade"
+    },
+    {
+      "date": "2026-09-22",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:06:54+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f251330ce9932df018c275947ea61dbeacb868d1b4713d260074eded94c9266c"
+    }
+  ],
+  "next_trade_date": "2026-09-22",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:06:54+08:00"
+}

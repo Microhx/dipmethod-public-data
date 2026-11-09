@@ -1,0 +1,48 @@
+{
+  "code": "300191.SZ",
+  "names": [
+    "潜能恒信"
+  ],
+  "signal_ids": [
+    "sig-0052"
+  ],
+  "buy_points": [
+    31.84
+  ],
+  "signal_date": "2026-01-30",
+  "days": [
+    {
+      "date": "2026-01-30",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6b7b3ee74b346b6e2291dd8383efac717177cd12444748bf8c44bbee778a8a19"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:53:59+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3ab9c4c6208119d720ff305adb887a40dd9f9f06a39b05f7f595dd6e2e78bc3e"
+    }
+  ],
+  "next_trade_date": "2026-02-02",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:53:59+08:00"
+}

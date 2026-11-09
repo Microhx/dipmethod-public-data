@@ -1,0 +1,48 @@
+{
+  "code": "300120.SZ",
+  "names": [
+    "经纬辉开"
+  ],
+  "signal_ids": [
+    "sig-0342"
+  ],
+  "buy_points": [
+    8.71
+  ],
+  "signal_date": "2026-08-17",
+  "days": [
+    {
+      "date": "2026-08-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b60307273b7219acfd98893a6794218ff4380983e578b8110ae757b66a313c82"
+    },
+    {
+      "date": "2026-08-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:04:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "57c4843206454e27c8701192c86371d94e1c2480052ecd17af754109ec76cc1f"
+    }
+  ],
+  "next_trade_date": "2026-08-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:04:56+08:00"
+}

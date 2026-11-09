@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-08-03",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:04:02+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300663.SZ",
+      "code": "300663.SZ",
+      "names": [
+        "科蓝软件"
+      ],
+      "signal_ids": [
+        "sig-0314"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300795.SZ",
+      "code": "300795.SZ",
+      "names": [
+        "米奥会展"
+      ],
+      "signal_ids": [
+        "sig-0315"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

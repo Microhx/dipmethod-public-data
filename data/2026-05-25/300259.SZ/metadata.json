@@ -1,0 +1,48 @@
+{
+  "code": "300259.SZ",
+  "names": [
+    "新天科技"
+  ],
+  "signal_ids": [
+    "sig-0216"
+  ],
+  "buy_points": [
+    6.85
+  ],
+  "signal_date": "2026-05-25",
+  "days": [
+    {
+      "date": "2026-05-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a3786d194c3e3a641dd72e07c2b20972bb839941348c96f1f55a5f4618b3582b"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:00:29+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b6cf30db7d07cd1041a3aab163126eb2d27068050724ca81d3e1935fec71e297"
+    }
+  ],
+  "next_trade_date": "2026-05-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:00:30+08:00"
+}

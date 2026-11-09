@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-08-18",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:04:59+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "600330.SH",
+      "code": "600330.SH",
+      "names": [
+        "天通股份"
+      ],
+      "signal_ids": [
+        "sig-0344"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301419.SZ",
+      "code": "301419.SZ",
+      "names": [
+        "阿莱德"
+      ],
+      "signal_ids": [
+        "sig-0345"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "002172.SZ",
+      "code": "002172.SZ",
+      "names": [
+        "澳洋健康"
+      ],
+      "signal_ids": [
+        "sig-0346"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

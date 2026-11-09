@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-07-15",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-09T16:52:02+08:00",
+  "first_archived_at": "2026-11-09T17:03:31+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300534.SZ",
+      "code": "300534.SZ",
+      "names": [
+        "陇神戎发"
+      ],
+      "signal_ids": [
+        "sig-0298"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603065.SH",
+      "code": "603065.SH",
+      "names": [
+        "宿迁联盛"
+      ],
+      "signal_ids": [
+        "sig-0299"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

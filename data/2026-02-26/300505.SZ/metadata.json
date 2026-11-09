@@ -1,0 +1,48 @@
+{
+  "code": "300505.SZ",
+  "names": [
+    "川金诺"
+  ],
+  "signal_ids": [
+    "sig-0084"
+  ],
+  "buy_points": [
+    36.55
+  ],
+  "signal_date": "2026-02-26",
+  "days": [
+    {
+      "date": "2026-02-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "36785da0afde815fb0045ed3a46224e512919bc957d2f87e0e68f6d34ea94480"
+    },
+    {
+      "date": "2026-02-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T16:55:16+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a26116afcf9356efd4252913e2effdceabfcb8f427c66f01a2d45d2d98588583"
+    }
+  ],
+  "next_trade_date": "2026-02-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T16:55:16+08:00"
+}

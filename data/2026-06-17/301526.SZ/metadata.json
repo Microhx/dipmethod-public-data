@@ -1,0 +1,48 @@
+{
+  "code": "301526.SZ",
+  "names": [
+    "国际复材"
+  ],
+  "signal_ids": [
+    "sig-0254"
+  ],
+  "buy_points": [
+    37.2
+  ],
+  "signal_date": "2026-06-17",
+  "days": [
+    {
+      "date": "2026-06-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "947aedf8d2eb0726e96d71c72877d563f6dda378657d2131135abfb59994ba68"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:02:01+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "53df4e6ba1b5de26dfdf39d96bc836b6d62eb712c6a40d9bf1975faf015de4bf"
+    }
+  ],
+  "next_trade_date": "2026-06-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:02:01+08:00"
+}

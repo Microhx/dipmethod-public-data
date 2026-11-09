@@ -1,0 +1,48 @@
+{
+  "code": "300530.SZ",
+  "names": [
+    "领湃科技"
+  ],
+  "signal_ids": [
+    "sig-0420"
+  ],
+  "buy_points": [
+    28.4
+  ],
+  "signal_date": "2026-10-12",
+  "days": [
+    {
+      "date": "2026-10-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9e53a62cc31775f024775b821509409ae059c91ae8bb491853abed7015a9b301"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-09T17:07:35+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8552855521b12ec586d6224c3bc9f0d6ec9bdf5d21699de7a5d9460c88ba8b6d"
+    }
+  ],
+  "next_trade_date": "2026-10-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-09T17:07:35+08:00"
+}
