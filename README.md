@@ -73,6 +73,32 @@ python -m dipmethod_public_data.verify --require-all
 
 中文图表需要系统安装可用中文字体，例如思源黑体、Noto Sans CJK SC、微软雅黑或黑体；缺少字体时会明确报错。
 
+## 发布到 R2 和网站日历
+
+`publish` 将公开图片与日期索引发布到 R2，CSV 链接指向公开 GitHub 仓库中的固定提交。先将归档数据提交并推送到 GitHub，再用 Wrangler 登录并核对账户与目标桶：
+
+```sh
+# 生成本地发布计划，不上传；账户 ID 可从 wrangler whoami 查看。
+python -m dipmethod_public_data.publish --account-id YOUR_ACCOUNT_ID
+
+# 校验 GitHub 中对应 CSV 的内容，再上传图片，最后发布每日索引。
+python -m dipmethod_public_data.publish --account-id YOUR_ACCOUNT_ID --upload
+
+# 新增或重画某个出票日期后，仅发布该日期。
+python -m dipmethod_public_data.publish --account-id YOUR_ACCOUNT_ID --date 2026-07-22 --upload
+
+# 默认使用本地 HEAD；也可明确指定已推送的数据提交或分支。
+python -m dipmethod_public_data.publish --account-id YOUR_ACCOUNT_ID --github-ref codex/initial-archive --upload
+```
+
+默认目标为 `a-stock-images` 桶、`https://cdn.dipmethod.com`，可用 `--bucket` 和 `--cdn` 指定。凭证从本机 Wrangler 登录配置或 `CLOUDFLARE_API_TOKEN` 环境变量读取，不写入发布文件。若登录已过期，先用 Wrangler 刷新登录。
+
+图片位于 `intraday/出票日期/股票代码/行情日期-内容哈希.png`；重画后地址随内容变化，避免旧缓存。CSV 保留在本地和 GitHub，不再上传 R2。索引中的 CSV 引用包含仓库、完整提交 ID、文件路径和 SHA256；发布前会读取该提交的公开 GitHub 文件树，逐份核对 CSV 内容，尚未推送或内容不一致时停止发布，不自动推送 Git。
+
+每日索引为 `intraday/manifests/YYYY-MM-DD.json`，仅在 GitHub CSV 与图片校验完成后更新。重跑会复用 `.cache/r2-publish.json` 中已校验的图片；若远端图片被人为删除，可移走该本地检查点后重新上传和校验。发布命令不会自动删除 R2 中已有的文件。
+
+网站日历按当前所选日期读取索引，再校对信号 ID、日期、代码、名称和记录买点，展示当日与下一交易日分时图。未归档或记录更正后尚未重画的项目会显示说明；本项目未设置自动采集或自动发布任务。
+
 ## 字段与数据口径
 
 `signals.csv` 使用 UTF-8 BOM，股票代码保留交易所后缀，字段与网站公开接口一致：
