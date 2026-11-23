@@ -1,0 +1,48 @@
+{
+  "code": "002843.SZ",
+  "names": [
+    "泰嘉股份"
+  ],
+  "signal_ids": [
+    "sig-0477"
+  ],
+  "buy_points": [
+    15.95
+  ],
+  "signal_date": "2026-11-19",
+  "days": [
+    {
+      "date": "2026-11-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:41:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "06b97690d30c6365dc0e9fd397a907c37ceb10c5625c57b34af3a5410c00bb91"
+    },
+    {
+      "date": "2026-11-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:41:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "622c6dfc579da0e2ca109dbe3df56c3fc49dd37f2e8017f18c693db3ffb64a3c"
+    }
+  ],
+  "next_trade_date": "2026-11-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:41:07+08:00"
+}

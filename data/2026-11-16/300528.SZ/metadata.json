@@ -1,0 +1,48 @@
+{
+  "code": "300528.SZ",
+  "names": [
+    "幸福蓝海"
+  ],
+  "signal_ids": [
+    "sig-0471"
+  ],
+  "buy_points": [
+    16.74
+  ],
+  "signal_date": "2026-11-16",
+  "days": [
+    {
+      "date": "2026-11-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f8659937449e4f40d7c047c79f677179f1a0dc3689d0010db225e8fe129b3c50"
+    },
+    {
+      "date": "2026-11-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:46+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d3f9f19b4c3ff7b32659235f1f6830d9d506ba412f15d868a1c8f3b23bff48c8"
+    }
+  ],
+  "next_trade_date": "2026-11-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:46+08:00"
+}

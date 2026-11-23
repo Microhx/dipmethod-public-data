@@ -1,0 +1,48 @@
+{
+  "code": "601599.SH",
+  "names": [
+    "浙文影业"
+  ],
+  "signal_ids": [
+    "sig-0462"
+  ],
+  "buy_points": [
+    4.83
+  ],
+  "signal_date": "2026-11-09",
+  "days": [
+    {
+      "date": "2026-11-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9b5a7302d5247c9378af9d0795f50efd97508d8862387f10c98df0d09391085b"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:07+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "5da6afedd400d7d22cb997246186ad8c3ae72119f58021908fc18368cecacf67"
+    }
+  ],
+  "next_trade_date": "2026-11-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:08+08:00"
+}

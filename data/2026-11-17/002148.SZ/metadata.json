@@ -1,0 +1,48 @@
+{
+  "code": "002148.SZ",
+  "names": [
+    "北纬科技"
+  ],
+  "signal_ids": [
+    "sig-0473"
+  ],
+  "buy_points": [
+    8
+  ],
+  "signal_date": "2026-11-17",
+  "days": [
+    {
+      "date": "2026-11-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8abbcdf8681e9303bf38b79b690923684dc564d19ebee3e16fff43c861fc951f"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:52+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2068560c6d7ca5e0e449729a3e027e28302cd9ff385579f204029b578e332fe2"
+    }
+  ],
+  "next_trade_date": "2026-11-18",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:53+08:00"
+}

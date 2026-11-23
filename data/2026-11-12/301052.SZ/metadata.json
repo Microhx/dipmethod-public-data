@@ -1,0 +1,48 @@
+{
+  "code": "301052.SZ",
+  "names": [
+    "果麦文化"
+  ],
+  "signal_ids": [
+    "sig-0468"
+  ],
+  "buy_points": [
+    44.7
+  ],
+  "signal_date": "2026-11-12",
+  "days": [
+    {
+      "date": "2026-11-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "8d298ef454f9e8826e85be044646891dc8a3bd165372d87b544079edac6ee5a4"
+    },
+    {
+      "date": "2026-11-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:33+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "43d3fda8cc48a6cc87ab485ee7ecad34bc0be3f421140f1d0ea4c5892ef963ae"
+    }
+  ],
+  "next_trade_date": "2026-11-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:33+08:00"
+}

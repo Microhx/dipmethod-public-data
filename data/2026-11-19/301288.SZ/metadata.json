@@ -1,0 +1,48 @@
+{
+  "code": "301288.SZ",
+  "names": [
+    "清研环境"
+  ],
+  "signal_ids": [
+    "sig-0476"
+  ],
+  "buy_points": [
+    19.12
+  ],
+  "signal_date": "2026-11-19",
+  "days": [
+    {
+      "date": "2026-11-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:41:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "dbb6076c58f5c9a9f4da7bd31406f1837a3b391bbf92f55c55430558880c3580"
+    },
+    {
+      "date": "2026-11-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:41:04+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "83982f03a64289571327228811df715f5ec42a42072e8b0b4a0d698510484cf0"
+    }
+  ],
+  "next_trade_date": "2026-11-20",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:41:04+08:00"
+}

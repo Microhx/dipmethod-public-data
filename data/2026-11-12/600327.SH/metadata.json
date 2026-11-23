@@ -1,0 +1,48 @@
+{
+  "code": "600327.SH",
+  "names": [
+    "大东方"
+  ],
+  "signal_ids": [
+    "sig-0467"
+  ],
+  "buy_points": [
+    6.21
+  ],
+  "signal_date": "2026-11-12",
+  "days": [
+    {
+      "date": "2026-11-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "6aa55cbdf03ebd1f4bd3d747041391e6cff4ffa0debeb5733a1910ed33e2c51c"
+    },
+    {
+      "date": "2026-11-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:27+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a500003bb60dbbfe8b71e31cd104cd4086f6007b3b8ad53b75c930c495c27e31"
+    }
+  ],
+  "next_trade_date": "2026-11-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:27+08:00"
+}

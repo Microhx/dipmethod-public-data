@@ -1,0 +1,48 @@
+{
+  "code": "300949.SZ",
+  "names": [
+    "奥雅股份"
+  ],
+  "signal_ids": [
+    "sig-0461"
+  ],
+  "buy_points": [
+    52.3
+  ],
+  "signal_date": "2026-11-09",
+  "days": [
+    {
+      "date": "2026-11-09",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "bcc51bf001668f8d925cd0721d2964868b451997e6d6806cb11743da38439a9a"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:05+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c61f93ab981dd1fba07247b90474f818bf6319974c1dd5f725d8b7d3784874d4"
+    }
+  ],
+  "next_trade_date": "2026-11-10",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:06+08:00"
+}

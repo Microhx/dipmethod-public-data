@@ -1,0 +1,48 @@
+{
+  "code": "601595.SH",
+  "names": [
+    "上海电影"
+  ],
+  "signal_ids": [
+    "sig-0469"
+  ],
+  "buy_points": [
+    43.15
+  ],
+  "signal_date": "2026-11-12",
+  "days": [
+    {
+      "date": "2026-11-12",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d91f0e59eb5eb63400af6567903f8b07f9f492f201afe447a36720eff910f212"
+    },
+    {
+      "date": "2026-11-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:38+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c89f2def3ba2ad3b96fa83517ec60461f2a258d2ff4bc1f7ccc3d30bb6339805"
+    }
+  ],
+  "next_trade_date": "2026-11-13",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:38+08:00"
+}

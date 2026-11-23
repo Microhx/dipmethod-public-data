@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-11-12",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-23T20:40:01+08:00",
+  "first_archived_at": "2026-11-23T20:40:25+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "600327.SH",
+      "code": "600327.SH",
+      "names": [
+        "大东方"
+      ],
+      "signal_ids": [
+        "sig-0467"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301052.SZ",
+      "code": "301052.SZ",
+      "names": [
+        "果麦文化"
+      ],
+      "signal_ids": [
+        "sig-0468"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "601595.SH",
+      "code": "601595.SH",
+      "names": [
+        "上海电影"
+      ],
+      "signal_ids": [
+        "sig-0469"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

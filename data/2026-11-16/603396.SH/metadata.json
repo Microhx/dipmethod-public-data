@@ -1,0 +1,48 @@
+{
+  "code": "603396.SH",
+  "names": [
+    "金辰股份"
+  ],
+  "signal_ids": [
+    "sig-0472"
+  ],
+  "buy_points": [
+    32.15
+  ],
+  "signal_date": "2026-11-16",
+  "days": [
+    {
+      "date": "2026-11-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "aa03f2fb0794290c1f29f2f7b2b8d30393d57b488b4072c4cd6b8e6e7f5dbe99"
+    },
+    {
+      "date": "2026-11-17",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:48+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "c9614c81026521511a34ea12907f29cd556243dc6fed009f517453cba299bac6"
+    }
+  ],
+  "next_trade_date": "2026-11-17",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:48+08:00"
+}

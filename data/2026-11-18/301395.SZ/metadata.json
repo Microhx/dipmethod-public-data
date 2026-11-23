@@ -1,0 +1,48 @@
+{
+  "code": "301395.SZ",
+  "names": [
+    "仁信新材"
+  ],
+  "signal_ids": [
+    "sig-0474"
+  ],
+  "buy_points": [
+    16.55
+  ],
+  "signal_date": "2026-11-18",
+  "days": [
+    {
+      "date": "2026-11-18",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "610b4fc81f58d6f229a2127f0263fe3686f25990617918759733bba9ab683afb"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:56+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b374fdfc5bef64711ee08598cbcf961d4bd9cea8489d699a44851a5f2909f581"
+    }
+  ],
+  "next_trade_date": "2026-11-19",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:56+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "000525.SZ",
+  "names": [
+    "红太阳"
+  ],
+  "signal_ids": [
+    "sig-0464"
+  ],
+  "buy_points": [
+    5.33
+  ],
+  "signal_date": "2026-11-10",
+  "days": [
+    {
+      "date": "2026-11-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "3dfa13ea7fc7895e065fce22cb82de30eb279c5b461a90ab7ba5887358cf467c"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:17+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "1146a96036a2a1e6cb56f49c1285e890b4b11aae494d8e0749bac8e0064c038f"
+    }
+  ],
+  "next_trade_date": "2026-11-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:17+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-11-16",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-23T20:40:01+08:00",
+  "first_archived_at": "2026-11-23T20:40:43+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300528.SZ",
+      "code": "300528.SZ",
+      "names": [
+        "幸福蓝海"
+      ],
+      "signal_ids": [
+        "sig-0471"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "603396.SH",
+      "code": "603396.SH",
+      "names": [
+        "金辰股份"
+      ],
+      "signal_ids": [
+        "sig-0472"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

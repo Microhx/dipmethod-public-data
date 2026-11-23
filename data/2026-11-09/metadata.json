@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-11-09",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-23T20:40:01+08:00",
+  "first_archived_at": "2026-11-23T20:40:02+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "300949.SZ",
+      "code": "300949.SZ",
+      "names": [
+        "奥雅股份"
+      ],
+      "signal_ids": [
+        "sig-0461"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "601599.SH",
+      "code": "601599.SH",
+      "names": [
+        "浙文影业"
+      ],
+      "signal_ids": [
+        "sig-0462"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301697.SZ",
+      "code": "301697.SZ",
+      "names": [
+        "贝特利"
+      ],
+      "signal_ids": [
+        "sig-0463"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

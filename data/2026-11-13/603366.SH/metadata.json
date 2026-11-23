@@ -1,0 +1,48 @@
+{
+  "code": "603366.SH",
+  "names": [
+    "日出东方"
+  ],
+  "signal_ids": [
+    "sig-0470"
+  ],
+  "buy_points": [
+    12.15
+  ],
+  "signal_date": "2026-11-13",
+  "days": [
+    {
+      "date": "2026-11-13",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "7c5c095552e29a6fc7ec9f1a33316ceb54f4fb4e374d49dc50b44c57bd088261"
+    },
+    {
+      "date": "2026-11-16",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:43+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "f7afc1d8bbc47c16a9146e0b2e832b5f25aade7cfa82defc08966872fd72bf6e"
+    }
+  ],
+  "next_trade_date": "2026-11-16",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:43+08:00"
+}

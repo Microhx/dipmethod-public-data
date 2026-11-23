@@ -1,0 +1,48 @@
+{
+  "code": "002724.SZ",
+  "names": [
+    "海洋王"
+  ],
+  "signal_ids": [
+    "sig-0465"
+  ],
+  "buy_points": [
+    12.56
+  ],
+  "signal_date": "2026-11-10",
+  "days": [
+    {
+      "date": "2026-11-10",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "a47a3f334e1a04e896c8eee649a6e2190923fae5c856eaf32a8f4da255dbd873"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:40:20+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "9145104e7a4dfc9f36337f1cb36e3f8e7d90160598bc554711a8da8f45a1702e"
+    }
+  ],
+  "next_trade_date": "2026-11-11",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:40:21+08:00"
+}

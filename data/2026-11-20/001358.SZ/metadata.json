@@ -1,0 +1,48 @@
+{
+  "code": "001358.SZ",
+  "names": [
+    "兴欣新材"
+  ],
+  "signal_ids": [
+    "sig-0478"
+  ],
+  "buy_points": [
+    26.08
+  ],
+  "signal_date": "2026-11-20",
+  "days": [
+    {
+      "date": "2026-11-20",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:41:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d58cae10d1a7173d69005dbeee46db626dc626f5f1972fc8647d7f70267696db"
+    },
+    {
+      "date": "2026-11-23",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-23T20:41:09+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "06e9a7c03cdce7e88584ae3bc6490878966c00abab5f886d374c9fe43b10f100"
+    }
+  ],
+  "next_trade_date": "2026-11-23",
+  "status": "complete",
+  "first_archived_at": "2026-11-23T20:41:09+08:00"
+}
