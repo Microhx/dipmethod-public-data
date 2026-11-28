@@ -1,0 +1,48 @@
+{
+  "code": "301391.SZ",
+  "names": [
+    "卡莱特"
+  ],
+  "signal_ids": [
+    "sig-0482"
+  ],
+  "buy_points": [
+    53.6
+  ],
+  "signal_date": "2026-11-24",
+  "days": [
+    {
+      "date": "2026-11-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "aa18fa7b40ee553941ac0eb089c2a1d768950fdb8a8b24d7db5a096908836709"
+    },
+    {
+      "date": "2026-11-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:18+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "021c589b72cd44cb4ad7cbe63c95c66e2acd2fa204c287cc3625aa9693a2a127"
+    }
+  ],
+  "next_trade_date": "2026-11-25",
+  "status": "complete",
+  "first_archived_at": "2026-11-28T12:00:18+08:00"
+}

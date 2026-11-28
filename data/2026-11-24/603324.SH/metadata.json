@@ -1,0 +1,48 @@
+{
+  "code": "603324.SH",
+  "names": [
+    "盛剑科技"
+  ],
+  "signal_ids": [
+    "sig-0480"
+  ],
+  "buy_points": [
+    28.34
+  ],
+  "signal_date": "2026-11-24",
+  "days": [
+    {
+      "date": "2026-11-24",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "48033777438ba54a96ba2c356b5625c8836a9d8d03ca97cdcd0133a4fbff1155"
+    },
+    {
+      "date": "2026-11-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:11+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "af9e28d6011d32d1ba84bbbd2056c7cb71a7920b9ebe94bd60795ac4ae3d07af"
+    }
+  ],
+  "next_trade_date": "2026-11-25",
+  "status": "complete",
+  "first_archived_at": "2026-11-28T12:00:11+08:00"
+}

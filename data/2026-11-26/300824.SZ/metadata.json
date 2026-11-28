@@ -1,0 +1,48 @@
+{
+  "code": "300824.SZ",
+  "names": [
+    "北鼎股份"
+  ],
+  "signal_ids": [
+    "sig-0487"
+  ],
+  "buy_points": [
+    9.05
+  ],
+  "signal_date": "2026-11-26",
+  "days": [
+    {
+      "date": "2026-11-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d73e47afa4a1510a509d36ceeb79ecd3b7e79c1cfe691613e263de21badcccb1"
+    },
+    {
+      "date": "2026-11-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:34+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "0e0b2964ede32235182140db6861b3e18fbef48cf0c57e775683953f25a90143"
+    }
+  ],
+  "next_trade_date": "2026-11-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-28T12:00:34+08:00"
+}

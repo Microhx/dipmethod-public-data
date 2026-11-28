@@ -1,0 +1,48 @@
+{
+  "code": "301575.SZ",
+  "names": [
+    "艾芬达"
+  ],
+  "signal_ids": [
+    "sig-0484"
+  ],
+  "buy_points": [
+    30.8
+  ],
+  "signal_date": "2026-11-25",
+  "days": [
+    {
+      "date": "2026-11-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "b24ffcd0432b89e6fb07bca7f065d6164e2899e7c6997f20e6f452b135bb6502"
+    },
+    {
+      "date": "2026-11-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:26+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "d763ee93de60e8b3d4215dd0d826c6a04e44d7279a104b76a75dda9ca12d0c6b"
+    }
+  ],
+  "next_trade_date": "2026-11-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-28T12:00:26+08:00"
+}

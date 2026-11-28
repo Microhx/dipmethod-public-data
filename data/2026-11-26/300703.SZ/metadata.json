@@ -1,0 +1,48 @@
+{
+  "code": "300703.SZ",
+  "names": [
+    "创源股份"
+  ],
+  "signal_ids": [
+    "sig-0486"
+  ],
+  "buy_points": [
+    15.34
+  ],
+  "signal_date": "2026-11-26",
+  "days": [
+    {
+      "date": "2026-11-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4b38a08605a144d3538ef640a8481e03c90145552d8771a550609b8d408d1c25"
+    },
+    {
+      "date": "2026-11-27",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:31+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "2b7830d53a6e5c97e974d4772905915d8de2c8ca6a73ac4c2abd0fcb07393623"
+    }
+  ],
+  "next_trade_date": "2026-11-27",
+  "status": "complete",
+  "first_archived_at": "2026-11-28T12:00:31+08:00"
+}

@@ -1,0 +1,45 @@
+{
+  "signal_date": "2026-11-24",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-28T12:00:05+08:00",
+  "first_archived_at": "2026-11-28T12:00:07+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 3,
+  "stocks": [
+    {
+      "folder": "603324.SH",
+      "code": "603324.SH",
+      "names": [
+        "盛剑科技"
+      ],
+      "signal_ids": [
+        "sig-0480"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300721.SZ",
+      "code": "300721.SZ",
+      "names": [
+        "怡达股份"
+      ],
+      "signal_ids": [
+        "sig-0481"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "301391.SZ",
+      "code": "301391.SZ",
+      "names": [
+        "卡莱特"
+      ],
+      "signal_ids": [
+        "sig-0482"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}

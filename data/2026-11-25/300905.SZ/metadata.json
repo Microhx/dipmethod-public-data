@@ -1,0 +1,48 @@
+{
+  "code": "300905.SZ",
+  "names": [
+    "宝丽迪"
+  ],
+  "signal_ids": [
+    "sig-0485"
+  ],
+  "buy_points": [
+    31.67
+  ],
+  "signal_date": "2026-11-25",
+  "days": [
+    {
+      "date": "2026-11-25",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "dd4826a60c5f0e2eb5943c46ee7470ea66fa57b100e2f609a158b8e79397a564"
+    },
+    {
+      "date": "2026-11-26",
+      "status": "complete",
+      "rows": 241,
+      "missing_labels": [],
+      "unexpected_labels": [],
+      "source": {
+        "provider": "智兔 API Pro",
+        "fetched_at": "2026-11-28T12:00:28+08:00",
+        "period": "1m",
+        "adjustment": "n",
+        "timezone": "Asia/Shanghai"
+      },
+      "sha256": "4e7461927f79e6b6b05158563aed77c68fb0e00ac3384588e1f200fac2161bf2"
+    }
+  ],
+  "next_trade_date": "2026-11-26",
+  "status": "complete",
+  "first_archived_at": "2026-11-28T12:00:28+08:00"
+}

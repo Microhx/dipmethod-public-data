@@ -1,0 +1,34 @@
+{
+  "signal_date": "2026-11-26",
+  "source_url": "https://dipmethod.com/api/signals",
+  "signals_fetched_at": "2026-11-28T12:00:05+08:00",
+  "first_archived_at": "2026-11-28T12:00:28+08:00",
+  "archive_type": "historical_import",
+  "timezone": "Asia/Shanghai",
+  "signal_count": 2,
+  "stocks": [
+    {
+      "folder": "300703.SZ",
+      "code": "300703.SZ",
+      "names": [
+        "创源股份"
+      ],
+      "signal_ids": [
+        "sig-0486"
+      ],
+      "status": "complete"
+    },
+    {
+      "folder": "300824.SZ",
+      "code": "300824.SZ",
+      "names": [
+        "北鼎股份"
+      ],
+      "signal_ids": [
+        "sig-0487"
+      ],
+      "status": "complete"
+    }
+  ],
+  "previous_stock_folders": []
+}
